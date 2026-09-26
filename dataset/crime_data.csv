@@ -1,0 +1,1201 @@
+crimeId,crimeType,description,date,time,location,city,state,latitude,longitude,severity,caseStatus,reportingSource
+CR-00001,Robbery,Street robbery of pedestrian,2022-02-21,23:17,Worli,Mumbai,Maharashtra,18.941861,72.815374,High,Solved,Police Station
+CR-00002,Fraud,Banking fraud through phishing,2022-07-11,06:14,Nehru Place,Delhi,Delhi,28.507961,77.109651,High,Solved,CCTV Surveillance
+CR-00003,Burglary,Shop burglary with forced entry,2022-01-14,05:44,Salt Lake,Kolkata,West Bengal,22.505574,88.332297,High,Under Investigation,Emergency Call
+CR-00004,Burglary,Residential burglary while occupants away,2023-06-26,01:46,Madhapur,Hyderabad,Telangana,17.324965,78.534459,Low,Solved,CCTV Surveillance
+CR-00005,Robbery,ATM booth robbery attempt,2022-05-23,01:42,Alambagh,Lucknow,Uttar Pradesh,26.820514,80.891171,Medium,Under Investigation,Emergency Call
+CR-00006,Fraud,Credit card fraud reported,2024-01-29,11:13,MG Road,Bengaluru,Karnataka,13.040364,77.63671,Low,Pending,Online Portal
+CR-00007,Fraud,Banking fraud through phishing,2024-02-17,08:59,T Nagar,Chennai,Tamil Nadu,13.06139,80.252692,High,Closed,Emergency Call
+CR-00008,Drug-related,Controlled substance found during patrol,2023-07-03,02:13,Kothrud,Pune,Maharashtra,18.535077,73.907687,Medium,Solved,Emergency Call
+CR-00009,Burglary,Warehouse burglary overnight,2023-05-21,23:35,Marathahalli,Bengaluru,Karnataka,13.049403,77.585687,High,Solved,Police Station
+CR-00010,Robbery,Robbery at petrol pump late night,2022-08-13,04:40,Dwarka,Delhi,Delhi,28.704144,77.228923,Medium,Pending,CCTV Surveillance
+CR-00011,Burglary,Shop burglary with forced entry,2022-08-23,21:56,Connaught Place,Delhi,Delhi,28.580048,77.242289,Low,Solved,Emergency Call
+CR-00012,Theft,Purse snatching near market area,2023-01-01,16:58,Malviya Nagar,Jaipur,Rajasthan,26.920048,75.854667,Medium,Under Investigation,CCTV Surveillance
+CR-00013,Assault,Assault during traffic dispute,2022-01-02,19:20,MI Road,Jaipur,Rajasthan,26.837899,75.778077,Critical,Closed,Online Portal
+CR-00014,Burglary,Shop burglary with forced entry,2022-06-11,02:46,Navrangpura,Ahmedabad,Gujarat,23.006921,72.62606,High,Under Investigation,Emergency Call
+CR-00015,Fraud,Real estate fraud complaint,2024-05-16,06:59,Sodala,Jaipur,Rajasthan,26.936789,75.752184,Medium,Closed,CCTV Surveillance
+CR-00016,Theft,Mobile phone stolen from crowded area,2022-09-05,07:14,Adyar,Chennai,Tamil Nadu,12.954207,80.233088,Medium,Under Investigation,Police Station
+CR-00017,Robbery,Street robbery of pedestrian,2023-11-08,02:32,Nehru Place,Delhi,Delhi,28.700693,77.114271,Medium,Closed,Online Portal
+CR-00018,Theft,Mobile phone stolen from crowded area,2024-04-13,06:06,T Nagar,Chennai,Tamil Nadu,13.03621,80.213537,Medium,Pending,Citizen Report
+CR-00019,Theft,Mobile phone stolen from crowded area,2022-08-12,07:12,Begumpet,Hyderabad,Telangana,17.389723,78.434376,Low,Under Investigation,CCTV Surveillance
+CR-00020,Cybercrime,Online scam through fake website,2022-04-14,20:34,Malad,Mumbai,Maharashtra,19.190699,72.938955,High,Under Investigation,Online Portal
+CR-00021,Theft,Jewelry theft from residence,2022-05-01,05:24,Aundh,Pune,Maharashtra,18.508563,73.938978,High,Solved,Online Portal
+CR-00022,Fraud,Credit card fraud reported,2023-08-31,06:03,Gomti Nagar,Lucknow,Uttar Pradesh,26.855907,80.984717,Low,Pending,Police Station
+CR-00023,Assault,Assault during traffic dispute,2022-06-14,05:04,MI Road,Jaipur,Rajasthan,26.928034,75.757633,Low,Closed,CCTV Surveillance
+CR-00024,Assault,Group clash at public event,2024-05-08,21:37,Worli,Mumbai,Maharashtra,18.994911,72.839115,High,Solved,Online Portal
+CR-00025,Cybercrime,Social media account hacked,2024-07-25,10:59,New Town,Kolkata,West Bengal,22.464509,88.368743,Critical,Closed,CCTV Surveillance
+CR-00026,Theft,Purse snatching near market area,2022-09-29,11:56,Park Street,Kolkata,West Bengal,22.498857,88.342748,Medium,Solved,CCTV Surveillance
+CR-00027,Theft,Purse snatching near market area,2022-08-01,04:16,New Town,Kolkata,West Bengal,22.471407,88.382984,Low,Pending,Emergency Call
+CR-00028,Other,Trespassing on private property,2024-09-27,08:57,Malviya Nagar,Jaipur,Rajasthan,26.828128,75.821486,High,Under Investigation,Emergency Call
+CR-00029,Burglary,Residential burglary while occupants away,2024-06-23,17:45,Koramangala,Bengaluru,Karnataka,12.901934,77.515049,Critical,Closed,Emergency Call
+CR-00030,Theft,Purse snatching near market area,2022-10-31,13:08,Satellite,Ahmedabad,Gujarat,23.036465,72.643309,Critical,Under Investigation,Online Portal
+CR-00031,Drug-related,Drug distribution network reported,2023-12-26,17:56,Dadar,Mumbai,Maharashtra,19.192151,72.912422,Critical,Under Investigation,Citizen Report
+CR-00032,Robbery,ATM booth robbery attempt,2023-01-03,23:59,Karol Bagh,Delhi,Delhi,28.779245,77.290671,Critical,Closed,Police Station
+CR-00033,Theft,Laptop theft from parked vehicle,2022-03-21,15:14,Koregaon Park,Pune,Maharashtra,18.587768,73.852449,High,Closed,Online Portal
+CR-00034,Theft,Jewelry theft from residence,2023-11-04,08:55,Shivaji Nagar,Pune,Maharashtra,18.565999,73.852672,Medium,Pending,Police Station
+CR-00035,Other,Trespassing on private property,2023-06-19,05:37,Worli,Mumbai,Maharashtra,18.97964,72.81626,Low,Pending,CCTV Surveillance
+CR-00036,Vandalism,Street light poles damaged,2022-08-25,12:57,Mansarovar,Jaipur,Rajasthan,26.860756,75.833406,Low,Closed,Emergency Call
+CR-00037,Robbery,ATM booth robbery attempt,2022-05-24,21:58,Baner,Pune,Maharashtra,18.497087,73.927202,High,Solved,Emergency Call
+CR-00038,Theft,Jewelry theft from residence,2023-08-29,17:08,Hadapsar,Pune,Maharashtra,18.549739,73.856872,Medium,Under Investigation,Citizen Report
+CR-00039,Theft,Laptop theft from parked vehicle,2022-01-01,09:18,Sodala,Jaipur,Rajasthan,26.945721,75.817066,Low,Solved,Online Portal
+CR-00040,Fraud,Banking fraud through phishing,2023-08-05,16:42,Colaba,Mumbai,Maharashtra,19.000556,72.922764,High,Pending,Online Portal
+CR-00041,Fraud,Insurance claim fraud detected,2022-04-05,07:30,Nehru Place,Delhi,Delhi,28.730547,77.186625,High,Pending,Citizen Report
+CR-00042,Theft,Laptop theft from parked vehicle,2022-10-30,20:44,Alambagh,Lucknow,Uttar Pradesh,26.885135,80.987806,Low,Solved,Police Station
+CR-00043,Theft,Bicycle theft from residential area,2023-05-26,03:29,Tonk Road,Jaipur,Rajasthan,26.894343,75.804981,Medium,Solved,CCTV Surveillance
+CR-00044,Burglary,Residential burglary while occupants away,2022-11-22,23:55,Porur,Chennai,Tamil Nadu,13.001838,80.187086,High,Closed,Online Portal
+CR-00045,Robbery,Highway robbery of commercial vehicle,2024-06-19,02:45,Gariahat,Kolkata,West Bengal,22.504343,88.347956,High,Under Investigation,Online Portal
+CR-00046,Robbery,Street robbery of pedestrian,2022-05-12,13:26,Hazratganj,Lucknow,Uttar Pradesh,26.845229,80.888717,Critical,Solved,CCTV Surveillance
+CR-00047,Robbery,Street robbery of pedestrian,2024-09-03,00:22,Viman Nagar,Pune,Maharashtra,18.508498,73.933746,Critical,Solved,Citizen Report
+CR-00048,Theft,Bicycle theft from residential area,2023-07-13,13:31,Gomti Nagar,Lucknow,Uttar Pradesh,26.827058,80.97508,Medium,Under Investigation,CCTV Surveillance
+CR-00049,Vandalism,Public property damaged,2022-02-25,12:37,C-Scheme,Jaipur,Rajasthan,26.824336,75.82284,Low,Solved,Citizen Report
+CR-00050,Robbery,Armed robbery at convenience store,2023-03-10,14:20,Begumpet,Hyderabad,Telangana,17.475928,78.405651,Critical,Solved,Police Station
+CR-00051,Fraud,Banking fraud through phishing,2022-04-17,11:14,MI Road,Jaipur,Rajasthan,26.944997,75.824281,High,Closed,CCTV Surveillance
+CR-00052,Assault,Assault during traffic dispute,2023-05-04,04:30,Whitefield,Bengaluru,Karnataka,13.012794,77.543593,High,Closed,Online Portal
+CR-00053,Drug-related,Drug distribution network reported,2022-08-10,18:01,Salt Lake,Kolkata,West Bengal,22.565159,88.436204,Medium,Closed,CCTV Surveillance
+CR-00054,Robbery,Armed robbery at convenience store,2022-07-28,22:49,Mahanagar,Lucknow,Uttar Pradesh,26.875796,80.992774,High,Pending,CCTV Surveillance
+CR-00055,Assault,Group clash at public event,2024-01-29,02:32,Aundh,Pune,Maharashtra,18.451898,73.863009,Medium,Solved,Online Portal
+CR-00056,Other,Public nuisance reported,2022-12-27,23:33,Hadapsar,Pune,Maharashtra,18.490512,73.92123,Medium,Solved,Emergency Call
+CR-00057,Vandalism,Park bench and fixtures destroyed,2022-06-27,08:56,Mahanagar,Lucknow,Uttar Pradesh,26.885067,80.959779,Medium,Solved,Online Portal
+CR-00058,Robbery,Street robbery of pedestrian,2023-03-11,11:51,Adyar,Chennai,Tamil Nadu,13.005932,80.239423,Critical,Pending,Police Station
+CR-00059,Fraud,Online shopping fraud reported,2024-04-12,15:35,Indira Nagar,Lucknow,Uttar Pradesh,26.876685,80.970426,Medium,Closed,Online Portal
+CR-00060,Fraud,Real estate fraud complaint,2023-05-14,09:42,Shivaji Nagar,Pune,Maharashtra,18.520989,73.879638,Medium,Pending,Citizen Report
+CR-00061,Theft,Laptop theft from parked vehicle,2023-09-20,08:14,New Town,Kolkata,West Bengal,22.488517,88.317933,Medium,Closed,Online Portal
+CR-00062,Other,Illegal parking dispute,2023-07-21,23:37,Mylapore,Chennai,Tamil Nadu,13.054927,80.19245,Low,Under Investigation,Online Portal
+CR-00063,Theft,Bicycle theft from residential area,2022-01-29,22:34,Salt Lake,Kolkata,West Bengal,22.459103,88.308179,Low,Closed,Police Station
+CR-00064,Assault,Physical altercation near pub area,2023-08-06,15:30,Bodakdev,Ahmedabad,Gujarat,23.018436,72.555138,Critical,Solved,Citizen Report
+CR-00065,Cybercrime,Online scam through fake website,2022-04-20,04:09,Colaba,Mumbai,Maharashtra,19.184738,72.812777,Low,Pending,CCTV Surveillance
+CR-00066,Cybercrime,Social media account hacked,2024-07-11,14:19,Viman Nagar,Pune,Maharashtra,18.598505,73.845807,High,Pending,Online Portal
+CR-00067,Robbery,ATM booth robbery attempt,2022-06-16,05:15,Park Street,Kolkata,West Bengal,22.465013,88.300401,High,Pending,Online Portal
+CR-00068,Burglary,Warehouse burglary overnight,2023-08-03,22:55,Gariahat,Kolkata,West Bengal,22.587477,88.438587,High,Pending,Police Station
+CR-00069,Drug-related,Anonymous tip about drug activity,2023-04-06,20:09,C-Scheme,Jaipur,Rajasthan,26.952261,75.731426,Medium,Solved,Citizen Report
+CR-00070,Vandalism,Public property damaged,2024-08-17,22:19,Worli,Mumbai,Maharashtra,19.182803,72.875071,Low,Under Investigation,Emergency Call
+CR-00071,Robbery,ATM booth robbery attempt,2023-05-28,00:05,CG Road,Ahmedabad,Gujarat,23.06743,72.636052,High,Under Investigation,Online Portal
+CR-00072,Drug-related,Illegal substance possession,2024-11-28,20:28,Porur,Chennai,Tamil Nadu,12.986298,80.237799,High,Solved,Emergency Call
+CR-00073,Theft,Bicycle theft from residential area,2023-11-14,10:42,Koregaon Park,Pune,Maharashtra,18.474124,73.861747,Medium,Pending,Citizen Report
+CR-00074,Theft,Jewelry theft from residence,2023-10-07,08:20,Malad,Mumbai,Maharashtra,19.131764,72.929737,High,Under Investigation,Citizen Report
+CR-00075,Fraud,Banking fraud through phishing,2023-01-20,16:23,Dwarka,Delhi,Delhi,28.649548,77.182612,Low,Solved,Citizen Report
+CR-00076,Assault,Physical altercation near pub area,2022-09-06,00:40,Adyar,Chennai,Tamil Nadu,12.997859,80.173757,High,Pending,Police Station
+CR-00077,Theft,Bicycle theft from residential area,2022-08-29,20:53,Porur,Chennai,Tamil Nadu,13.136531,80.193779,Medium,Solved,Online Portal
+CR-00078,Drug-related,Controlled substance found during patrol,2022-10-24,12:12,Mylapore,Chennai,Tamil Nadu,13.051648,80.281899,Critical,Solved,CCTV Surveillance
+CR-00079,Robbery,Street robbery of pedestrian,2022-01-06,09:46,Behala,Kolkata,West Bengal,22.567388,88.449835,High,Under Investigation,Emergency Call
+CR-00080,Robbery,Robbery at petrol pump late night,2024-02-12,14:59,Banjara Hills,Hyderabad,Telangana,17.33773,78.4895,High,Under Investigation,Emergency Call
+CR-00081,Cybercrime,Phishing email leading to data loss,2024-02-20,12:42,Mylapore,Chennai,Tamil Nadu,13.080404,80.172816,Critical,Under Investigation,Police Station
+CR-00082,Assault,Domestic dispute escalation reported,2022-07-24,16:58,Tambaram,Chennai,Tamil Nadu,13.094489,80.211497,High,Under Investigation,Emergency Call
+CR-00083,Cybercrime,Online scam through fake website,2024-03-25,20:05,CG Road,Ahmedabad,Gujarat,23.085234,72.635934,Medium,Solved,CCTV Surveillance
+CR-00084,Drug-related,Illegal substance possession,2023-04-26,20:43,Malad,Mumbai,Maharashtra,19.199228,72.912015,Medium,Under Investigation,Online Portal
+CR-00085,Cybercrime,Phishing email leading to data loss,2022-03-01,01:20,Howrah,Kolkata,West Bengal,22.508674,88.356226,Low,Solved,Online Portal
+CR-00086,Burglary,Office break-in during weekend,2022-06-11,19:55,Marathahalli,Bengaluru,Karnataka,13.036627,77.599533,High,Under Investigation,Emergency Call
+CR-00087,Fraud,Insurance claim fraud detected,2024-08-10,09:43,Dwarka,Delhi,Delhi,28.522159,77.333571,Critical,Solved,Citizen Report
+CR-00088,Assault,Group clash at public event,2023-02-12,12:54,Park Street,Kolkata,West Bengal,22.497441,88.385788,High,Closed,Citizen Report
+CR-00089,Vandalism,Graffiti on commercial building,2022-01-17,18:55,New Town,Kolkata,West Bengal,22.598934,88.307357,Medium,Solved,CCTV Surveillance
+CR-00090,Vandalism,Public property damaged,2023-03-25,20:12,Banjara Hills,Hyderabad,Telangana,17.435553,78.494186,Medium,Closed,Emergency Call
+CR-00091,Fraud,Banking fraud through phishing,2022-03-10,18:23,Mylapore,Chennai,Tamil Nadu,12.968027,80.194267,High,Under Investigation,CCTV Surveillance
+CR-00092,Drug-related,Illegal substance possession,2023-07-13,05:16,Sodala,Jaipur,Rajasthan,26.97107,75.874781,Medium,Closed,Police Station
+CR-00093,Vandalism,Park bench and fixtures destroyed,2023-04-08,21:46,Koramangala,Bengaluru,Karnataka,12.979482,77.669149,Medium,Under Investigation,Emergency Call
+CR-00094,Fraud,Online shopping fraud reported,2022-09-11,14:23,Mansarovar,Jaipur,Rajasthan,26.927575,75.81353,High,Closed,Citizen Report
+CR-00095,Vandalism,Public property damaged,2023-11-03,19:14,Karol Bagh,Delhi,Delhi,28.690621,77.18928,Medium,Pending,Police Station
+CR-00096,Theft,Jewelry theft from residence,2023-09-16,15:07,Lajpat Nagar,Delhi,Delhi,28.766178,77.090699,Medium,Pending,CCTV Surveillance
+CR-00097,Cybercrime,Ransomware attack on business,2024-04-29,20:06,Marathahalli,Bengaluru,Karnataka,13.02313,77.687811,Medium,Pending,Citizen Report
+CR-00098,Burglary,Break-in at locked residence,2024-01-13,03:43,Alambagh,Lucknow,Uttar Pradesh,26.906237,80.970276,Low,Solved,Police Station
+CR-00099,Robbery,Street robbery of pedestrian,2022-02-13,01:50,Aliganj,Lucknow,Uttar Pradesh,26.918435,80.990177,Medium,Closed,CCTV Surveillance
+CR-00100,Theft,Laptop theft from parked vehicle,2023-04-23,10:49,Indira Nagar,Lucknow,Uttar Pradesh,26.906074,80.880397,High,Under Investigation,Online Portal
+CR-00101,Burglary,Warehouse burglary overnight,2022-02-22,04:00,Worli,Mumbai,Maharashtra,19.136529,72.888328,Low,Solved,CCTV Surveillance
+CR-00102,Cybercrime,Social media account hacked,2022-05-11,15:28,Juhu,Mumbai,Maharashtra,19.053971,72.816358,Medium,Closed,Citizen Report
+CR-00103,Burglary,Break-in at locked residence,2022-05-05,15:54,Rohini,Delhi,Delhi,28.705829,77.197081,Critical,Under Investigation,CCTV Surveillance
+CR-00104,Assault,Group clash at public event,2022-05-15,04:17,Marathahalli,Bengaluru,Karnataka,13.017073,77.642431,Medium,Pending,CCTV Surveillance
+CR-00105,Vandalism,Vehicle windshield smashed,2024-05-31,03:50,Bodakdev,Ahmedabad,Gujarat,23.085279,72.615092,Medium,Pending,Citizen Report
+CR-00106,Vandalism,Graffiti on commercial building,2024-04-27,10:52,Gomti Nagar,Lucknow,Uttar Pradesh,26.838239,80.893312,Low,Pending,Citizen Report
+CR-00107,Burglary,Residential burglary while occupants away,2022-07-06,02:05,Powai,Mumbai,Maharashtra,19.123377,72.855897,Low,Under Investigation,Police Station
+CR-00108,Burglary,Break-in at locked residence,2023-12-26,21:48,Viman Nagar,Pune,Maharashtra,18.587377,73.807717,Medium,Solved,Online Portal
+CR-00109,Drug-related,Anonymous tip about drug activity,2023-04-05,03:22,T Nagar,Chennai,Tamil Nadu,13.023512,80.264391,High,Closed,CCTV Surveillance
+CR-00110,Vandalism,Street light poles damaged,2022-03-01,05:17,Gariahat,Kolkata,West Bengal,22.511797,88.350974,Low,Closed,Police Station
+CR-00111,Burglary,Office break-in during weekend,2022-03-04,02:47,Whitefield,Bengaluru,Karnataka,12.975239,77.590729,Medium,Solved,Police Station
+CR-00112,Vandalism,Graffiti on commercial building,2022-11-19,19:03,MG Road,Bengaluru,Karnataka,12.954421,77.632388,Low,Solved,CCTV Surveillance
+CR-00113,Theft,Bicycle theft from residential area,2023-12-08,13:07,Andheri,Mumbai,Maharashtra,19.103546,72.872995,Medium,Under Investigation,Police Station
+CR-00114,Theft,Laptop theft from parked vehicle,2023-09-10,06:49,Gomti Nagar,Lucknow,Uttar Pradesh,26.815773,80.925937,Low,Pending,Citizen Report
+CR-00115,Cybercrime,Social media account hacked,2023-04-17,16:35,Sodala,Jaipur,Rajasthan,26.948992,75.731532,High,Under Investigation,Police Station
+CR-00116,Fraud,Credit card fraud reported,2024-05-29,18:25,Begumpet,Hyderabad,Telangana,17.383539,78.373035,Low,Solved,Emergency Call
+CR-00117,Burglary,Warehouse burglary overnight,2024-06-13,03:15,Powai,Mumbai,Maharashtra,19.020135,72.811797,Critical,Pending,Online Portal
+CR-00118,Assault,Assault during traffic dispute,2024-11-11,20:07,Colaba,Mumbai,Maharashtra,18.958171,72.916434,Medium,Closed,Police Station
+CR-00119,Fraud,Insurance claim fraud detected,2023-06-09,06:11,Marathahalli,Bengaluru,Karnataka,13.052043,77.631102,Low,Closed,CCTV Surveillance
+CR-00120,Drug-related,Suspicious activity near school zone,2024-07-08,21:59,Navrangpura,Ahmedabad,Gujarat,23.064299,72.648653,Medium,Closed,Citizen Report
+CR-00121,Robbery,Robbery at petrol pump late night,2024-08-18,14:40,Andheri,Mumbai,Maharashtra,18.982402,72.808426,High,Solved,Police Station
+CR-00122,Drug-related,Anonymous tip about drug activity,2023-08-11,02:41,Banjara Hills,Hyderabad,Telangana,17.471059,78.473002,High,Solved,Citizen Report
+CR-00123,Vandalism,Graffiti on commercial building,2023-01-21,10:38,SG Highway,Ahmedabad,Gujarat,23.015086,72.556187,Low,Closed,CCTV Surveillance
+CR-00124,Vandalism,Graffiti on commercial building,2022-03-22,07:45,Electronic City,Bengaluru,Karnataka,12.987884,77.60455,Low,Solved,Citizen Report
+CR-00125,Robbery,Street robbery of pedestrian,2022-04-18,20:41,Gachibowli,Hyderabad,Telangana,17.365938,78.461593,Medium,Solved,Emergency Call
+CR-00126,Other,Trespassing on private property,2022-10-17,11:19,Worli,Mumbai,Maharashtra,19.109544,72.858794,Medium,Closed,Emergency Call
+CR-00127,Vandalism,Graffiti on commercial building,2024-12-14,02:41,Marathahalli,Bengaluru,Karnataka,13.001698,77.503646,Low,Closed,Online Portal
+CR-00128,Robbery,Street robbery of pedestrian,2022-10-09,04:04,Hazratganj,Lucknow,Uttar Pradesh,26.890337,80.951077,High,Pending,Emergency Call
+CR-00129,Theft,Bicycle theft from residential area,2022-09-26,19:24,CG Road,Ahmedabad,Gujarat,23.018085,72.619285,Medium,Closed,Citizen Report
+CR-00130,Theft,Bicycle theft from residential area,2023-05-02,14:39,Secunderabad,Hyderabad,Telangana,17.449707,78.439786,Medium,Solved,Emergency Call
+CR-00131,Theft,Jewelry theft from residence,2024-06-21,14:49,Navrangpura,Ahmedabad,Gujarat,23.038187,72.602746,Critical,Closed,Emergency Call
+CR-00132,Other,Illegal parking dispute,2024-09-11,11:35,Dwarka,Delhi,Delhi,28.71342,77.204773,Low,Under Investigation,Citizen Report
+CR-00133,Other,Noise complaint at commercial area,2022-10-29,13:05,Tonk Road,Jaipur,Rajasthan,26.855526,75.79218,Low,Under Investigation,CCTV Surveillance
+CR-00134,Robbery,Highway robbery of commercial vehicle,2023-04-28,12:05,Gachibowli,Hyderabad,Telangana,17.305638,78.536165,Critical,Pending,Police Station
+CR-00135,Theft,Purse snatching near market area,2024-08-25,22:53,New Town,Kolkata,West Bengal,22.591107,88.36729,Low,Under Investigation,Online Portal
+CR-00136,Cybercrime,Phishing email leading to data loss,2024-12-16,13:07,Sodala,Jaipur,Rajasthan,26.858022,75.739496,Low,Pending,Police Station
+CR-00137,Theft,Jewelry theft from residence,2024-10-20,19:34,Powai,Mumbai,Maharashtra,19.054613,72.836291,Low,Solved,Online Portal
+CR-00138,Assault,Assault near public transport stop,2024-05-03,05:42,CG Road,Ahmedabad,Gujarat,23.052348,72.58606,Critical,Solved,Citizen Report
+CR-00139,Other,Noise complaint at commercial area,2022-03-31,20:24,Mylapore,Chennai,Tamil Nadu,13.00073,80.152436,Medium,Solved,Online Portal
+CR-00140,Cybercrime,Ransomware attack on business,2023-12-23,17:21,Karol Bagh,Delhi,Delhi,28.552527,77.283743,Medium,Pending,Police Station
+CR-00141,Theft,Jewelry theft from residence,2022-03-17,09:12,Porur,Chennai,Tamil Nadu,12.989894,80.156286,High,Solved,Emergency Call
+CR-00142,Drug-related,Controlled substance found during patrol,2023-01-27,09:22,Lajpat Nagar,Delhi,Delhi,28.514341,77.246719,Medium,Closed,Citizen Report
+CR-00143,Vandalism,Park bench and fixtures destroyed,2023-11-26,05:31,Hinjewadi,Pune,Maharashtra,18.505102,73.919594,Low,Under Investigation,Citizen Report
+CR-00144,Robbery,Robbery at petrol pump late night,2023-01-05,17:18,Navrangpura,Ahmedabad,Gujarat,23.008007,72.616092,Medium,Pending,Citizen Report
+CR-00145,Drug-related,Illegal substance possession,2024-07-04,01:46,Jubilee Hills,Hyderabad,Telangana,17.370512,78.54963,Medium,Closed,Citizen Report
+CR-00146,Robbery,Highway robbery of commercial vehicle,2024-11-16,23:43,Jubilee Hills,Hyderabad,Telangana,17.306228,78.519734,High,Solved,Online Portal
+CR-00147,Theft,Mobile phone stolen from crowded area,2024-01-12,12:36,Gachibowli,Hyderabad,Telangana,17.330688,78.439985,Low,Solved,CCTV Surveillance
+CR-00148,Robbery,Street robbery of pedestrian,2024-03-26,10:41,Jubilee Hills,Hyderabad,Telangana,17.492104,78.355183,Medium,Solved,Emergency Call
+CR-00149,Robbery,Robbery at petrol pump late night,2024-07-02,06:39,Howrah,Kolkata,West Bengal,22.633296,88.37368,Medium,Closed,Citizen Report
+CR-00150,Vandalism,Vehicle windshield smashed,2023-10-17,21:22,Powai,Mumbai,Maharashtra,19.064999,72.843554,Low,Under Investigation,CCTV Surveillance
+CR-00151,Theft,Jewelry theft from residence,2022-09-06,06:50,Gomti Nagar,Lucknow,Uttar Pradesh,26.890652,80.88368,Medium,Solved,CCTV Surveillance
+CR-00152,Other,Noise complaint at commercial area,2022-05-15,09:25,Dadar,Mumbai,Maharashtra,19.115661,72.878854,Medium,Closed,Emergency Call
+CR-00153,Assault,Assault during traffic dispute,2024-07-10,14:43,Worli,Mumbai,Maharashtra,18.9385,72.924358,High,Pending,CCTV Surveillance
+CR-00154,Robbery,Street robbery of pedestrian,2022-09-12,16:09,Dwarka,Delhi,Delhi,28.54859,77.330421,Medium,Closed,Police Station
+CR-00155,Robbery,Street robbery of pedestrian,2023-02-07,20:35,Howrah,Kolkata,West Bengal,22.575004,88.392164,Low,Pending,Online Portal
+CR-00156,Cybercrime,Ransomware attack on business,2023-11-23,18:02,Bodakdev,Ahmedabad,Gujarat,23.002837,72.554546,High,Pending,CCTV Surveillance
+CR-00157,Robbery,ATM booth robbery attempt,2024-10-16,20:34,Nehru Place,Delhi,Delhi,28.786995,77.194883,Critical,Pending,Police Station
+CR-00158,Assault,Group clash at public event,2022-11-20,14:26,Lajpat Nagar,Delhi,Delhi,28.561207,77.231998,Medium,Pending,Online Portal
+CR-00159,Robbery,ATM booth robbery attempt,2024-11-20,17:06,Ameerpet,Hyderabad,Telangana,17.393295,78.403494,Medium,Under Investigation,CCTV Surveillance
+CR-00160,Robbery,Street robbery of pedestrian,2023-05-24,05:52,Aundh,Pune,Maharashtra,18.536653,73.846907,High,Solved,Citizen Report
+CR-00161,Drug-related,Illegal substance possession,2024-10-15,00:05,Esplanade,Kolkata,West Bengal,22.551089,88.445003,Medium,Solved,Citizen Report
+CR-00162,Theft,Bicycle theft from residential area,2024-08-21,09:34,Vastrapur,Ahmedabad,Gujarat,23.01075,72.563393,Low,Solved,Police Station
+CR-00163,Theft,Purse snatching near market area,2022-04-15,18:35,Hinjewadi,Pune,Maharashtra,18.532983,73.81103,Medium,Closed,Online Portal
+CR-00164,Other,Public nuisance reported,2024-03-17,11:50,Andheri,Mumbai,Maharashtra,19.06735,72.854841,Low,Pending,Police Station
+CR-00165,Cybercrime,Phishing email leading to data loss,2022-10-08,22:21,Rohini,Delhi,Delhi,28.6558,77.094682,High,Under Investigation,Online Portal
+CR-00166,Assault,Physical altercation near pub area,2023-09-05,18:21,Shivaji Nagar,Pune,Maharashtra,18.526457,73.873477,High,Solved,Emergency Call
+CR-00167,Cybercrime,Phishing email leading to data loss,2024-05-03,18:19,Colaba,Mumbai,Maharashtra,19.117597,72.903207,Low,Solved,Police Station
+CR-00168,Assault,Physical altercation near pub area,2024-09-10,05:33,SG Highway,Ahmedabad,Gujarat,23.061974,72.634117,Low,Pending,Online Portal
+CR-00169,Theft,Mobile phone stolen from crowded area,2024-06-22,10:26,Karol Bagh,Delhi,Delhi,28.70715,77.173113,High,Closed,CCTV Surveillance
+CR-00170,Burglary,Office break-in during weekend,2023-10-28,21:30,Indira Nagar,Lucknow,Uttar Pradesh,26.823925,80.904246,Critical,Solved,CCTV Surveillance
+CR-00171,Fraud,Banking fraud through phishing,2023-01-29,07:17,Porur,Chennai,Tamil Nadu,12.994973,80.295937,Medium,Solved,Emergency Call
+CR-00172,Other,Public nuisance reported,2023-12-16,17:59,Mylapore,Chennai,Tamil Nadu,13.094333,80.193168,Medium,Solved,Online Portal
+CR-00173,Theft,Jewelry theft from residence,2022-03-28,09:45,Esplanade,Kolkata,West Bengal,22.634802,88.398396,Medium,Under Investigation,CCTV Surveillance
+CR-00174,Vandalism,Vehicle windshield smashed,2022-10-09,03:39,Park Street,Kolkata,West Bengal,22.497856,88.307615,High,Under Investigation,Police Station
+CR-00175,Theft,Bicycle theft from residential area,2023-11-08,22:30,Aundh,Pune,Maharashtra,18.565615,73.800777,Medium,Closed,Citizen Report
+CR-00176,Fraud,Online shopping fraud reported,2023-08-12,10:18,Gomti Nagar,Lucknow,Uttar Pradesh,26.907111,80.892525,Medium,Solved,Citizen Report
+CR-00177,Assault,Physical altercation near pub area,2022-03-16,12:50,Jayanagar,Bengaluru,Karnataka,13.087322,77.692426,Critical,Closed,CCTV Surveillance
+CR-00178,Vandalism,Street light poles damaged,2022-08-08,10:18,Paldi,Ahmedabad,Gujarat,23.064131,72.602432,High,Under Investigation,Emergency Call
+CR-00179,Cybercrime,Identity theft via data breach,2022-08-19,10:10,Aliganj,Lucknow,Uttar Pradesh,26.87076,80.980604,Low,Solved,Online Portal
+CR-00180,Robbery,Highway robbery of commercial vehicle,2024-04-10,13:32,CG Road,Ahmedabad,Gujarat,23.040083,72.559539,Critical,Solved,Emergency Call
+CR-00181,Theft,Purse snatching near market area,2023-04-28,14:48,Viman Nagar,Pune,Maharashtra,18.499444,73.887369,Medium,Solved,Police Station
+CR-00182,Vandalism,Public property damaged,2024-08-11,09:10,Juhu,Mumbai,Maharashtra,19.050756,72.934268,Medium,Solved,Emergency Call
+CR-00183,Vandalism,Park bench and fixtures destroyed,2023-03-29,07:08,Satellite,Ahmedabad,Gujarat,23.045498,72.648884,Low,Pending,Online Portal
+CR-00184,Assault,Assault near public transport stop,2022-06-17,16:28,Satellite,Ahmedabad,Gujarat,23.036178,72.641724,Low,Closed,CCTV Surveillance
+CR-00185,Drug-related,Anonymous tip about drug activity,2022-11-03,05:20,Sodala,Jaipur,Rajasthan,26.890694,75.828847,High,Solved,Police Station
+CR-00186,Assault,Domestic dispute escalation reported,2022-09-28,16:26,Tambaram,Chennai,Tamil Nadu,12.961547,80.219357,Critical,Pending,Police Station
+CR-00187,Robbery,Robbery at petrol pump late night,2022-05-30,01:27,Hazratganj,Lucknow,Uttar Pradesh,26.788926,81.019177,Critical,Under Investigation,Emergency Call
+CR-00188,Assault,Domestic dispute escalation reported,2023-01-04,04:49,Baner,Pune,Maharashtra,18.559393,73.944567,Medium,Closed,Citizen Report
+CR-00189,Robbery,Highway robbery of commercial vehicle,2022-09-30,20:55,Andheri,Mumbai,Maharashtra,18.953542,72.880589,High,Pending,Police Station
+CR-00190,Burglary,Office break-in during weekend,2024-08-06,21:46,New Town,Kolkata,West Bengal,22.556387,88.423504,Medium,Solved,Police Station
+CR-00191,Other,Public nuisance reported,2024-05-08,19:49,Connaught Place,Delhi,Delhi,28.766712,77.1222,Low,Pending,Online Portal
+CR-00192,Vandalism,Vehicle windshield smashed,2024-04-03,14:14,Rohini,Delhi,Delhi,28.726316,77.282819,Low,Closed,CCTV Surveillance
+CR-00193,Drug-related,Anonymous tip about drug activity,2023-10-19,07:19,Navrangpura,Ahmedabad,Gujarat,23.09857,72.602125,Medium,Solved,Citizen Report
+CR-00194,Drug-related,Drug distribution network reported,2024-10-12,01:22,C-Scheme,Jaipur,Rajasthan,26.927415,75.845729,Medium,Solved,Citizen Report
+CR-00195,Theft,Bicycle theft from residential area,2024-08-27,07:54,Electronic City,Bengaluru,Karnataka,13.071508,77.52887,Medium,Under Investigation,CCTV Surveillance
+CR-00196,Theft,Jewelry theft from residence,2022-10-02,12:15,Mansarovar,Jaipur,Rajasthan,26.872842,75.732651,Medium,Solved,Police Station
+CR-00197,Assault,Assault near public transport stop,2024-02-12,21:38,New Town,Kolkata,West Bengal,22.624724,88.328224,High,Pending,Citizen Report
+CR-00198,Theft,Bicycle theft from residential area,2023-11-13,09:58,Aliganj,Lucknow,Uttar Pradesh,26.911202,81.014691,Low,Closed,CCTV Surveillance
+CR-00199,Burglary,Office break-in during weekend,2024-03-23,07:35,Alambagh,Lucknow,Uttar Pradesh,26.819628,80.945275,High,Solved,Citizen Report
+CR-00200,Theft,Mobile phone stolen from crowded area,2024-08-19,10:58,Juhu,Mumbai,Maharashtra,18.993877,72.806857,High,Pending,CCTV Surveillance
+CR-00201,Theft,Purse snatching near market area,2024-05-05,09:09,Maninagar,Ahmedabad,Gujarat,23.023002,72.606979,Low,Pending,Citizen Report
+CR-00202,Cybercrime,Phishing email leading to data loss,2024-08-01,05:46,T Nagar,Chennai,Tamil Nadu,12.983853,80.258047,Medium,Closed,CCTV Surveillance
+CR-00203,Fraud,Online shopping fraud reported,2022-06-02,21:03,Saket,Delhi,Delhi,28.623718,77.302763,Medium,Pending,CCTV Surveillance
+CR-00204,Assault,Assault near public transport stop,2024-02-04,01:39,Guindy,Chennai,Tamil Nadu,13.136781,80.286913,High,Under Investigation,Police Station
+CR-00205,Burglary,Warehouse burglary overnight,2024-12-20,23:17,Chandni Chowk,Delhi,Delhi,28.586007,77.200665,High,Solved,Police Station
+CR-00206,Fraud,Insurance claim fraud detected,2022-11-01,07:12,Sodala,Jaipur,Rajasthan,26.860387,75.776711,High,Under Investigation,CCTV Surveillance
+CR-00207,Cybercrime,Online scam through fake website,2023-04-08,09:43,Charbagh,Lucknow,Uttar Pradesh,26.791286,81.018834,High,Under Investigation,Citizen Report
+CR-00208,Theft,Jewelry theft from residence,2024-09-01,01:40,Vaishali Nagar,Jaipur,Rajasthan,26.847421,75.799977,Medium,Closed,CCTV Surveillance
+CR-00209,Drug-related,Suspicious activity near school zone,2023-04-16,06:57,Connaught Place,Delhi,Delhi,28.766266,77.19265,Low,Under Investigation,Online Portal
+CR-00210,Theft,Jewelry theft from residence,2022-02-02,06:37,Secunderabad,Hyderabad,Telangana,17.464138,78.51418,High,Solved,CCTV Surveillance
+CR-00211,Fraud,Real estate fraud complaint,2023-11-11,12:48,Koregaon Park,Pune,Maharashtra,18.568575,73.903397,Low,Pending,Police Station
+CR-00212,Assault,Group clash at public event,2023-04-21,02:21,Aundh,Pune,Maharashtra,18.54208,73.889341,Critical,Solved,Citizen Report
+CR-00213,Burglary,Warehouse burglary overnight,2023-12-30,17:24,Aminabad,Lucknow,Uttar Pradesh,26.875157,80.972494,Low,Pending,Police Station
+CR-00214,Cybercrime,Identity theft via data breach,2022-11-12,12:45,Behala,Kolkata,West Bengal,22.480855,88.358443,Medium,Under Investigation,Emergency Call
+CR-00215,Robbery,ATM booth robbery attempt,2022-07-29,04:05,Salt Lake,Kolkata,West Bengal,22.539769,88.383211,High,Under Investigation,CCTV Surveillance
+CR-00216,Theft,Laptop theft from parked vehicle,2023-10-27,12:00,Navrangpura,Ahmedabad,Gujarat,23.03878,72.55847,High,Closed,Citizen Report
+CR-00217,Robbery,Armed robbery at convenience store,2022-10-12,08:19,HSR Layout,Bengaluru,Karnataka,12.929187,77.533441,Medium,Solved,Emergency Call
+CR-00218,Theft,Jewelry theft from residence,2024-10-12,19:39,Charbagh,Lucknow,Uttar Pradesh,26.794976,80.922652,High,Solved,Emergency Call
+CR-00219,Cybercrime,Ransomware attack on business,2023-11-17,13:52,Porur,Chennai,Tamil Nadu,13.080207,80.239159,Medium,Pending,Emergency Call
+CR-00220,Cybercrime,Identity theft via data breach,2024-03-26,10:18,Electronic City,Bengaluru,Karnataka,13.02658,77.693553,High,Solved,Emergency Call
+CR-00221,Theft,Laptop theft from parked vehicle,2023-02-14,18:34,Malad,Mumbai,Maharashtra,19.130285,72.804037,Medium,Closed,Emergency Call
+CR-00222,Theft,Bicycle theft from residential area,2024-04-17,21:31,Bandra,Mumbai,Maharashtra,18.99085,72.837902,Low,Solved,Citizen Report
+CR-00223,Assault,Group clash at public event,2024-09-08,18:25,SG Highway,Ahmedabad,Gujarat,23.09235,72.636963,Medium,Under Investigation,Police Station
+CR-00224,Assault,Group clash at public event,2023-12-29,05:41,Charbagh,Lucknow,Uttar Pradesh,26.858851,80.970304,High,Closed,Police Station
+CR-00225,Fraud,Insurance claim fraud detected,2022-07-21,08:14,Nehru Place,Delhi,Delhi,28.655639,77.224155,Medium,Solved,CCTV Surveillance
+CR-00226,Vandalism,Vehicle windshield smashed,2022-11-05,11:01,Raja Park,Jaipur,Rajasthan,26.867269,75.867288,Low,Closed,Emergency Call
+CR-00227,Vandalism,Graffiti on commercial building,2024-07-21,06:33,Banjara Hills,Hyderabad,Telangana,17.395233,78.437633,Medium,Solved,Police Station
+CR-00228,Vandalism,Vehicle windshield smashed,2023-12-04,20:06,Rohini,Delhi,Delhi,28.549306,77.34517,Low,Under Investigation,CCTV Surveillance
+CR-00229,Vandalism,Street light poles damaged,2024-08-04,07:51,Viman Nagar,Pune,Maharashtra,18.477668,73.896072,Low,Under Investigation,Citizen Report
+CR-00230,Fraud,Online shopping fraud reported,2024-05-29,12:00,Navrangpura,Ahmedabad,Gujarat,23.020578,72.625233,High,Under Investigation,Emergency Call
+CR-00231,Theft,Jewelry theft from residence,2023-02-08,14:07,Ameerpet,Hyderabad,Telangana,17.472527,78.455543,Medium,Pending,CCTV Surveillance
+CR-00232,Vandalism,Street light poles damaged,2023-12-14,11:54,Bandra,Mumbai,Maharashtra,18.951758,72.901038,High,Closed,Online Portal
+CR-00233,Theft,Jewelry theft from residence,2022-08-30,07:19,Ameerpet,Hyderabad,Telangana,17.374661,78.378272,Low,Pending,Citizen Report
+CR-00234,Vandalism,Vehicle windshield smashed,2024-09-23,20:34,Indiranagar,Bengaluru,Karnataka,13.029052,77.69998,Medium,Solved,Emergency Call
+CR-00235,Vandalism,Park bench and fixtures destroyed,2022-04-20,11:00,Porur,Chennai,Tamil Nadu,12.989026,80.207592,Medium,Pending,Citizen Report
+CR-00236,Assault,Group clash at public event,2024-09-27,05:05,Velachery,Chennai,Tamil Nadu,13.109176,80.183079,Low,Under Investigation,Citizen Report
+CR-00237,Theft,Mobile phone stolen from crowded area,2024-10-11,17:32,Paldi,Ahmedabad,Gujarat,23.011421,72.627511,High,Solved,CCTV Surveillance
+CR-00238,Drug-related,Suspicious activity near school zone,2024-05-20,03:47,Aminabad,Lucknow,Uttar Pradesh,26.885188,80.921679,Critical,Solved,Citizen Report
+CR-00239,Cybercrime,Phishing email leading to data loss,2023-05-01,06:51,Dadar,Mumbai,Maharashtra,19.10674,72.929157,High,Solved,Online Portal
+CR-00240,Assault,Assault near public transport stop,2022-05-02,18:22,Indira Nagar,Lucknow,Uttar Pradesh,26.86356,80.903573,Critical,Solved,CCTV Surveillance
+CR-00241,Theft,Laptop theft from parked vehicle,2022-10-05,13:58,Powai,Mumbai,Maharashtra,18.983197,72.898384,Medium,Under Investigation,Online Portal
+CR-00242,Assault,Physical altercation near pub area,2024-09-29,04:36,Baner,Pune,Maharashtra,18.544172,73.856276,Low,Closed,CCTV Surveillance
+CR-00243,Robbery,Robbery at petrol pump late night,2024-01-26,14:31,Dum Dum,Kolkata,West Bengal,22.450495,88.41612,High,Pending,Police Station
+CR-00244,Cybercrime,Ransomware attack on business,2024-03-25,06:27,Sodala,Jaipur,Rajasthan,26.899154,75.771658,Medium,Solved,Emergency Call
+CR-00245,Cybercrime,Social media account hacked,2022-04-05,03:40,Lajpat Nagar,Delhi,Delhi,28.637875,77.087271,High,Solved,Online Portal
+CR-00246,Drug-related,Drug distribution network reported,2023-09-11,05:55,Koramangala,Bengaluru,Karnataka,12.954804,77.630918,Medium,Solved,Citizen Report
+CR-00247,Theft,Jewelry theft from residence,2023-04-25,13:41,Behala,Kolkata,West Bengal,22.469037,88.332013,Low,Pending,Police Station
+CR-00248,Burglary,Break-in at locked residence,2023-12-05,03:55,Chandni Chowk,Delhi,Delhi,28.539653,77.071248,Medium,Pending,Emergency Call
+CR-00249,Fraud,Credit card fraud reported,2023-09-05,04:24,Banjara Hills,Hyderabad,Telangana,17.450632,78.376629,Critical,Under Investigation,CCTV Surveillance
+CR-00250,Theft,Laptop theft from parked vehicle,2024-06-20,11:46,Whitefield,Bengaluru,Karnataka,13.049654,77.683979,Medium,Solved,Police Station
+CR-00251,Burglary,Break-in at locked residence,2022-09-10,18:46,MG Road,Bengaluru,Karnataka,13.09265,77.562901,Low,Solved,CCTV Surveillance
+CR-00252,Drug-related,Controlled substance found during patrol,2023-08-07,22:01,Maninagar,Ahmedabad,Gujarat,23.065841,72.580165,High,Solved,Police Station
+CR-00253,Theft,Purse snatching near market area,2024-10-10,12:07,Mahanagar,Lucknow,Uttar Pradesh,26.869332,80.889942,High,Under Investigation,Online Portal
+CR-00254,Fraud,Online shopping fraud reported,2024-05-11,11:34,Koregaon Park,Pune,Maharashtra,18.564409,73.943168,High,Under Investigation,Emergency Call
+CR-00255,Burglary,Shop burglary with forced entry,2022-03-23,01:50,Aminabad,Lucknow,Uttar Pradesh,26.820108,80.979768,High,Solved,CCTV Surveillance
+CR-00256,Burglary,Shop burglary with forced entry,2022-11-09,08:05,Vaishali Nagar,Jaipur,Rajasthan,26.901809,75.752512,High,Solved,Emergency Call
+CR-00257,Theft,Laptop theft from parked vehicle,2023-05-04,01:15,Hinjewadi,Pune,Maharashtra,18.515173,73.868006,Medium,Solved,Police Station
+CR-00258,Other,Illegal parking dispute,2022-01-24,05:31,Jayanagar,Bengaluru,Karnataka,13.004601,77.656597,Medium,Under Investigation,Police Station
+CR-00259,Assault,Assault near public transport stop,2023-11-18,13:17,Rohini,Delhi,Delhi,28.578885,77.342515,High,Solved,Police Station
+CR-00260,Robbery,Street robbery of pedestrian,2022-12-08,11:10,T Nagar,Chennai,Tamil Nadu,12.970581,80.236087,High,Under Investigation,Police Station
+CR-00261,Burglary,Shop burglary with forced entry,2023-05-16,01:30,Saket,Delhi,Delhi,28.776068,77.103688,Critical,Under Investigation,Emergency Call
+CR-00262,Robbery,Highway robbery of commercial vehicle,2024-05-02,23:20,Aliganj,Lucknow,Uttar Pradesh,26.790904,80.932193,High,Closed,CCTV Surveillance
+CR-00263,Burglary,Break-in at locked residence,2024-04-01,02:56,Rohini,Delhi,Delhi,28.584692,77.303454,Medium,Pending,Online Portal
+CR-00264,Robbery,Street robbery of pedestrian,2023-09-15,23:39,New Town,Kolkata,West Bengal,22.523655,88.445779,Critical,Closed,Online Portal
+CR-00265,Burglary,Shop burglary with forced entry,2024-04-19,00:14,Dwarka,Delhi,Delhi,28.690783,77.258038,Low,Solved,Police Station
+CR-00266,Vandalism,Vehicle windshield smashed,2024-12-21,07:26,Charbagh,Lucknow,Uttar Pradesh,26.788385,81.019574,Medium,Under Investigation,Emergency Call
+CR-00267,Assault,Assault during traffic dispute,2022-06-23,18:06,Adyar,Chennai,Tamil Nadu,13.077443,80.209153,High,Under Investigation,Emergency Call
+CR-00268,Cybercrime,Ransomware attack on business,2023-10-08,12:44,Salt Lake,Kolkata,West Bengal,22.51525,88.367914,Low,Closed,Online Portal
+CR-00269,Robbery,Robbery at petrol pump late night,2022-12-03,14:29,Juhu,Mumbai,Maharashtra,18.936221,72.853743,High,Solved,Police Station
+CR-00270,Cybercrime,Social media account hacked,2022-11-19,21:19,Colaba,Mumbai,Maharashtra,19.109063,72.806049,High,Solved,Emergency Call
+CR-00271,Robbery,Street robbery of pedestrian,2024-11-17,01:43,Viman Nagar,Pune,Maharashtra,18.573013,73.82608,Critical,Closed,Police Station
+CR-00272,Theft,Purse snatching near market area,2022-07-28,04:07,Anna Nagar,Chennai,Tamil Nadu,13.116074,80.297385,Low,Closed,CCTV Surveillance
+CR-00273,Other,Trespassing on private property,2023-06-15,02:01,SG Highway,Ahmedabad,Gujarat,23.019775,72.614599,High,Under Investigation,Police Station
+CR-00274,Assault,Assault during traffic dispute,2022-04-14,05:59,Mylapore,Chennai,Tamil Nadu,13.114337,80.20925,Low,Pending,Online Portal
+CR-00275,Drug-related,Controlled substance found during patrol,2023-07-18,08:28,Marathahalli,Bengaluru,Karnataka,12.90693,77.623835,Medium,Solved,Police Station
+CR-00276,Burglary,Residential burglary while occupants away,2023-07-27,12:08,Andheri,Mumbai,Maharashtra,19.092796,72.91958,Medium,Closed,Citizen Report
+CR-00277,Assault,Group clash at public event,2024-09-09,17:50,Secunderabad,Hyderabad,Telangana,17.482535,78.450479,Medium,Under Investigation,Police Station
+CR-00278,Robbery,Highway robbery of commercial vehicle,2022-04-30,15:33,Esplanade,Kolkata,West Bengal,22.566798,88.334914,Medium,Under Investigation,CCTV Surveillance
+CR-00279,Other,Illegal parking dispute,2023-03-26,18:54,Rohini,Delhi,Delhi,28.616527,77.330562,Critical,Under Investigation,Emergency Call
+CR-00280,Burglary,Shop burglary with forced entry,2022-02-27,22:44,Maninagar,Ahmedabad,Gujarat,23.056765,72.56421,Critical,Closed,Online Portal
+CR-00281,Robbery,Highway robbery of commercial vehicle,2022-03-19,02:03,Velachery,Chennai,Tamil Nadu,12.993762,80.228967,Low,Closed,Emergency Call
+CR-00282,Theft,Purse snatching near market area,2023-10-25,01:01,Whitefield,Bengaluru,Karnataka,13.040939,77.528331,Low,Solved,Emergency Call
+CR-00283,Burglary,Shop burglary with forced entry,2022-07-26,10:19,Shivaji Nagar,Pune,Maharashtra,18.596379,73.909853,Medium,Pending,Online Portal
+CR-00284,Fraud,Online shopping fraud reported,2024-01-01,07:42,Tonk Road,Jaipur,Rajasthan,26.848056,75.769092,High,Under Investigation,CCTV Surveillance
+CR-00285,Drug-related,Drug distribution network reported,2023-01-08,19:20,Rohini,Delhi,Delhi,28.79026,77.116269,High,Closed,Police Station
+CR-00286,Fraud,Real estate fraud complaint,2023-12-12,10:10,Alambagh,Lucknow,Uttar Pradesh,26.914831,80.995033,High,Pending,Police Station
+CR-00287,Theft,Bicycle theft from residential area,2023-03-06,07:44,Howrah,Kolkata,West Bengal,22.501332,88.316205,Low,Solved,Citizen Report
+CR-00288,Assault,Assault during traffic dispute,2024-02-15,11:34,Velachery,Chennai,Tamil Nadu,13.115761,80.268309,High,Closed,Citizen Report
+CR-00289,Burglary,Break-in at locked residence,2022-03-10,09:01,Bandra,Mumbai,Maharashtra,19.185499,72.81113,Medium,Solved,Emergency Call
+CR-00290,Burglary,Office break-in during weekend,2024-09-15,22:01,Satellite,Ahmedabad,Gujarat,23.065364,72.610732,Medium,Under Investigation,Online Portal
+CR-00291,Robbery,Armed robbery at convenience store,2023-06-28,21:18,Shivaji Nagar,Pune,Maharashtra,18.464387,73.858935,High,Solved,Police Station
+CR-00292,Fraud,Real estate fraud complaint,2022-06-29,09:52,Hinjewadi,Pune,Maharashtra,18.540032,73.829951,Low,Under Investigation,Citizen Report
+CR-00293,Assault,Domestic dispute escalation reported,2023-09-24,12:30,Powai,Mumbai,Maharashtra,19.098312,72.813671,High,Under Investigation,Online Portal
+CR-00294,Vandalism,Public property damaged,2022-04-02,08:28,Anna Nagar,Chennai,Tamil Nadu,12.995248,80.190284,Low,Closed,Emergency Call
+CR-00295,Assault,Domestic dispute escalation reported,2024-04-27,18:14,Mansarovar,Jaipur,Rajasthan,26.954528,75.850945,Medium,Solved,Citizen Report
+CR-00296,Cybercrime,Phishing email leading to data loss,2022-06-11,12:57,Howrah,Kolkata,West Bengal,22.456946,88.385683,Medium,Pending,Police Station
+CR-00297,Cybercrime,Ransomware attack on business,2022-12-21,05:13,Tambaram,Chennai,Tamil Nadu,12.975237,80.213506,Critical,Solved,Emergency Call
+CR-00298,Burglary,Residential burglary while occupants away,2022-06-28,12:35,Worli,Mumbai,Maharashtra,18.997838,72.84143,Medium,Closed,Police Station
+CR-00299,Assault,Physical altercation near pub area,2022-11-03,04:36,Hadapsar,Pune,Maharashtra,18.563757,73.940947,Critical,Pending,CCTV Surveillance
+CR-00300,Fraud,Credit card fraud reported,2024-04-21,08:24,Ameerpet,Hyderabad,Telangana,17.414405,78.444609,Low,Solved,Police Station
+CR-00301,Theft,Purse snatching near market area,2023-11-10,22:15,Hadapsar,Pune,Maharashtra,18.521283,73.840288,Low,Solved,Emergency Call
+CR-00302,Burglary,Residential burglary while occupants away,2022-07-21,07:08,Anna Nagar,Chennai,Tamil Nadu,13.098745,80.266105,Medium,Pending,Online Portal
+CR-00303,Assault,Physical altercation near pub area,2023-03-09,13:47,Tambaram,Chennai,Tamil Nadu,13.0533,80.206087,Low,Closed,CCTV Surveillance
+CR-00304,Vandalism,Public property damaged,2022-10-05,16:56,Aundh,Pune,Maharashtra,18.476061,73.931277,Low,Under Investigation,Police Station
+CR-00305,Cybercrime,Identity theft via data breach,2023-02-12,08:23,Begumpet,Hyderabad,Telangana,17.401025,78.477082,Low,Under Investigation,CCTV Surveillance
+CR-00306,Vandalism,Public property damaged,2022-12-30,15:37,Tambaram,Chennai,Tamil Nadu,13.01885,80.275648,Low,Closed,Police Station
+CR-00307,Assault,Group clash at public event,2022-04-12,05:54,Baner,Pune,Maharashtra,18.594738,73.928567,High,Pending,CCTV Surveillance
+CR-00308,Theft,Purse snatching near market area,2022-01-19,15:58,Dwarka,Delhi,Delhi,28.55196,77.290259,Low,Pending,Citizen Report
+CR-00309,Theft,Mobile phone stolen from crowded area,2023-12-16,14:16,Shivaji Nagar,Pune,Maharashtra,18.495322,73.878096,Medium,Pending,CCTV Surveillance
+CR-00310,Theft,Purse snatching near market area,2023-08-02,09:43,Maninagar,Ahmedabad,Gujarat,23.006384,72.648836,Medium,Closed,Online Portal
+CR-00311,Theft,Laptop theft from parked vehicle,2024-11-25,07:57,Koramangala,Bengaluru,Karnataka,13.071463,77.662006,Medium,Solved,Citizen Report
+CR-00312,Burglary,Warehouse burglary overnight,2023-06-16,13:25,Behala,Kolkata,West Bengal,22.457064,88.40621,High,Under Investigation,Emergency Call
+CR-00313,Assault,Assault near public transport stop,2023-09-07,05:53,Malviya Nagar,Jaipur,Rajasthan,26.90932,75.767005,Medium,Pending,Emergency Call
+CR-00314,Cybercrime,Identity theft via data breach,2023-04-01,11:14,Malad,Mumbai,Maharashtra,18.992126,72.918214,Medium,Solved,Police Station
+CR-00315,Assault,Domestic dispute escalation reported,2022-04-20,20:37,Tambaram,Chennai,Tamil Nadu,13.074131,80.220833,Low,Under Investigation,Citizen Report
+CR-00316,Robbery,Highway robbery of commercial vehicle,2022-11-05,04:12,Chandni Chowk,Delhi,Delhi,28.796157,77.317854,Critical,Under Investigation,Citizen Report
+CR-00317,Theft,Laptop theft from parked vehicle,2022-12-29,10:40,Begumpet,Hyderabad,Telangana,17.390411,78.391876,High,Pending,Police Station
+CR-00318,Burglary,Office break-in during weekend,2024-06-07,20:27,Koramangala,Bengaluru,Karnataka,13.093066,77.576663,Low,Under Investigation,Emergency Call
+CR-00319,Theft,Mobile phone stolen from crowded area,2023-01-26,00:43,Tonk Road,Jaipur,Rajasthan,26.937377,75.756203,High,Solved,CCTV Surveillance
+CR-00320,Cybercrime,Identity theft via data breach,2023-09-19,05:04,Bodakdev,Ahmedabad,Gujarat,23.02982,72.579083,High,Pending,Online Portal
+CR-00321,Theft,Laptop theft from parked vehicle,2024-09-30,11:48,Secunderabad,Hyderabad,Telangana,17.489617,78.533641,Medium,Under Investigation,Police Station
+CR-00322,Burglary,Residential burglary while occupants away,2024-10-30,05:07,CG Road,Ahmedabad,Gujarat,23.065054,72.553736,Critical,Solved,CCTV Surveillance
+CR-00323,Theft,Bicycle theft from residential area,2022-08-10,20:53,Karol Bagh,Delhi,Delhi,28.706925,77.175033,Low,Solved,Online Portal
+CR-00324,Theft,Mobile phone stolen from crowded area,2023-09-09,13:42,Chandni Chowk,Delhi,Delhi,28.656093,77.236839,Medium,Solved,Emergency Call
+CR-00325,Vandalism,Park bench and fixtures destroyed,2022-08-06,15:12,Juhu,Mumbai,Maharashtra,19.133388,72.924725,Critical,Solved,Online Portal
+CR-00326,Other,Suspicious activity reported,2024-10-13,06:44,Nehru Place,Delhi,Delhi,28.599181,77.050821,Medium,Closed,Online Portal
+CR-00327,Vandalism,Graffiti on commercial building,2024-11-13,02:46,Malad,Mumbai,Maharashtra,19.171434,72.896651,Low,Closed,Police Station
+CR-00328,Robbery,Armed robbery at convenience store,2022-12-24,01:54,Andheri,Mumbai,Maharashtra,19.140479,72.846906,High,Under Investigation,Online Portal
+CR-00329,Vandalism,Vehicle windshield smashed,2023-11-05,11:57,Whitefield,Bengaluru,Karnataka,13.024361,77.675695,Low,Closed,Citizen Report
+CR-00330,Assault,Physical altercation near pub area,2024-07-23,08:53,Kothrud,Pune,Maharashtra,18.577601,73.919985,High,Closed,Police Station
+CR-00331,Vandalism,Graffiti on commercial building,2022-08-01,13:58,Koramangala,Bengaluru,Karnataka,13.060453,77.635679,Low,Solved,Online Portal
+CR-00332,Burglary,Residential burglary while occupants away,2024-09-26,03:56,Adyar,Chennai,Tamil Nadu,12.959194,80.189242,Medium,Pending,Emergency Call
+CR-00333,Assault,Domestic dispute escalation reported,2024-12-07,22:44,Malviya Nagar,Jaipur,Rajasthan,26.889256,75.836264,Medium,Pending,CCTV Surveillance
+CR-00334,Drug-related,Controlled substance found during patrol,2022-04-22,00:41,Vastrapur,Ahmedabad,Gujarat,23.050557,72.596929,High,Under Investigation,Online Portal
+CR-00335,Robbery,Street robbery of pedestrian,2023-07-24,01:32,Begumpet,Hyderabad,Telangana,17.428663,78.430655,Medium,Solved,Police Station
+CR-00336,Other,Suspicious activity reported,2024-07-04,10:07,T Nagar,Chennai,Tamil Nadu,13.099048,80.152665,Low,Under Investigation,Police Station
+CR-00337,Theft,Laptop theft from parked vehicle,2023-09-16,16:35,Paldi,Ahmedabad,Gujarat,23.067147,72.645036,Low,Under Investigation,Emergency Call
+CR-00338,Burglary,Office break-in during weekend,2024-08-26,22:42,C-Scheme,Jaipur,Rajasthan,26.892405,75.73559,High,Under Investigation,CCTV Surveillance
+CR-00339,Theft,Mobile phone stolen from crowded area,2024-02-05,22:06,C-Scheme,Jaipur,Rajasthan,26.846265,75.742472,Medium,Pending,CCTV Surveillance
+CR-00340,Drug-related,Controlled substance found during patrol,2023-01-20,03:59,Hazratganj,Lucknow,Uttar Pradesh,26.810183,80.995438,Medium,Solved,CCTV Surveillance
+CR-00341,Vandalism,Street light poles damaged,2024-07-11,14:42,Worli,Mumbai,Maharashtra,19.051259,72.944578,Low,Pending,CCTV Surveillance
+CR-00342,Assault,Group clash at public event,2024-11-07,05:44,Guindy,Chennai,Tamil Nadu,13.096099,80.169257,Medium,Pending,Citizen Report
+CR-00343,Other,Suspicious activity reported,2023-05-24,08:25,Maninagar,Ahmedabad,Gujarat,23.097049,72.595285,Low,Solved,CCTV Surveillance
+CR-00344,Fraud,Banking fraud through phishing,2023-03-22,06:13,Madhapur,Hyderabad,Telangana,17.358116,78.419059,High,Closed,Police Station
+CR-00345,Other,Public nuisance reported,2024-09-10,18:36,Banjara Hills,Hyderabad,Telangana,17.442025,78.484849,High,Solved,CCTV Surveillance
+CR-00346,Theft,Purse snatching near market area,2022-02-21,12:09,Dadar,Mumbai,Maharashtra,18.916981,72.840047,High,Closed,Police Station
+CR-00347,Burglary,Warehouse burglary overnight,2023-02-22,17:02,Gariahat,Kolkata,West Bengal,22.540519,88.392416,High,Pending,Online Portal
+CR-00348,Theft,Jewelry theft from residence,2023-08-13,22:42,MI Road,Jaipur,Rajasthan,26.881053,75.786651,High,Pending,Police Station
+CR-00349,Cybercrime,Identity theft via data breach,2023-02-20,19:55,New Town,Kolkata,West Bengal,22.624024,88.424498,Critical,Pending,Online Portal
+CR-00350,Theft,Purse snatching near market area,2024-07-08,05:43,Esplanade,Kolkata,West Bengal,22.642495,88.410262,Low,Under Investigation,Online Portal
+CR-00351,Burglary,Residential burglary while occupants away,2023-06-07,00:21,Jayanagar,Bengaluru,Karnataka,13.087499,77.507988,Critical,Pending,Citizen Report
+CR-00352,Vandalism,Vehicle windshield smashed,2024-01-04,02:50,Bodakdev,Ahmedabad,Gujarat,23.05254,72.645699,Medium,Closed,CCTV Surveillance
+CR-00353,Robbery,Street robbery of pedestrian,2024-04-06,02:22,Sodala,Jaipur,Rajasthan,26.854137,75.773101,Medium,Under Investigation,CCTV Surveillance
+CR-00354,Burglary,Office break-in during weekend,2022-08-23,21:22,Lajpat Nagar,Delhi,Delhi,28.771349,77.23411,High,Closed,Police Station
+CR-00355,Robbery,Robbery at petrol pump late night,2023-06-10,17:46,Aundh,Pune,Maharashtra,18.5867,73.923316,Medium,Closed,Police Station
+CR-00356,Theft,Mobile phone stolen from crowded area,2023-01-30,10:32,New Town,Kolkata,West Bengal,22.469191,88.445744,High,Solved,Online Portal
+CR-00357,Cybercrime,Social media account hacked,2022-08-01,06:34,Kothrud,Pune,Maharashtra,18.581796,73.911206,Medium,Closed,Police Station
+CR-00358,Theft,Purse snatching near market area,2023-11-11,01:05,Guindy,Chennai,Tamil Nadu,12.985598,80.187786,Low,Closed,Citizen Report
+CR-00359,Theft,Jewelry theft from residence,2024-04-08,13:20,T Nagar,Chennai,Tamil Nadu,13.08466,80.230225,Medium,Pending,Police Station
+CR-00360,Cybercrime,Online scam through fake website,2024-10-26,03:18,Banjara Hills,Hyderabad,Telangana,17.36027,78.367301,High,Solved,Citizen Report
+CR-00361,Cybercrime,Identity theft via data breach,2024-12-28,07:08,HSR Layout,Bengaluru,Karnataka,13.059354,77.669893,Medium,Pending,Police Station
+CR-00362,Theft,Purse snatching near market area,2022-10-17,03:02,Mansarovar,Jaipur,Rajasthan,26.915465,75.805944,High,Solved,Citizen Report
+CR-00363,Robbery,Armed robbery at convenience store,2022-10-19,05:11,Sodala,Jaipur,Rajasthan,26.95356,75.751092,Medium,Closed,CCTV Surveillance
+CR-00364,Robbery,Highway robbery of commercial vehicle,2023-08-19,21:04,Bandra,Mumbai,Maharashtra,18.959225,72.887089,Critical,Solved,Emergency Call
+CR-00365,Vandalism,Street light poles damaged,2022-05-23,06:20,Vastrapur,Ahmedabad,Gujarat,23.032835,72.615942,Medium,Under Investigation,Emergency Call
+CR-00366,Robbery,Highway robbery of commercial vehicle,2022-12-12,00:20,Shivaji Nagar,Pune,Maharashtra,18.483229,73.910972,High,Closed,Citizen Report
+CR-00367,Burglary,Warehouse burglary overnight,2024-07-01,11:49,Adyar,Chennai,Tamil Nadu,13.060334,80.176366,High,Closed,Emergency Call
+CR-00368,Burglary,Break-in at locked residence,2022-06-04,00:54,Juhu,Mumbai,Maharashtra,18.909358,72.887284,Medium,Pending,CCTV Surveillance
+CR-00369,Theft,Laptop theft from parked vehicle,2024-08-24,20:49,Sodala,Jaipur,Rajasthan,26.8828,75.86263,Medium,Closed,CCTV Surveillance
+CR-00370,Assault,Assault during traffic dispute,2022-07-05,12:23,Malviya Nagar,Jaipur,Rajasthan,26.926029,75.855677,Critical,Pending,Citizen Report
+CR-00371,Vandalism,Vehicle windshield smashed,2023-01-02,18:36,Marathahalli,Bengaluru,Karnataka,13.093547,77.647184,Low,Solved,Online Portal
+CR-00372,Theft,Bicycle theft from residential area,2023-06-26,11:14,Andheri,Mumbai,Maharashtra,18.962032,72.936159,Low,Solved,Police Station
+CR-00373,Assault,Domestic dispute escalation reported,2022-07-31,22:33,Ameerpet,Hyderabad,Telangana,17.354699,78.498382,High,Pending,Emergency Call
+CR-00374,Robbery,Robbery at petrol pump late night,2022-06-09,16:16,Paldi,Ahmedabad,Gujarat,23.090724,72.601637,Medium,Closed,CCTV Surveillance
+CR-00375,Robbery,ATM booth robbery attempt,2024-10-24,04:28,Chandni Chowk,Delhi,Delhi,28.523126,77.243043,Medium,Under Investigation,Online Portal
+CR-00376,Burglary,Break-in at locked residence,2023-11-08,23:07,Viman Nagar,Pune,Maharashtra,18.521822,73.831606,Medium,Closed,Police Station
+CR-00377,Burglary,Residential burglary while occupants away,2022-11-26,04:40,Electronic City,Bengaluru,Karnataka,13.07816,77.529373,Medium,Closed,CCTV Surveillance
+CR-00378,Assault,Domestic dispute escalation reported,2022-02-08,23:46,Navrangpura,Ahmedabad,Gujarat,23.028345,72.558575,Medium,Closed,Online Portal
+CR-00379,Fraud,Insurance claim fraud detected,2022-10-20,18:52,Hinjewadi,Pune,Maharashtra,18.543482,73.876621,Low,Pending,Online Portal
+CR-00380,Theft,Jewelry theft from residence,2024-02-29,04:06,Hinjewadi,Pune,Maharashtra,18.528407,73.936401,Medium,Closed,Online Portal
+CR-00381,Fraud,Online shopping fraud reported,2022-03-21,17:32,Guindy,Chennai,Tamil Nadu,12.968638,80.248909,Critical,Solved,CCTV Surveillance
+CR-00382,Burglary,Residential burglary while occupants away,2024-01-29,01:44,Hinjewadi,Pune,Maharashtra,18.484423,73.920345,High,Solved,Citizen Report
+CR-00383,Theft,Laptop theft from parked vehicle,2023-06-06,15:49,Koramangala,Bengaluru,Karnataka,13.071811,77.556653,High,Solved,Police Station
+CR-00384,Theft,Laptop theft from parked vehicle,2024-12-06,03:33,Bodakdev,Ahmedabad,Gujarat,23.065455,72.618777,Low,Solved,CCTV Surveillance
+CR-00385,Assault,Assault near public transport stop,2023-06-20,17:27,Behala,Kolkata,West Bengal,22.572376,88.44877,Medium,Under Investigation,Online Portal
+CR-00386,Fraud,Online shopping fraud reported,2024-09-17,08:19,Secunderabad,Hyderabad,Telangana,17.454839,78.429626,Low,Closed,Citizen Report
+CR-00387,Vandalism,Vehicle windshield smashed,2022-07-25,06:32,Electronic City,Bengaluru,Karnataka,12.967688,77.610115,Medium,Pending,Police Station
+CR-00388,Vandalism,Park bench and fixtures destroyed,2022-10-25,15:59,Worli,Mumbai,Maharashtra,18.926442,72.839464,Low,Pending,CCTV Surveillance
+CR-00389,Theft,Jewelry theft from residence,2023-08-10,22:38,C-Scheme,Jaipur,Rajasthan,26.943777,75.748043,Medium,Under Investigation,Online Portal
+CR-00390,Theft,Laptop theft from parked vehicle,2024-11-11,16:44,Chandni Chowk,Delhi,Delhi,28.550845,77.060818,Low,Under Investigation,Emergency Call
+CR-00391,Burglary,Residential burglary while occupants away,2023-12-25,21:25,Hadapsar,Pune,Maharashtra,18.480047,73.802305,High,Closed,CCTV Surveillance
+CR-00392,Robbery,ATM booth robbery attempt,2023-12-14,11:52,Navrangpura,Ahmedabad,Gujarat,23.060636,72.569453,Critical,Pending,Citizen Report
+CR-00393,Assault,Assault near public transport stop,2022-08-07,17:04,C-Scheme,Jaipur,Rajasthan,26.874395,75.738721,High,Solved,Citizen Report
+CR-00394,Burglary,Shop burglary with forced entry,2024-09-17,07:48,Hinjewadi,Pune,Maharashtra,18.56634,73.902239,Critical,Closed,Emergency Call
+CR-00395,Other,Suspicious activity reported,2024-02-23,20:50,Andheri,Mumbai,Maharashtra,19.103074,72.83449,Low,Closed,Emergency Call
+CR-00396,Vandalism,Graffiti on commercial building,2023-08-12,02:25,Aliganj,Lucknow,Uttar Pradesh,26.89495,80.890644,High,Solved,CCTV Surveillance
+CR-00397,Drug-related,Suspicious activity near school zone,2023-01-10,23:43,New Town,Kolkata,West Bengal,22.488033,88.410567,Medium,Under Investigation,Online Portal
+CR-00398,Theft,Jewelry theft from residence,2023-05-27,19:22,Hazratganj,Lucknow,Uttar Pradesh,26.794937,81.008826,Medium,Pending,CCTV Surveillance
+CR-00399,Burglary,Warehouse burglary overnight,2024-09-14,11:39,Dwarka,Delhi,Delhi,28.769436,77.314296,High,Solved,Citizen Report
+CR-00400,Cybercrime,Ransomware attack on business,2022-09-20,01:33,Alambagh,Lucknow,Uttar Pradesh,26.846965,80.955708,Medium,Solved,Police Station
+CR-00401,Theft,Purse snatching near market area,2024-07-31,10:44,Malviya Nagar,Jaipur,Rajasthan,26.927856,75.780708,Low,Solved,CCTV Surveillance
+CR-00402,Other,Trespassing on private property,2023-05-01,08:30,Dum Dum,Kolkata,West Bengal,22.518619,88.327587,Low,Solved,Citizen Report
+CR-00403,Theft,Laptop theft from parked vehicle,2024-07-12,05:36,Gariahat,Kolkata,West Bengal,22.565179,88.334285,Low,Solved,Citizen Report
+CR-00404,Burglary,Residential burglary while occupants away,2022-10-26,23:09,Mahanagar,Lucknow,Uttar Pradesh,26.781364,80.939013,Low,Closed,Citizen Report
+CR-00405,Assault,Domestic dispute escalation reported,2023-05-29,17:54,Salt Lake,Kolkata,West Bengal,22.52968,88.403581,Low,Closed,Citizen Report
+CR-00406,Fraud,Credit card fraud reported,2023-06-17,11:23,Secunderabad,Hyderabad,Telangana,17.486369,78.401543,Low,Under Investigation,CCTV Surveillance
+CR-00407,Burglary,Residential burglary while occupants away,2022-12-24,09:22,Maninagar,Ahmedabad,Gujarat,23.051044,72.627474,Medium,Under Investigation,Citizen Report
+CR-00408,Drug-related,Illegal substance possession,2022-12-10,20:51,Indiranagar,Bengaluru,Karnataka,12.984363,77.622462,Medium,Closed,Emergency Call
+CR-00409,Robbery,ATM booth robbery attempt,2023-10-05,10:41,Alambagh,Lucknow,Uttar Pradesh,26.817446,80.97025,Medium,Solved,Citizen Report
+CR-00410,Vandalism,Vehicle windshield smashed,2023-01-12,00:08,Electronic City,Bengaluru,Karnataka,13.032405,77.688087,Medium,Under Investigation,Police Station
+CR-00411,Theft,Jewelry theft from residence,2022-05-11,15:35,Dadar,Mumbai,Maharashtra,19.13128,72.878597,Critical,Under Investigation,Police Station
+CR-00412,Cybercrime,Social media account hacked,2023-09-26,07:15,Shivaji Nagar,Pune,Maharashtra,18.516474,73.818962,Medium,Under Investigation,Emergency Call
+CR-00413,Robbery,Street robbery of pedestrian,2024-08-14,17:59,Porur,Chennai,Tamil Nadu,13.038969,80.295431,High,Under Investigation,CCTV Surveillance
+CR-00414,Assault,Group clash at public event,2024-12-08,20:40,Shivaji Nagar,Pune,Maharashtra,18.586338,73.872248,Medium,Under Investigation,Citizen Report
+CR-00415,Theft,Mobile phone stolen from crowded area,2022-11-15,09:00,Behala,Kolkata,West Bengal,22.613076,88.427192,Low,Solved,Citizen Report
+CR-00416,Theft,Jewelry theft from residence,2022-01-19,13:51,Gariahat,Kolkata,West Bengal,22.496243,88.301083,Low,Solved,Citizen Report
+CR-00417,Assault,Assault near public transport stop,2022-12-01,22:47,Indira Nagar,Lucknow,Uttar Pradesh,26.89598,80.910883,Low,Pending,Emergency Call
+CR-00418,Cybercrime,Identity theft via data breach,2023-07-05,13:12,Sodala,Jaipur,Rajasthan,26.849185,75.766335,High,Pending,Online Portal
+CR-00419,Other,Public nuisance reported,2022-02-09,04:03,Banjara Hills,Hyderabad,Telangana,17.304426,78.544467,Low,Under Investigation,Online Portal
+CR-00420,Robbery,Armed robbery at convenience store,2022-11-05,00:31,Powai,Mumbai,Maharashtra,19.026073,72.917859,High,Solved,Police Station
+CR-00421,Assault,Domestic dispute escalation reported,2022-04-25,08:49,Koramangala,Bengaluru,Karnataka,13.008638,77.536321,Critical,Solved,Police Station
+CR-00422,Fraud,Banking fraud through phishing,2024-02-28,14:15,Alambagh,Lucknow,Uttar Pradesh,26.784691,80.944517,High,Solved,Citizen Report
+CR-00423,Vandalism,Graffiti on commercial building,2023-10-24,05:40,New Town,Kolkata,West Bengal,22.598945,88.382437,Low,Solved,Emergency Call
+CR-00424,Assault,Assault during traffic dispute,2023-03-23,03:15,Connaught Place,Delhi,Delhi,28.597354,77.100208,Medium,Under Investigation,Police Station
+CR-00425,Robbery,ATM booth robbery attempt,2024-08-31,22:38,CG Road,Ahmedabad,Gujarat,23.07708,72.574872,High,Pending,Police Station
+CR-00426,Cybercrime,Identity theft via data breach,2022-11-12,22:34,Begumpet,Hyderabad,Telangana,17.325165,78.396535,Critical,Closed,Online Portal
+CR-00427,Theft,Bicycle theft from residential area,2024-02-13,11:46,Saket,Delhi,Delhi,28.769599,77.195591,Medium,Solved,CCTV Surveillance
+CR-00428,Vandalism,Street light poles damaged,2023-12-14,10:46,Indiranagar,Bengaluru,Karnataka,13.073532,77.619736,High,Under Investigation,Citizen Report
+CR-00429,Assault,Assault near public transport stop,2023-06-24,17:23,Dum Dum,Kolkata,West Bengal,22.605184,88.375894,High,Closed,CCTV Surveillance
+CR-00430,Assault,Assault near public transport stop,2023-10-19,23:04,Gomti Nagar,Lucknow,Uttar Pradesh,26.855454,80.934249,High,Solved,CCTV Surveillance
+CR-00431,Robbery,Highway robbery of commercial vehicle,2023-10-23,13:41,Park Street,Kolkata,West Bengal,22.469251,88.398834,Low,Closed,Online Portal
+CR-00432,Theft,Jewelry theft from residence,2024-09-21,06:06,Juhu,Mumbai,Maharashtra,19.092526,72.85829,Medium,Pending,Police Station
+CR-00433,Theft,Mobile phone stolen from crowded area,2023-03-29,19:45,Begumpet,Hyderabad,Telangana,17.486042,78.391748,Medium,Closed,Police Station
+CR-00434,Cybercrime,Identity theft via data breach,2024-05-01,11:50,Jubilee Hills,Hyderabad,Telangana,17.464729,78.403163,Low,Under Investigation,Online Portal
+CR-00435,Robbery,Highway robbery of commercial vehicle,2022-07-18,03:46,Tonk Road,Jaipur,Rajasthan,26.881653,75.750899,High,Pending,Police Station
+CR-00436,Vandalism,Street light poles damaged,2024-01-04,21:29,Vastrapur,Ahmedabad,Gujarat,23.042707,72.56041,Medium,Solved,Online Portal
+CR-00437,Burglary,Shop burglary with forced entry,2024-06-26,11:57,Raja Park,Jaipur,Rajasthan,26.978634,75.771945,Medium,Closed,CCTV Surveillance
+CR-00438,Vandalism,Public property damaged,2023-03-15,12:49,Hazratganj,Lucknow,Uttar Pradesh,26.884241,80.930401,Low,Closed,Emergency Call
+CR-00439,Other,Noise complaint at commercial area,2022-02-03,16:08,Maninagar,Ahmedabad,Gujarat,23.030184,72.580033,Low,Closed,CCTV Surveillance
+CR-00440,Burglary,Office break-in during weekend,2022-11-13,03:02,C-Scheme,Jaipur,Rajasthan,26.844977,75.762398,Critical,Under Investigation,Police Station
+CR-00441,Robbery,Street robbery of pedestrian,2024-03-29,18:58,SG Highway,Ahmedabad,Gujarat,23.00772,72.582469,High,Solved,CCTV Surveillance
+CR-00442,Assault,Domestic dispute escalation reported,2022-03-18,23:51,Gariahat,Kolkata,West Bengal,22.465695,88.308388,High,Solved,Police Station
+CR-00443,Vandalism,Graffiti on commercial building,2022-01-24,20:49,Aliganj,Lucknow,Uttar Pradesh,26.787578,80.953414,Low,Pending,Online Portal
+CR-00444,Vandalism,Vehicle windshield smashed,2024-03-15,14:48,Rohini,Delhi,Delhi,28.651419,77.116626,Low,Solved,Police Station
+CR-00445,Robbery,Robbery at petrol pump late night,2022-04-11,17:25,Adyar,Chennai,Tamil Nadu,13.029705,80.215174,High,Closed,Citizen Report
+CR-00446,Other,Suspicious activity reported,2023-02-06,17:39,Hinjewadi,Pune,Maharashtra,18.528637,73.836347,Low,Solved,Police Station
+CR-00447,Theft,Purse snatching near market area,2024-05-17,11:22,Aundh,Pune,Maharashtra,18.501679,73.898311,High,Under Investigation,CCTV Surveillance
+CR-00448,Cybercrime,Social media account hacked,2024-06-21,01:59,Koramangala,Bengaluru,Karnataka,12.939937,77.574764,High,Closed,Online Portal
+CR-00449,Burglary,Residential burglary while occupants away,2022-10-30,09:00,Satellite,Ahmedabad,Gujarat,23.080428,72.580512,Medium,Solved,Online Portal
+CR-00450,Vandalism,Street light poles damaged,2024-12-07,08:35,MI Road,Jaipur,Rajasthan,26.936788,75.742616,Medium,Under Investigation,Emergency Call
+CR-00451,Cybercrime,Online scam through fake website,2022-05-04,09:12,Jayanagar,Bengaluru,Karnataka,13.023593,77.510617,High,Under Investigation,Emergency Call
+CR-00452,Drug-related,Suspicious activity near school zone,2022-02-09,09:55,Malad,Mumbai,Maharashtra,19.015957,72.946969,High,Pending,CCTV Surveillance
+CR-00453,Burglary,Residential burglary while occupants away,2022-06-30,05:12,C-Scheme,Jaipur,Rajasthan,26.893278,75.868216,Low,Under Investigation,Emergency Call
+CR-00454,Theft,Jewelry theft from residence,2024-03-16,23:10,Tambaram,Chennai,Tamil Nadu,13.086862,80.203307,Low,Closed,Police Station
+CR-00455,Drug-related,Controlled substance found during patrol,2024-03-03,00:35,New Town,Kolkata,West Bengal,22.495117,88.351268,Medium,Under Investigation,Citizen Report
+CR-00456,Drug-related,Anonymous tip about drug activity,2022-11-09,13:19,Aliganj,Lucknow,Uttar Pradesh,26.8261,80.955913,Medium,Under Investigation,Online Portal
+CR-00457,Other,Trespassing on private property,2024-12-08,04:27,Salt Lake,Kolkata,West Bengal,22.645155,88.321773,High,Closed,CCTV Surveillance
+CR-00458,Drug-related,Controlled substance found during patrol,2022-08-31,05:20,C-Scheme,Jaipur,Rajasthan,26.843284,75.724717,Medium,Closed,Citizen Report
+CR-00459,Theft,Jewelry theft from residence,2022-11-08,06:06,New Town,Kolkata,West Bengal,22.45524,88.447893,Medium,Pending,CCTV Surveillance
+CR-00460,Burglary,Office break-in during weekend,2023-04-18,21:01,Gomti Nagar,Lucknow,Uttar Pradesh,26.87634,80.946724,High,Pending,Citizen Report
+CR-00461,Robbery,Robbery at petrol pump late night,2024-08-28,04:10,Adyar,Chennai,Tamil Nadu,12.956446,80.264681,Low,Solved,Online Portal
+CR-00462,Other,Illegal parking dispute,2022-05-16,05:59,Charbagh,Lucknow,Uttar Pradesh,26.8415,80.966388,Medium,Closed,Citizen Report
+CR-00463,Burglary,Break-in at locked residence,2024-02-19,23:20,Chandni Chowk,Delhi,Delhi,28.781742,77.22158,High,Pending,Citizen Report
+CR-00464,Fraud,Online shopping fraud reported,2022-03-28,07:33,Adyar,Chennai,Tamil Nadu,13.146766,80.155888,Medium,Closed,Emergency Call
+CR-00465,Cybercrime,Phishing email leading to data loss,2024-03-26,09:49,Velachery,Chennai,Tamil Nadu,13.042269,80.213369,High,Under Investigation,Citizen Report
+CR-00466,Theft,Bicycle theft from residential area,2022-07-05,23:32,Mylapore,Chennai,Tamil Nadu,13.105746,80.290676,Medium,Under Investigation,Citizen Report
+CR-00467,Drug-related,Drug distribution network reported,2023-01-02,14:37,Chandni Chowk,Delhi,Delhi,28.768738,77.314765,Low,Solved,Police Station
+CR-00468,Theft,Laptop theft from parked vehicle,2024-07-09,20:23,Worli,Mumbai,Maharashtra,19.112184,72.909031,Critical,Pending,CCTV Surveillance
+CR-00469,Robbery,Armed robbery at convenience store,2022-03-31,05:58,Baner,Pune,Maharashtra,18.580696,73.929401,Medium,Under Investigation,Emergency Call
+CR-00470,Theft,Mobile phone stolen from crowded area,2024-07-02,09:40,Behala,Kolkata,West Bengal,22.629708,88.444065,Low,Closed,Citizen Report
+CR-00471,Assault,Assault near public transport stop,2022-01-12,19:56,T Nagar,Chennai,Tamil Nadu,12.993375,80.248921,Medium,Solved,Online Portal
+CR-00472,Assault,Physical altercation near pub area,2023-07-24,19:40,Malviya Nagar,Jaipur,Rajasthan,26.95204,75.727827,Low,Pending,Police Station
+CR-00473,Theft,Jewelry theft from residence,2023-09-04,10:58,Navrangpura,Ahmedabad,Gujarat,23.010889,72.649374,Low,Solved,Citizen Report
+CR-00474,Fraud,Credit card fraud reported,2024-01-08,01:05,SG Highway,Ahmedabad,Gujarat,23.032282,72.639753,High,Closed,Emergency Call
+CR-00475,Drug-related,Illegal substance possession,2022-10-03,03:44,Anna Nagar,Chennai,Tamil Nadu,13.015842,80.212064,Medium,Under Investigation,CCTV Surveillance
+CR-00476,Fraud,Real estate fraud complaint,2022-06-29,15:46,C-Scheme,Jaipur,Rajasthan,26.969423,75.877805,Medium,Pending,CCTV Surveillance
+CR-00477,Assault,Assault near public transport stop,2023-12-26,04:39,Satellite,Ahmedabad,Gujarat,23.051971,72.613186,Medium,Under Investigation,Emergency Call
+CR-00478,Burglary,Shop burglary with forced entry,2022-01-04,03:01,Charbagh,Lucknow,Uttar Pradesh,26.891543,80.983246,Medium,Pending,Police Station
+CR-00479,Vandalism,Graffiti on commercial building,2023-12-18,17:51,Kukatpally,Hyderabad,Telangana,17.302259,78.390237,Low,Closed,CCTV Surveillance
+CR-00480,Vandalism,Vehicle windshield smashed,2023-10-26,00:07,Mansarovar,Jaipur,Rajasthan,26.874618,75.835903,Medium,Under Investigation,Emergency Call
+CR-00481,Theft,Purse snatching near market area,2024-09-08,15:51,Begumpet,Hyderabad,Telangana,17.327151,78.381077,Medium,Closed,Citizen Report
+CR-00482,Cybercrime,Identity theft via data breach,2024-12-03,09:36,Chandni Chowk,Delhi,Delhi,28.594651,77.210766,Low,Pending,Online Portal
+CR-00483,Fraud,Real estate fraud complaint,2022-03-05,10:24,Dum Dum,Kolkata,West Bengal,22.618481,88.385647,Medium,Pending,Police Station
+CR-00484,Drug-related,Drug distribution network reported,2024-04-27,02:31,Salt Lake,Kolkata,West Bengal,22.524317,88.424419,Medium,Solved,Emergency Call
+CR-00485,Burglary,Shop burglary with forced entry,2023-02-18,02:28,Dwarka,Delhi,Delhi,28.739708,77.321487,Medium,Solved,Emergency Call
+CR-00486,Other,Noise complaint at commercial area,2022-07-21,16:43,Koramangala,Bengaluru,Karnataka,12.941037,77.507311,Low,Closed,Emergency Call
+CR-00487,Drug-related,Suspicious activity near school zone,2022-06-28,10:29,Saket,Delhi,Delhi,28.530931,77.279854,High,Under Investigation,Emergency Call
+CR-00488,Fraud,Online shopping fraud reported,2023-01-30,09:17,Hazratganj,Lucknow,Uttar Pradesh,26.88819,80.973957,Medium,Under Investigation,CCTV Surveillance
+CR-00489,Burglary,Residential burglary while occupants away,2024-11-18,03:13,Mansarovar,Jaipur,Rajasthan,26.907899,75.763368,Critical,Closed,Online Portal
+CR-00490,Robbery,Armed robbery at convenience store,2023-09-30,19:57,Worli,Mumbai,Maharashtra,19.033094,72.819511,High,Pending,Police Station
+CR-00491,Fraud,Real estate fraud complaint,2024-05-23,12:11,Juhu,Mumbai,Maharashtra,19.167383,72.894421,High,Solved,Emergency Call
+CR-00492,Fraud,Insurance claim fraud detected,2024-12-28,02:59,Aminabad,Lucknow,Uttar Pradesh,26.845197,80.898451,High,Closed,Citizen Report
+CR-00493,Other,Illegal parking dispute,2024-08-11,15:14,Dum Dum,Kolkata,West Bengal,22.478744,88.434355,Low,Solved,Emergency Call
+CR-00494,Burglary,Residential burglary while occupants away,2024-09-25,00:04,Velachery,Chennai,Tamil Nadu,13.020288,80.219186,Medium,Closed,CCTV Surveillance
+CR-00495,Theft,Jewelry theft from residence,2024-04-10,22:50,Worli,Mumbai,Maharashtra,19.066845,72.810639,Low,Solved,Online Portal
+CR-00496,Other,Public nuisance reported,2023-05-15,17:10,Vastrapur,Ahmedabad,Gujarat,23.038382,72.584071,High,Pending,CCTV Surveillance
+CR-00497,Theft,Bicycle theft from residential area,2022-12-21,21:42,Mahanagar,Lucknow,Uttar Pradesh,26.910321,80.960386,Medium,Pending,CCTV Surveillance
+CR-00498,Other,Public nuisance reported,2024-06-30,05:19,Powai,Mumbai,Maharashtra,18.920882,72.816312,High,Closed,Citizen Report
+CR-00499,Theft,Laptop theft from parked vehicle,2022-07-05,06:52,Nehru Place,Delhi,Delhi,28.67423,77.276497,High,Closed,CCTV Surveillance
+CR-00500,Burglary,Office break-in during weekend,2024-03-09,19:36,Gariahat,Kolkata,West Bengal,22.491132,88.431614,Medium,Closed,Emergency Call
+CR-00501,Burglary,Break-in at locked residence,2022-01-17,19:32,Andheri,Mumbai,Maharashtra,18.938267,72.844128,Medium,Solved,CCTV Surveillance
+CR-00502,Theft,Bicycle theft from residential area,2022-08-13,09:55,Ameerpet,Hyderabad,Telangana,17.386343,78.468033,Medium,Pending,Citizen Report
+CR-00503,Burglary,Warehouse burglary overnight,2023-03-09,21:11,C-Scheme,Jaipur,Rajasthan,26.850116,75.781535,Critical,Closed,Online Portal
+CR-00504,Theft,Mobile phone stolen from crowded area,2022-01-24,02:41,Indiranagar,Bengaluru,Karnataka,13.044268,77.59734,Medium,Closed,Citizen Report
+CR-00505,Assault,Domestic dispute escalation reported,2024-05-21,19:11,T Nagar,Chennai,Tamil Nadu,13.034825,80.273011,Medium,Under Investigation,CCTV Surveillance
+CR-00506,Robbery,Robbery at petrol pump late night,2023-04-30,22:32,Mylapore,Chennai,Tamil Nadu,13.135313,80.236453,Low,Under Investigation,Police Station
+CR-00507,Theft,Bicycle theft from residential area,2024-09-13,22:05,SG Highway,Ahmedabad,Gujarat,23.073129,72.648358,Critical,Closed,CCTV Surveillance
+CR-00508,Fraud,Credit card fraud reported,2022-07-01,07:30,Maninagar,Ahmedabad,Gujarat,23.066374,72.616872,High,Solved,CCTV Surveillance
+CR-00509,Theft,Purse snatching near market area,2023-12-05,17:49,Dwarka,Delhi,Delhi,28.63621,77.321817,Medium,Solved,Emergency Call
+CR-00510,Assault,Assault near public transport stop,2022-03-14,22:59,Indiranagar,Bengaluru,Karnataka,12.960814,77.657004,Medium,Pending,CCTV Surveillance
+CR-00511,Theft,Purse snatching near market area,2023-08-21,23:39,Karol Bagh,Delhi,Delhi,28.645428,77.088046,Low,Closed,CCTV Surveillance
+CR-00512,Cybercrime,Identity theft via data breach,2023-07-18,08:00,Howrah,Kolkata,West Bengal,22.570764,88.43652,High,Pending,Emergency Call
+CR-00513,Burglary,Warehouse burglary overnight,2024-09-20,05:51,Alambagh,Lucknow,Uttar Pradesh,26.784633,81.01777,Critical,Pending,Citizen Report
+CR-00514,Vandalism,Graffiti on commercial building,2023-05-03,21:28,Hinjewadi,Pune,Maharashtra,18.475092,73.886664,High,Under Investigation,Police Station
+CR-00515,Robbery,Robbery at petrol pump late night,2024-08-08,12:30,Marathahalli,Bengaluru,Karnataka,13.04923,77.650486,High,Solved,Emergency Call
+CR-00516,Theft,Mobile phone stolen from crowded area,2024-12-22,13:00,Whitefield,Bengaluru,Karnataka,13.059462,77.576401,Low,Solved,CCTV Surveillance
+CR-00517,Vandalism,Street light poles damaged,2024-06-03,19:58,Ameerpet,Hyderabad,Telangana,17.354518,78.404065,High,Solved,Citizen Report
+CR-00518,Fraud,Online shopping fraud reported,2023-02-04,16:21,Hazratganj,Lucknow,Uttar Pradesh,26.91905,80.923858,Low,Under Investigation,Citizen Report
+CR-00519,Burglary,Break-in at locked residence,2024-12-11,03:43,Andheri,Mumbai,Maharashtra,18.965825,72.842495,Medium,Under Investigation,CCTV Surveillance
+CR-00520,Theft,Laptop theft from parked vehicle,2022-09-07,22:07,Aminabad,Lucknow,Uttar Pradesh,26.864656,80.932634,High,Pending,Online Portal
+CR-00521,Other,Trespassing on private property,2023-08-27,14:42,Esplanade,Kolkata,West Bengal,22.577756,88.438404,Low,Solved,Online Portal
+CR-00522,Burglary,Break-in at locked residence,2023-07-22,01:24,Malad,Mumbai,Maharashtra,19.198788,72.838736,High,Under Investigation,Online Portal
+CR-00523,Burglary,Shop burglary with forced entry,2024-03-15,05:41,Maninagar,Ahmedabad,Gujarat,23.014387,72.626871,Medium,Pending,Police Station
+CR-00524,Vandalism,Public property damaged,2022-05-30,02:36,Connaught Place,Delhi,Delhi,28.733171,77.055629,Low,Pending,Citizen Report
+CR-00525,Drug-related,Controlled substance found during patrol,2022-11-07,22:21,Gariahat,Kolkata,West Bengal,22.564928,88.377307,Critical,Solved,Police Station
+CR-00526,Other,Trespassing on private property,2023-04-08,00:24,Raja Park,Jaipur,Rajasthan,26.950876,75.797131,Medium,Closed,Emergency Call
+CR-00527,Theft,Purse snatching near market area,2022-04-24,20:41,Viman Nagar,Pune,Maharashtra,18.530194,73.944139,Low,Solved,Online Portal
+CR-00528,Theft,Mobile phone stolen from crowded area,2022-03-22,12:42,Sodala,Jaipur,Rajasthan,26.931341,75.863434,Medium,Solved,Online Portal
+CR-00529,Cybercrime,Identity theft via data breach,2022-03-15,06:01,Marathahalli,Bengaluru,Karnataka,13.018589,77.597847,Low,Solved,CCTV Surveillance
+CR-00530,Theft,Jewelry theft from residence,2022-02-03,01:21,Porur,Chennai,Tamil Nadu,13.107556,80.156422,Low,Closed,CCTV Surveillance
+CR-00531,Vandalism,Vehicle windshield smashed,2023-04-23,02:02,Indiranagar,Bengaluru,Karnataka,12.997779,77.503813,High,Pending,Police Station
+CR-00532,Cybercrime,Social media account hacked,2022-04-13,09:52,Whitefield,Bengaluru,Karnataka,12.991237,77.534138,Medium,Closed,Citizen Report
+CR-00533,Robbery,Armed robbery at convenience store,2023-03-28,02:51,Navrangpura,Ahmedabad,Gujarat,23.033734,72.63359,High,Solved,Emergency Call
+CR-00534,Robbery,Street robbery of pedestrian,2022-04-04,18:11,Gomti Nagar,Lucknow,Uttar Pradesh,26.796904,80.899773,High,Pending,Citizen Report
+CR-00535,Cybercrime,Social media account hacked,2022-03-25,04:06,Hazratganj,Lucknow,Uttar Pradesh,26.868507,80.932658,Low,Closed,Police Station
+CR-00536,Assault,Assault during traffic dispute,2022-07-02,22:41,MG Road,Bengaluru,Karnataka,12.956746,77.638701,High,Solved,Online Portal
+CR-00537,Theft,Jewelry theft from residence,2024-12-07,14:26,Salt Lake,Kolkata,West Bengal,22.48491,88.403751,Medium,Pending,Emergency Call
+CR-00538,Robbery,Street robbery of pedestrian,2024-05-07,00:35,Secunderabad,Hyderabad,Telangana,17.323502,78.45604,Low,Solved,Citizen Report
+CR-00539,Theft,Laptop theft from parked vehicle,2023-07-21,01:12,Hazratganj,Lucknow,Uttar Pradesh,26.80089,80.998129,High,Solved,Police Station
+CR-00540,Robbery,Armed robbery at convenience store,2023-08-07,06:27,Gachibowli,Hyderabad,Telangana,17.423364,78.528016,High,Under Investigation,Online Portal
+CR-00541,Theft,Purse snatching near market area,2024-09-20,16:07,Saket,Delhi,Delhi,28.57059,77.183446,Medium,Solved,Police Station
+CR-00542,Vandalism,Park bench and fixtures destroyed,2023-04-12,03:15,Banjara Hills,Hyderabad,Telangana,17.473977,78.425106,Low,Solved,Citizen Report
+CR-00543,Theft,Purse snatching near market area,2023-03-19,19:29,MG Road,Bengaluru,Karnataka,12.974697,77.591548,Low,Solved,Emergency Call
+CR-00544,Theft,Purse snatching near market area,2022-03-07,22:36,MG Road,Bengaluru,Karnataka,12.9273,77.67033,Medium,Under Investigation,Emergency Call
+CR-00545,Drug-related,Anonymous tip about drug activity,2022-11-18,20:39,Paldi,Ahmedabad,Gujarat,23.057812,72.605276,Medium,Solved,Online Portal
+CR-00546,Theft,Laptop theft from parked vehicle,2024-08-27,14:17,Navrangpura,Ahmedabad,Gujarat,23.042811,72.63726,Low,Solved,CCTV Surveillance
+CR-00547,Other,Noise complaint at commercial area,2024-05-05,01:02,Nehru Place,Delhi,Delhi,28.720043,77.201265,Low,Solved,Citizen Report
+CR-00548,Theft,Mobile phone stolen from crowded area,2022-06-20,17:48,Hazratganj,Lucknow,Uttar Pradesh,26.88245,81.012991,Low,Solved,Citizen Report
+CR-00549,Drug-related,Controlled substance found during patrol,2022-11-28,22:29,Howrah,Kolkata,West Bengal,22.599457,88.303662,High,Closed,Emergency Call
+CR-00550,Burglary,Residential burglary while occupants away,2022-01-03,20:04,Adyar,Chennai,Tamil Nadu,13.08815,80.229638,Medium,Closed,Police Station
+CR-00551,Theft,Purse snatching near market area,2023-11-19,23:59,Paldi,Ahmedabad,Gujarat,23.094532,72.617465,High,Under Investigation,CCTV Surveillance
+CR-00552,Fraud,Real estate fraud complaint,2024-01-19,11:11,Saket,Delhi,Delhi,28.711462,77.218227,High,Under Investigation,CCTV Surveillance
+CR-00553,Assault,Group clash at public event,2024-09-06,23:48,Juhu,Mumbai,Maharashtra,19.187731,72.831469,High,Under Investigation,CCTV Surveillance
+CR-00554,Burglary,Residential burglary while occupants away,2023-07-22,01:04,Hadapsar,Pune,Maharashtra,18.517862,73.875218,High,Solved,Citizen Report
+CR-00555,Cybercrime,Social media account hacked,2024-01-24,21:44,Bodakdev,Ahmedabad,Gujarat,23.094088,72.556563,High,Solved,Online Portal
+CR-00556,Robbery,Armed robbery at convenience store,2022-06-07,03:10,Esplanade,Kolkata,West Bengal,22.589416,88.374449,Critical,Solved,Citizen Report
+CR-00557,Burglary,Warehouse burglary overnight,2022-09-28,15:22,Raja Park,Jaipur,Rajasthan,26.938033,75.723437,Medium,Under Investigation,Citizen Report
+CR-00558,Cybercrime,Online scam through fake website,2023-12-04,20:41,Maninagar,Ahmedabad,Gujarat,23.048615,72.616586,Medium,Solved,CCTV Surveillance
+CR-00559,Robbery,ATM booth robbery attempt,2023-09-20,05:50,Jayanagar,Bengaluru,Karnataka,12.996849,77.694145,High,Under Investigation,Citizen Report
+CR-00560,Robbery,Highway robbery of commercial vehicle,2022-11-26,22:34,Indiranagar,Bengaluru,Karnataka,13.094641,77.667866,High,Pending,Online Portal
+CR-00561,Theft,Purse snatching near market area,2022-03-26,10:36,Powai,Mumbai,Maharashtra,18.978122,72.827674,Medium,Under Investigation,Online Portal
+CR-00562,Assault,Domestic dispute escalation reported,2024-07-07,17:10,Madhapur,Hyderabad,Telangana,17.324298,78.354985,Critical,Closed,Online Portal
+CR-00563,Cybercrime,Phishing email leading to data loss,2024-11-05,10:41,Karol Bagh,Delhi,Delhi,28.642173,77.136948,Critical,Closed,CCTV Surveillance
+CR-00564,Vandalism,Park bench and fixtures destroyed,2023-11-25,22:07,Adyar,Chennai,Tamil Nadu,13.130035,80.170913,Medium,Solved,Citizen Report
+CR-00565,Fraud,Banking fraud through phishing,2022-07-09,10:03,Banjara Hills,Hyderabad,Telangana,17.33903,78.455287,High,Closed,Police Station
+CR-00566,Other,Suspicious activity reported,2024-07-01,21:42,MI Road,Jaipur,Rajasthan,26.976134,75.783108,Low,Pending,Emergency Call
+CR-00567,Burglary,Shop burglary with forced entry,2022-10-30,22:54,Hinjewadi,Pune,Maharashtra,18.507917,73.801829,Medium,Solved,Online Portal
+CR-00568,Theft,Jewelry theft from residence,2024-05-01,14:18,Anna Nagar,Chennai,Tamil Nadu,13.0956,80.284659,Medium,Solved,Online Portal
+CR-00569,Assault,Physical altercation near pub area,2023-09-14,15:55,Charbagh,Lucknow,Uttar Pradesh,26.826958,81.010641,High,Solved,Emergency Call
+CR-00570,Fraud,Credit card fraud reported,2022-12-25,17:29,Aundh,Pune,Maharashtra,18.563287,73.820539,Low,Solved,Police Station
+CR-00571,Fraud,Insurance claim fraud detected,2023-09-15,15:35,Salt Lake,Kolkata,West Bengal,22.494904,88.418683,Low,Solved,Emergency Call
+CR-00572,Fraud,Online shopping fraud reported,2023-01-03,15:58,Shivaji Nagar,Pune,Maharashtra,18.486713,73.817903,Medium,Closed,CCTV Surveillance
+CR-00573,Fraud,Online shopping fraud reported,2024-06-12,08:40,Tambaram,Chennai,Tamil Nadu,13.144852,80.272742,Medium,Pending,Online Portal
+CR-00574,Burglary,Office break-in during weekend,2022-04-30,04:20,CG Road,Ahmedabad,Gujarat,23.069328,72.585739,Low,Solved,Emergency Call
+CR-00575,Theft,Laptop theft from parked vehicle,2024-12-20,20:59,Dum Dum,Kolkata,West Bengal,22.488763,88.394204,High,Pending,Emergency Call
+CR-00576,Vandalism,Street light poles damaged,2023-07-10,21:44,Esplanade,Kolkata,West Bengal,22.469167,88.387007,High,Under Investigation,Emergency Call
+CR-00577,Other,Suspicious activity reported,2024-04-23,10:58,Anna Nagar,Chennai,Tamil Nadu,12.970484,80.173183,Low,Under Investigation,Citizen Report
+CR-00578,Theft,Bicycle theft from residential area,2022-06-06,03:52,Mylapore,Chennai,Tamil Nadu,12.953476,80.202231,Medium,Under Investigation,Online Portal
+CR-00579,Theft,Laptop theft from parked vehicle,2022-02-28,23:52,Howrah,Kolkata,West Bengal,22.475743,88.404137,Medium,Solved,Police Station
+CR-00580,Fraud,Credit card fraud reported,2022-08-17,02:01,Koregaon Park,Pune,Maharashtra,18.5636,73.806378,Low,Closed,Citizen Report
+CR-00581,Robbery,Street robbery of pedestrian,2023-06-03,01:04,Colaba,Mumbai,Maharashtra,18.903082,72.814476,Medium,Pending,Online Portal
+CR-00582,Drug-related,Anonymous tip about drug activity,2022-03-01,02:09,Secunderabad,Hyderabad,Telangana,17.488369,78.539758,Medium,Under Investigation,CCTV Surveillance
+CR-00583,Assault,Assault near public transport stop,2022-05-20,03:52,CG Road,Ahmedabad,Gujarat,23.001398,72.5717,Low,Solved,Police Station
+CR-00584,Burglary,Office break-in during weekend,2024-10-29,22:30,Charbagh,Lucknow,Uttar Pradesh,26.862513,80.941553,Critical,Under Investigation,Citizen Report
+CR-00585,Theft,Purse snatching near market area,2024-11-19,07:26,Indira Nagar,Lucknow,Uttar Pradesh,26.917846,80.897306,Low,Under Investigation,CCTV Surveillance
+CR-00586,Theft,Bicycle theft from residential area,2022-06-18,10:31,Saket,Delhi,Delhi,28.585083,77.230117,Low,Closed,CCTV Surveillance
+CR-00587,Cybercrime,Social media account hacked,2023-08-19,13:12,Aundh,Pune,Maharashtra,18.584213,73.920365,Critical,Solved,Police Station
+CR-00588,Fraud,Banking fraud through phishing,2024-06-16,16:42,Hinjewadi,Pune,Maharashtra,18.467883,73.859222,High,Closed,Emergency Call
+CR-00589,Cybercrime,Phishing email leading to data loss,2023-11-25,06:38,Indira Nagar,Lucknow,Uttar Pradesh,26.8366,80.912602,Medium,Solved,Citizen Report
+CR-00590,Other,Noise complaint at commercial area,2024-09-01,21:38,Kukatpally,Hyderabad,Telangana,17.497505,78.452283,Low,Solved,Citizen Report
+CR-00591,Theft,Laptop theft from parked vehicle,2023-04-18,20:08,Guindy,Chennai,Tamil Nadu,13.09756,80.274547,Medium,Under Investigation,CCTV Surveillance
+CR-00592,Fraud,Insurance claim fraud detected,2022-11-09,09:39,Secunderabad,Hyderabad,Telangana,17.452034,78.482216,Medium,Solved,Emergency Call
+CR-00593,Vandalism,Park bench and fixtures destroyed,2024-10-01,16:16,Anna Nagar,Chennai,Tamil Nadu,13.111896,80.231079,Low,Closed,Citizen Report
+CR-00594,Assault,Assault during traffic dispute,2023-10-07,12:28,Porur,Chennai,Tamil Nadu,12.956572,80.2335,Critical,Solved,Citizen Report
+CR-00595,Burglary,Residential burglary while occupants away,2023-10-02,22:24,Marathahalli,Bengaluru,Karnataka,12.921876,77.635005,High,Pending,Citizen Report
+CR-00596,Burglary,Office break-in during weekend,2022-11-17,16:03,Raja Park,Jaipur,Rajasthan,26.899151,75.875339,High,Solved,Police Station
+CR-00597,Burglary,Shop burglary with forced entry,2022-04-03,04:53,Chandni Chowk,Delhi,Delhi,28.742866,77.22519,High,Pending,Citizen Report
+CR-00598,Theft,Mobile phone stolen from crowded area,2024-01-02,13:22,Kukatpally,Hyderabad,Telangana,17.348846,78.396924,Low,Under Investigation,Police Station
+CR-00599,Robbery,ATM booth robbery attempt,2022-12-14,00:34,Banjara Hills,Hyderabad,Telangana,17.392182,78.522674,High,Closed,Citizen Report
+CR-00600,Fraud,Banking fraud through phishing,2022-02-15,10:24,Vastrapur,Ahmedabad,Gujarat,23.032242,72.559773,Medium,Pending,Citizen Report
+CR-00601,Robbery,Armed robbery at convenience store,2023-11-27,05:39,Mansarovar,Jaipur,Rajasthan,26.975108,75.752281,High,Closed,Emergency Call
+CR-00602,Vandalism,Public property damaged,2022-04-08,09:36,Dum Dum,Kolkata,West Bengal,22.495177,88.411433,Low,Closed,Emergency Call
+CR-00603,Theft,Bicycle theft from residential area,2024-12-23,15:27,Powai,Mumbai,Maharashtra,19.138696,72.897731,Low,Closed,Online Portal
+CR-00604,Fraud,Credit card fraud reported,2024-04-03,08:39,Kothrud,Pune,Maharashtra,18.550734,73.882134,High,Pending,CCTV Surveillance
+CR-00605,Vandalism,Park bench and fixtures destroyed,2023-03-13,21:52,T Nagar,Chennai,Tamil Nadu,13.043459,80.290574,Medium,Pending,CCTV Surveillance
+CR-00606,Theft,Mobile phone stolen from crowded area,2024-01-17,14:09,Aliganj,Lucknow,Uttar Pradesh,26.884501,80.987174,High,Solved,Citizen Report
+CR-00607,Robbery,Highway robbery of commercial vehicle,2023-08-11,20:10,Esplanade,Kolkata,West Bengal,22.570246,88.36088,Medium,Under Investigation,Citizen Report
+CR-00608,Drug-related,Suspicious activity near school zone,2024-06-12,13:41,Velachery,Chennai,Tamil Nadu,12.990398,80.190907,Low,Closed,Police Station
+CR-00609,Drug-related,Suspicious activity near school zone,2022-02-10,01:55,Anna Nagar,Chennai,Tamil Nadu,13.012781,80.194697,Low,Closed,Citizen Report
+CR-00610,Vandalism,Street light poles damaged,2023-04-29,03:36,Jayanagar,Bengaluru,Karnataka,13.086587,77.604392,High,Closed,Citizen Report
+CR-00611,Fraud,Banking fraud through phishing,2023-05-03,19:07,Worli,Mumbai,Maharashtra,18.994023,72.92485,High,Closed,Online Portal
+CR-00612,Other,Trespassing on private property,2022-08-07,05:13,Whitefield,Bengaluru,Karnataka,12.987895,77.550861,Medium,Solved,Emergency Call
+CR-00613,Theft,Purse snatching near market area,2024-05-17,15:43,C-Scheme,Jaipur,Rajasthan,26.864437,75.845484,Low,Solved,Police Station
+CR-00614,Cybercrime,Online scam through fake website,2022-03-13,23:42,Maninagar,Ahmedabad,Gujarat,23.005467,72.641746,High,Solved,Emergency Call
+CR-00615,Vandalism,Graffiti on commercial building,2024-12-31,07:54,Bandra,Mumbai,Maharashtra,18.90236,72.944112,High,Closed,Online Portal
+CR-00616,Burglary,Office break-in during weekend,2023-03-07,05:58,Salt Lake,Kolkata,West Bengal,22.513437,88.421837,High,Closed,Citizen Report
+CR-00617,Vandalism,Public property damaged,2024-04-25,10:45,Mylapore,Chennai,Tamil Nadu,13.133709,80.165059,Low,Solved,Citizen Report
+CR-00618,Theft,Laptop theft from parked vehicle,2023-11-01,14:44,CG Road,Ahmedabad,Gujarat,23.00521,72.614159,Medium,Closed,Citizen Report
+CR-00619,Theft,Laptop theft from parked vehicle,2023-09-18,10:36,Charbagh,Lucknow,Uttar Pradesh,26.802095,80.952291,Critical,Closed,Emergency Call
+CR-00620,Robbery,Robbery at petrol pump late night,2024-09-06,23:08,Mylapore,Chennai,Tamil Nadu,13.087493,80.274015,High,Under Investigation,Online Portal
+CR-00621,Theft,Mobile phone stolen from crowded area,2024-02-12,18:14,Aundh,Pune,Maharashtra,18.453446,73.883779,Medium,Under Investigation,Online Portal
+CR-00622,Assault,Assault near public transport stop,2022-12-12,01:25,Salt Lake,Kolkata,West Bengal,22.570079,88.322388,Critical,Under Investigation,Police Station
+CR-00623,Fraud,Real estate fraud complaint,2024-06-10,14:52,C-Scheme,Jaipur,Rajasthan,26.838962,75.83417,Low,Closed,Citizen Report
+CR-00624,Theft,Laptop theft from parked vehicle,2022-09-24,13:54,Baner,Pune,Maharashtra,18.482335,73.923613,Medium,Under Investigation,Online Portal
+CR-00625,Fraud,Online shopping fraud reported,2023-08-18,08:15,Nehru Place,Delhi,Delhi,28.772198,77.160891,High,Solved,Online Portal
+CR-00626,Vandalism,Public property damaged,2024-03-25,21:13,Banjara Hills,Hyderabad,Telangana,17.441691,78.497221,Low,Under Investigation,Emergency Call
+CR-00627,Other,Trespassing on private property,2024-08-22,11:38,Charbagh,Lucknow,Uttar Pradesh,26.915409,80.963752,Medium,Under Investigation,Emergency Call
+CR-00628,Assault,Domestic dispute escalation reported,2024-01-30,04:57,Kothrud,Pune,Maharashtra,18.537073,73.839044,High,Closed,Police Station
+CR-00629,Theft,Purse snatching near market area,2024-12-22,13:09,Madhapur,Hyderabad,Telangana,17.362654,78.545703,Medium,Closed,Citizen Report
+CR-00630,Fraud,Insurance claim fraud detected,2023-06-24,19:53,Howrah,Kolkata,West Bengal,22.502752,88.346952,High,Solved,CCTV Surveillance
+CR-00631,Theft,Mobile phone stolen from crowded area,2022-04-19,06:09,Porur,Chennai,Tamil Nadu,12.986628,80.220537,Low,Solved,Police Station
+CR-00632,Burglary,Break-in at locked residence,2024-01-01,22:35,Adyar,Chennai,Tamil Nadu,13.048598,80.276876,Critical,Under Investigation,Emergency Call
+CR-00633,Cybercrime,Social media account hacked,2022-12-11,23:32,Indiranagar,Bengaluru,Karnataka,13.012649,77.632628,Low,Closed,Citizen Report
+CR-00634,Theft,Purse snatching near market area,2023-05-20,15:43,Bandra,Mumbai,Maharashtra,18.998597,72.842642,Critical,Under Investigation,Emergency Call
+CR-00635,Drug-related,Illegal substance possession,2022-03-01,02:29,HSR Layout,Bengaluru,Karnataka,13.031908,77.590811,Critical,Pending,Police Station
+CR-00636,Other,Trespassing on private property,2024-07-16,10:46,Vastrapur,Ahmedabad,Gujarat,23.090688,72.629703,Low,Closed,Police Station
+CR-00637,Robbery,Highway robbery of commercial vehicle,2024-02-21,02:25,Dadar,Mumbai,Maharashtra,18.972024,72.915632,Medium,Under Investigation,Citizen Report
+CR-00638,Other,Trespassing on private property,2023-08-07,20:48,Kothrud,Pune,Maharashtra,18.47312,73.844782,High,Pending,Emergency Call
+CR-00639,Assault,Domestic dispute escalation reported,2024-01-23,16:12,Powai,Mumbai,Maharashtra,19.165624,72.871466,High,Solved,CCTV Surveillance
+CR-00640,Theft,Laptop theft from parked vehicle,2024-06-08,20:27,Marathahalli,Bengaluru,Karnataka,13.002668,77.694654,Medium,Pending,CCTV Surveillance
+CR-00641,Vandalism,Graffiti on commercial building,2022-06-21,09:29,Mansarovar,Jaipur,Rajasthan,26.965153,75.796418,Low,Under Investigation,CCTV Surveillance
+CR-00642,Assault,Domestic dispute escalation reported,2023-08-29,18:03,Hadapsar,Pune,Maharashtra,18.587595,73.877012,High,Solved,Emergency Call
+CR-00643,Theft,Mobile phone stolen from crowded area,2022-06-17,16:01,Gariahat,Kolkata,West Bengal,22.582316,88.326933,Low,Solved,Emergency Call
+CR-00644,Assault,Assault during traffic dispute,2024-07-20,21:28,Jubilee Hills,Hyderabad,Telangana,17.353015,78.543344,Critical,Under Investigation,CCTV Surveillance
+CR-00645,Theft,Bicycle theft from residential area,2022-08-06,13:34,Behala,Kolkata,West Bengal,22.528987,88.301996,Medium,Solved,Emergency Call
+CR-00646,Other,Illegal parking dispute,2024-01-09,22:43,SG Highway,Ahmedabad,Gujarat,23.06751,72.630464,Low,Under Investigation,Police Station
+CR-00647,Fraud,Banking fraud through phishing,2022-02-24,06:30,Aminabad,Lucknow,Uttar Pradesh,26.870964,80.94101,High,Closed,Emergency Call
+CR-00648,Theft,Bicycle theft from residential area,2022-10-31,15:27,T Nagar,Chennai,Tamil Nadu,12.983221,80.172863,Medium,Closed,Citizen Report
+CR-00649,Fraud,Insurance claim fraud detected,2023-05-12,06:18,Bodakdev,Ahmedabad,Gujarat,23.083384,72.555092,Low,Pending,Citizen Report
+CR-00650,Burglary,Shop burglary with forced entry,2023-08-19,01:31,Satellite,Ahmedabad,Gujarat,23.051336,72.622461,Critical,Closed,Police Station
+CR-00651,Robbery,Robbery at petrol pump late night,2022-02-08,13:36,Raja Park,Jaipur,Rajasthan,26.830162,75.86286,High,Solved,Citizen Report
+CR-00652,Vandalism,Graffiti on commercial building,2022-02-12,05:18,Aundh,Pune,Maharashtra,18.520386,73.865717,Medium,Pending,Online Portal
+CR-00653,Other,Illegal parking dispute,2024-03-10,13:53,New Town,Kolkata,West Bengal,22.5805,88.354038,Low,Closed,Emergency Call
+CR-00654,Robbery,ATM booth robbery attempt,2024-09-15,04:11,Colaba,Mumbai,Maharashtra,19.081725,72.815136,High,Closed,Online Portal
+CR-00655,Drug-related,Illegal substance possession,2022-04-07,00:22,Vaishali Nagar,Jaipur,Rajasthan,26.877127,75.745377,Critical,Closed,Emergency Call
+CR-00656,Theft,Mobile phone stolen from crowded area,2022-08-22,19:14,Hadapsar,Pune,Maharashtra,18.483614,73.838673,Low,Solved,Online Portal
+CR-00657,Drug-related,Illegal substance possession,2022-08-02,22:03,Vaishali Nagar,Jaipur,Rajasthan,26.890052,75.793142,Critical,Under Investigation,CCTV Surveillance
+CR-00658,Assault,Domestic dispute escalation reported,2024-11-04,03:10,Nehru Place,Delhi,Delhi,28.761261,77.323296,Low,Solved,Police Station
+CR-00659,Theft,Laptop theft from parked vehicle,2024-01-15,10:52,Marathahalli,Bengaluru,Karnataka,13.069719,77.587822,Medium,Closed,Emergency Call
+CR-00660,Robbery,Street robbery of pedestrian,2024-10-31,05:05,Gariahat,Kolkata,West Bengal,22.59304,88.362251,High,Under Investigation,Online Portal
+CR-00661,Burglary,Break-in at locked residence,2024-05-28,13:58,Marathahalli,Bengaluru,Karnataka,12.991751,77.670478,High,Solved,Online Portal
+CR-00662,Robbery,Armed robbery at convenience store,2024-11-25,02:05,Karol Bagh,Delhi,Delhi,28.620495,77.281712,High,Solved,CCTV Surveillance
+CR-00663,Vandalism,Graffiti on commercial building,2024-11-30,09:26,Connaught Place,Delhi,Delhi,28.704261,77.216083,Low,Pending,Emergency Call
+CR-00664,Burglary,Office break-in during weekend,2022-10-28,22:25,Tonk Road,Jaipur,Rajasthan,26.852821,75.807108,High,Pending,Online Portal
+CR-00665,Robbery,ATM booth robbery attempt,2022-06-22,01:34,New Town,Kolkata,West Bengal,22.59502,88.411008,Medium,Closed,Police Station
+CR-00666,Fraud,Banking fraud through phishing,2023-10-02,16:21,C-Scheme,Jaipur,Rajasthan,26.845604,75.724463,High,Pending,Citizen Report
+CR-00667,Drug-related,Illegal substance possession,2022-08-15,23:03,Sodala,Jaipur,Rajasthan,26.861561,75.8012,Low,Closed,Emergency Call
+CR-00668,Other,Suspicious activity reported,2022-01-11,14:21,Satellite,Ahmedabad,Gujarat,23.080539,72.6489,Medium,Closed,Emergency Call
+CR-00669,Cybercrime,Social media account hacked,2023-08-06,21:50,Dum Dum,Kolkata,West Bengal,22.564553,88.320996,Medium,Pending,CCTV Surveillance
+CR-00670,Theft,Laptop theft from parked vehicle,2023-01-30,11:29,Paldi,Ahmedabad,Gujarat,23.071164,72.632844,Low,Under Investigation,Online Portal
+CR-00671,Fraud,Insurance claim fraud detected,2022-06-09,11:43,Guindy,Chennai,Tamil Nadu,13.067648,80.227842,Medium,Solved,Citizen Report
+CR-00672,Burglary,Residential burglary while occupants away,2024-05-03,05:09,Anna Nagar,Chennai,Tamil Nadu,13.046953,80.218657,Critical,Solved,Online Portal
+CR-00673,Robbery,Armed robbery at convenience store,2024-08-27,01:47,Anna Nagar,Chennai,Tamil Nadu,13.061805,80.288255,Medium,Closed,Emergency Call
+CR-00674,Robbery,Highway robbery of commercial vehicle,2023-08-17,01:33,Navrangpura,Ahmedabad,Gujarat,23.037147,72.649102,Medium,Solved,CCTV Surveillance
+CR-00675,Robbery,Armed robbery at convenience store,2022-04-10,09:56,Koregaon Park,Pune,Maharashtra,18.477462,73.910949,Low,Solved,Citizen Report
+CR-00676,Drug-related,Drug distribution network reported,2023-09-27,18:28,Porur,Chennai,Tamil Nadu,13.10627,80.221284,High,Pending,Citizen Report
+CR-00677,Theft,Purse snatching near market area,2022-11-02,23:20,T Nagar,Chennai,Tamil Nadu,13.074954,80.243538,Low,Closed,Citizen Report
+CR-00678,Theft,Jewelry theft from residence,2022-07-01,05:45,Salt Lake,Kolkata,West Bengal,22.576022,88.415739,Low,Pending,Online Portal
+CR-00679,Theft,Laptop theft from parked vehicle,2022-04-19,18:33,CG Road,Ahmedabad,Gujarat,23.047584,72.639686,Low,Closed,Emergency Call
+CR-00680,Drug-related,Illegal substance possession,2023-05-18,22:53,Alambagh,Lucknow,Uttar Pradesh,26.842192,80.992969,High,Solved,Police Station
+CR-00681,Theft,Jewelry theft from residence,2024-06-14,05:26,Gachibowli,Hyderabad,Telangana,17.40558,78.426402,Low,Closed,Emergency Call
+CR-00682,Theft,Purse snatching near market area,2023-01-10,08:49,Indiranagar,Bengaluru,Karnataka,12.961359,77.581455,Low,Pending,Police Station
+CR-00683,Robbery,Armed robbery at convenience store,2023-09-03,12:06,Connaught Place,Delhi,Delhi,28.623847,77.147265,Medium,Closed,Online Portal
+CR-00684,Fraud,Insurance claim fraud detected,2023-04-30,15:32,Aminabad,Lucknow,Uttar Pradesh,26.833907,80.896111,Low,Solved,Citizen Report
+CR-00685,Drug-related,Anonymous tip about drug activity,2024-04-14,20:14,Karol Bagh,Delhi,Delhi,28.505587,77.216223,High,Under Investigation,Emergency Call
+CR-00686,Cybercrime,Ransomware attack on business,2024-04-13,14:05,Satellite,Ahmedabad,Gujarat,23.050043,72.628288,Low,Solved,CCTV Surveillance
+CR-00687,Cybercrime,Social media account hacked,2024-07-14,01:00,Aundh,Pune,Maharashtra,18.594167,73.893109,High,Under Investigation,Emergency Call
+CR-00688,Other,Illegal parking dispute,2023-05-29,21:24,SG Highway,Ahmedabad,Gujarat,23.084244,72.571275,High,Solved,Emergency Call
+CR-00689,Drug-related,Anonymous tip about drug activity,2024-03-20,22:07,Powai,Mumbai,Maharashtra,19.117522,72.949823,Critical,Under Investigation,Emergency Call
+CR-00690,Fraud,Banking fraud through phishing,2024-07-16,08:15,Park Street,Kolkata,West Bengal,22.514328,88.331594,Critical,Solved,CCTV Surveillance
+CR-00691,Robbery,Armed robbery at convenience store,2022-01-09,00:43,Anna Nagar,Chennai,Tamil Nadu,13.061158,80.254473,High,Solved,CCTV Surveillance
+CR-00692,Burglary,Break-in at locked residence,2024-06-30,21:07,Chandni Chowk,Delhi,Delhi,28.743834,77.29824,Medium,Under Investigation,Citizen Report
+CR-00693,Theft,Mobile phone stolen from crowded area,2023-01-31,14:00,Kukatpally,Hyderabad,Telangana,17.303956,78.406227,High,Solved,Online Portal
+CR-00694,Robbery,Robbery at petrol pump late night,2024-10-08,11:02,Aminabad,Lucknow,Uttar Pradesh,26.906631,80.978976,Medium,Under Investigation,Emergency Call
+CR-00695,Vandalism,Public property damaged,2024-10-21,15:10,Navrangpura,Ahmedabad,Gujarat,23.065984,72.606571,Medium,Pending,Police Station
+CR-00696,Robbery,Street robbery of pedestrian,2023-06-16,18:54,Jayanagar,Bengaluru,Karnataka,13.004616,77.656451,Medium,Pending,CCTV Surveillance
+CR-00697,Fraud,Insurance claim fraud detected,2022-01-05,13:41,Tambaram,Chennai,Tamil Nadu,13.080006,80.278079,Medium,Closed,Police Station
+CR-00698,Assault,Assault near public transport stop,2024-08-13,15:23,Sodala,Jaipur,Rajasthan,26.826954,75.835395,Low,Closed,Emergency Call
+CR-00699,Theft,Bicycle theft from residential area,2024-03-13,06:21,Chandni Chowk,Delhi,Delhi,28.671546,77.057612,Medium,Closed,Online Portal
+CR-00700,Theft,Purse snatching near market area,2022-12-03,10:19,Indira Nagar,Lucknow,Uttar Pradesh,26.867541,80.883902,Medium,Under Investigation,Online Portal
+CR-00701,Cybercrime,Phishing email leading to data loss,2024-08-27,07:21,Malad,Mumbai,Maharashtra,19.14649,72.877951,Low,Under Investigation,Police Station
+CR-00702,Drug-related,Illegal substance possession,2022-09-13,02:03,Porur,Chennai,Tamil Nadu,13.025479,80.283513,High,Closed,Police Station
+CR-00703,Vandalism,Park bench and fixtures destroyed,2024-06-03,02:06,New Town,Kolkata,West Bengal,22.561852,88.344238,Low,Under Investigation,CCTV Surveillance
+CR-00704,Assault,Physical altercation near pub area,2022-01-22,14:24,Paldi,Ahmedabad,Gujarat,23.042811,72.612021,Low,Pending,CCTV Surveillance
+CR-00705,Theft,Laptop theft from parked vehicle,2023-01-30,03:06,Kukatpally,Hyderabad,Telangana,17.44266,78.468577,High,Closed,Emergency Call
+CR-00706,Burglary,Shop burglary with forced entry,2024-09-12,23:39,Shivaji Nagar,Pune,Maharashtra,18.486473,73.919554,Low,Solved,Emergency Call
+CR-00707,Robbery,Highway robbery of commercial vehicle,2022-10-26,04:30,CG Road,Ahmedabad,Gujarat,23.03429,72.586883,Low,Pending,Online Portal
+CR-00708,Theft,Bicycle theft from residential area,2022-04-22,13:22,Sodala,Jaipur,Rajasthan,26.85206,75.86536,High,Solved,CCTV Surveillance
+CR-00709,Burglary,Warehouse burglary overnight,2023-11-19,19:19,Banjara Hills,Hyderabad,Telangana,17.332456,78.44086,High,Under Investigation,Online Portal
+CR-00710,Robbery,Highway robbery of commercial vehicle,2024-08-13,19:13,Charbagh,Lucknow,Uttar Pradesh,26.882842,81.013362,Medium,Pending,Online Portal
+CR-00711,Burglary,Office break-in during weekend,2024-01-14,00:04,Connaught Place,Delhi,Delhi,28.666407,77.092721,Medium,Pending,Police Station
+CR-00712,Theft,Laptop theft from parked vehicle,2023-02-10,09:11,Hazratganj,Lucknow,Uttar Pradesh,26.81668,80.9044,High,Under Investigation,Online Portal
+CR-00713,Vandalism,Graffiti on commercial building,2022-07-27,00:53,Behala,Kolkata,West Bengal,22.525785,88.418112,Low,Closed,Online Portal
+CR-00714,Drug-related,Illegal substance possession,2024-02-02,21:10,Jubilee Hills,Hyderabad,Telangana,17.49542,78.549539,Critical,Closed,Online Portal
+CR-00715,Assault,Physical altercation near pub area,2023-01-24,06:34,MG Road,Bengaluru,Karnataka,12.974851,77.61991,Critical,Under Investigation,CCTV Surveillance
+CR-00716,Theft,Bicycle theft from residential area,2022-11-01,10:15,New Town,Kolkata,West Bengal,22.609122,88.430928,High,Closed,Police Station
+CR-00717,Burglary,Warehouse burglary overnight,2022-05-13,05:32,Mylapore,Chennai,Tamil Nadu,13.126484,80.26267,Medium,Solved,Emergency Call
+CR-00718,Burglary,Warehouse burglary overnight,2024-09-16,22:31,Mansarovar,Jaipur,Rajasthan,26.91299,75.822097,High,Pending,Online Portal
+CR-00719,Robbery,Street robbery of pedestrian,2023-04-26,12:13,Anna Nagar,Chennai,Tamil Nadu,13.127742,80.235706,Critical,Solved,Online Portal
+CR-00720,Robbery,Robbery at petrol pump late night,2023-08-28,14:33,Worli,Mumbai,Maharashtra,19.075189,72.869788,High,Solved,Citizen Report
+CR-00721,Assault,Physical altercation near pub area,2024-10-15,10:17,Kukatpally,Hyderabad,Telangana,17.335913,78.396758,High,Solved,CCTV Surveillance
+CR-00722,Theft,Purse snatching near market area,2022-06-10,08:59,C-Scheme,Jaipur,Rajasthan,26.838974,75.777638,Medium,Solved,Emergency Call
+CR-00723,Other,Noise complaint at commercial area,2023-01-26,22:38,Esplanade,Kolkata,West Bengal,22.649681,88.412858,Medium,Closed,Emergency Call
+CR-00724,Vandalism,Vehicle windshield smashed,2024-04-07,12:52,Ameerpet,Hyderabad,Telangana,17.431062,78.444401,Medium,Closed,Online Portal
+CR-00725,Assault,Physical altercation near pub area,2023-03-06,15:14,Mahanagar,Lucknow,Uttar Pradesh,26.890036,80.986067,High,Solved,Online Portal
+CR-00726,Vandalism,Public property damaged,2024-05-05,06:28,Aundh,Pune,Maharashtra,18.533767,73.856205,Medium,Under Investigation,Emergency Call
+CR-00727,Fraud,Online shopping fraud reported,2023-04-07,13:27,Banjara Hills,Hyderabad,Telangana,17.380674,78.505729,Medium,Solved,Online Portal
+CR-00728,Cybercrime,Online scam through fake website,2023-11-08,18:40,Whitefield,Bengaluru,Karnataka,13.08275,77.614776,Medium,Solved,CCTV Surveillance
+CR-00729,Robbery,Street robbery of pedestrian,2023-01-21,15:06,Kothrud,Pune,Maharashtra,18.594291,73.89585,Medium,Under Investigation,Police Station
+CR-00730,Robbery,Street robbery of pedestrian,2024-09-27,00:11,SG Highway,Ahmedabad,Gujarat,23.091135,72.588589,Medium,Solved,Citizen Report
+CR-00731,Theft,Jewelry theft from residence,2024-01-25,16:00,Lajpat Nagar,Delhi,Delhi,28.757912,77.173258,Low,Under Investigation,Citizen Report
+CR-00732,Drug-related,Anonymous tip about drug activity,2024-03-07,06:08,Juhu,Mumbai,Maharashtra,18.992927,72.922684,High,Under Investigation,CCTV Surveillance
+CR-00733,Burglary,Residential burglary while occupants away,2024-10-26,22:43,Aliganj,Lucknow,Uttar Pradesh,26.808238,81.018752,Medium,Closed,CCTV Surveillance
+CR-00734,Vandalism,Graffiti on commercial building,2024-10-02,14:29,Ameerpet,Hyderabad,Telangana,17.447458,78.407582,High,Solved,CCTV Surveillance
+CR-00735,Drug-related,Anonymous tip about drug activity,2024-04-30,07:11,Whitefield,Bengaluru,Karnataka,13.046649,77.591566,Critical,Under Investigation,Citizen Report
+CR-00736,Drug-related,Drug distribution network reported,2023-05-06,05:17,Nehru Place,Delhi,Delhi,28.661321,77.249997,Low,Pending,Citizen Report
+CR-00737,Cybercrime,Ransomware attack on business,2022-09-06,11:04,MI Road,Jaipur,Rajasthan,26.900703,75.844722,Medium,Under Investigation,Citizen Report
+CR-00738,Vandalism,Public property damaged,2022-05-30,20:44,Connaught Place,Delhi,Delhi,28.638571,77.153097,Low,Under Investigation,Emergency Call
+CR-00739,Cybercrime,Online scam through fake website,2022-10-07,10:42,Dadar,Mumbai,Maharashtra,19.045428,72.810236,Medium,Under Investigation,Citizen Report
+CR-00740,Theft,Mobile phone stolen from crowded area,2022-11-27,05:53,Park Street,Kolkata,West Bengal,22.470103,88.344122,Medium,Solved,Emergency Call
+CR-00741,Theft,Jewelry theft from residence,2024-06-21,11:11,Whitefield,Bengaluru,Karnataka,12.906889,77.635009,Low,Pending,Citizen Report
+CR-00742,Theft,Laptop theft from parked vehicle,2024-06-28,01:38,New Town,Kolkata,West Bengal,22.604482,88.415067,High,Solved,Police Station
+CR-00743,Robbery,Highway robbery of commercial vehicle,2024-05-13,00:00,Karol Bagh,Delhi,Delhi,28.557646,77.250685,Medium,Closed,Police Station
+CR-00744,Robbery,Robbery at petrol pump late night,2024-11-15,03:52,Hinjewadi,Pune,Maharashtra,18.534308,73.828432,Medium,Solved,Online Portal
+CR-00745,Theft,Mobile phone stolen from crowded area,2022-08-05,11:20,Indira Nagar,Lucknow,Uttar Pradesh,26.8363,80.924274,Low,Solved,CCTV Surveillance
+CR-00746,Robbery,Street robbery of pedestrian,2022-03-31,02:56,Gachibowli,Hyderabad,Telangana,17.360307,78.469774,Critical,Under Investigation,Emergency Call
+CR-00747,Burglary,Office break-in during weekend,2023-10-27,20:44,Malad,Mumbai,Maharashtra,19.177366,72.915711,Low,Under Investigation,Police Station
+CR-00748,Assault,Physical altercation near pub area,2022-02-06,19:58,Secunderabad,Hyderabad,Telangana,17.376474,78.478118,Medium,Pending,Police Station
+CR-00749,Cybercrime,Identity theft via data breach,2022-09-12,09:15,Satellite,Ahmedabad,Gujarat,23.075725,72.611977,Low,Solved,Online Portal
+CR-00750,Robbery,Highway robbery of commercial vehicle,2023-02-23,20:02,Hadapsar,Pune,Maharashtra,18.558796,73.948283,High,Closed,Emergency Call
+CR-00751,Cybercrime,Ransomware attack on business,2024-12-02,13:41,Connaught Place,Delhi,Delhi,28.725165,77.118703,High,Solved,Online Portal
+CR-00752,Theft,Mobile phone stolen from crowded area,2024-02-21,16:20,Gomti Nagar,Lucknow,Uttar Pradesh,26.86817,80.889046,Medium,Closed,Online Portal
+CR-00753,Burglary,Shop burglary with forced entry,2022-07-07,05:37,Jayanagar,Bengaluru,Karnataka,13.059047,77.540875,High,Solved,Online Portal
+CR-00754,Vandalism,Park bench and fixtures destroyed,2023-05-17,13:11,Aminabad,Lucknow,Uttar Pradesh,26.822434,80.960699,Critical,Under Investigation,Emergency Call
+CR-00755,Burglary,Shop burglary with forced entry,2024-02-13,05:30,Koregaon Park,Pune,Maharashtra,18.525794,73.910239,High,Closed,Citizen Report
+CR-00756,Fraud,Real estate fraud complaint,2022-06-20,09:38,Baner,Pune,Maharashtra,18.532928,73.826355,Medium,Solved,CCTV Surveillance
+CR-00757,Theft,Jewelry theft from residence,2024-09-11,02:21,Vastrapur,Ahmedabad,Gujarat,23.046926,72.565472,Low,Under Investigation,Citizen Report
+CR-00758,Robbery,Armed robbery at convenience store,2024-05-01,12:47,Hinjewadi,Pune,Maharashtra,18.523433,73.896157,High,Solved,Citizen Report
+CR-00759,Vandalism,Park bench and fixtures destroyed,2022-11-29,06:48,Vastrapur,Ahmedabad,Gujarat,23.025526,72.641309,Medium,Solved,Police Station
+CR-00760,Robbery,Highway robbery of commercial vehicle,2024-05-18,23:15,Hadapsar,Pune,Maharashtra,18.455176,73.921969,High,Pending,CCTV Surveillance
+CR-00761,Fraud,Insurance claim fraud detected,2022-10-29,08:15,Guindy,Chennai,Tamil Nadu,13.140356,80.276227,Low,Closed,CCTV Surveillance
+CR-00762,Vandalism,Park bench and fixtures destroyed,2024-11-27,06:56,Juhu,Mumbai,Maharashtra,19.148925,72.837931,Low,Closed,Citizen Report
+CR-00763,Fraud,Insurance claim fraud detected,2022-08-12,20:36,Juhu,Mumbai,Maharashtra,19.003318,72.821407,High,Closed,Police Station
+CR-00764,Theft,Laptop theft from parked vehicle,2024-10-04,00:06,Indiranagar,Bengaluru,Karnataka,13.039263,77.604992,Medium,Pending,Emergency Call
+CR-00765,Theft,Mobile phone stolen from crowded area,2022-10-03,06:31,Indiranagar,Bengaluru,Karnataka,13.089697,77.590132,High,Under Investigation,Online Portal
+CR-00766,Drug-related,Illegal substance possession,2024-04-17,14:40,Esplanade,Kolkata,West Bengal,22.471839,88.395465,Low,Under Investigation,Police Station
+CR-00767,Assault,Physical altercation near pub area,2022-03-02,18:15,Banjara Hills,Hyderabad,Telangana,17.434561,78.370162,Low,Closed,Police Station
+CR-00768,Assault,Group clash at public event,2024-12-05,00:24,Charbagh,Lucknow,Uttar Pradesh,26.918166,80.986591,Critical,Solved,Emergency Call
+CR-00769,Theft,Purse snatching near market area,2023-12-04,10:52,Jubilee Hills,Hyderabad,Telangana,17.372242,78.429694,Medium,Closed,Police Station
+CR-00770,Drug-related,Drug distribution network reported,2024-04-02,23:53,Mylapore,Chennai,Tamil Nadu,12.977773,80.240286,Critical,Solved,Citizen Report
+CR-00771,Fraud,Real estate fraud complaint,2024-08-31,16:26,CG Road,Ahmedabad,Gujarat,23.000313,72.613807,Critical,Solved,Emergency Call
+CR-00772,Burglary,Shop burglary with forced entry,2023-04-24,19:31,Anna Nagar,Chennai,Tamil Nadu,13.072518,80.162205,Medium,Closed,Citizen Report
+CR-00773,Drug-related,Controlled substance found during patrol,2023-02-04,22:09,Salt Lake,Kolkata,West Bengal,22.625247,88.417729,High,Under Investigation,Emergency Call
+CR-00774,Burglary,Break-in at locked residence,2024-08-14,05:57,Vaishali Nagar,Jaipur,Rajasthan,26.838509,75.826023,Medium,Under Investigation,Citizen Report
+CR-00775,Assault,Physical altercation near pub area,2022-11-25,10:57,Karol Bagh,Delhi,Delhi,28.584107,77.265752,High,Closed,CCTV Surveillance
+CR-00776,Drug-related,Controlled substance found during patrol,2022-07-05,22:21,Guindy,Chennai,Tamil Nadu,13.136356,80.264951,High,Pending,CCTV Surveillance
+CR-00777,Theft,Mobile phone stolen from crowded area,2023-04-23,07:16,Shivaji Nagar,Pune,Maharashtra,18.463152,73.813371,Medium,Closed,Online Portal
+CR-00778,Theft,Purse snatching near market area,2024-02-18,18:47,Madhapur,Hyderabad,Telangana,17.312377,78.457121,High,Closed,Online Portal
+CR-00779,Theft,Laptop theft from parked vehicle,2023-03-31,03:25,Sodala,Jaipur,Rajasthan,26.956378,75.770548,High,Solved,Citizen Report
+CR-00780,Assault,Physical altercation near pub area,2023-08-04,04:47,Jayanagar,Bengaluru,Karnataka,13.060258,77.640593,High,Solved,CCTV Surveillance
+CR-00781,Fraud,Banking fraud through phishing,2023-03-18,15:18,Adyar,Chennai,Tamil Nadu,13.025342,80.297171,Medium,Closed,Police Station
+CR-00782,Robbery,Robbery at petrol pump late night,2024-09-25,23:25,HSR Layout,Bengaluru,Karnataka,13.063002,77.682475,Medium,Under Investigation,Citizen Report
+CR-00783,Theft,Jewelry theft from residence,2023-12-15,12:25,Guindy,Chennai,Tamil Nadu,13.095351,80.192355,High,Pending,Police Station
+CR-00784,Cybercrime,Ransomware attack on business,2023-10-25,18:55,Marathahalli,Bengaluru,Karnataka,13.069962,77.641918,Medium,Under Investigation,Citizen Report
+CR-00785,Cybercrime,Social media account hacked,2022-10-24,06:13,Howrah,Kolkata,West Bengal,22.489131,88.397686,Medium,Closed,Citizen Report
+CR-00786,Burglary,Office break-in during weekend,2022-12-11,01:06,Baner,Pune,Maharashtra,18.521081,73.941759,Low,Solved,Online Portal
+CR-00787,Robbery,Robbery at petrol pump late night,2023-05-17,01:07,Hinjewadi,Pune,Maharashtra,18.523294,73.903198,Critical,Pending,Citizen Report
+CR-00788,Burglary,Residential burglary while occupants away,2023-07-18,20:41,Viman Nagar,Pune,Maharashtra,18.45174,73.817494,Low,Pending,Police Station
+CR-00789,Cybercrime,Online scam through fake website,2024-09-09,08:44,Maninagar,Ahmedabad,Gujarat,23.079434,72.56811,Medium,Pending,CCTV Surveillance
+CR-00790,Cybercrime,Online scam through fake website,2022-07-23,10:04,Marathahalli,Bengaluru,Karnataka,13.072442,77.607502,Medium,Pending,Police Station
+CR-00791,Drug-related,Suspicious activity near school zone,2022-09-12,06:42,Vaishali Nagar,Jaipur,Rajasthan,26.848906,75.815856,Medium,Pending,Police Station
+CR-00792,Theft,Purse snatching near market area,2023-02-27,20:10,HSR Layout,Bengaluru,Karnataka,12.951352,77.650614,Low,Under Investigation,CCTV Surveillance
+CR-00793,Robbery,Street robbery of pedestrian,2024-05-16,21:00,Marathahalli,Bengaluru,Karnataka,12.909233,77.689159,Critical,Solved,Online Portal
+CR-00794,Burglary,Break-in at locked residence,2024-10-01,22:20,CG Road,Ahmedabad,Gujarat,23.098602,72.585212,High,Under Investigation,Online Portal
+CR-00795,Drug-related,Suspicious activity near school zone,2023-01-21,04:19,Karol Bagh,Delhi,Delhi,28.564564,77.090262,High,Pending,CCTV Surveillance
+CR-00796,Robbery,Robbery at petrol pump late night,2022-06-02,17:16,Kothrud,Pune,Maharashtra,18.547465,73.824498,High,Closed,CCTV Surveillance
+CR-00797,Robbery,Street robbery of pedestrian,2022-05-25,20:46,Gomti Nagar,Lucknow,Uttar Pradesh,26.868637,80.97038,High,Pending,Citizen Report
+CR-00798,Theft,Jewelry theft from residence,2023-10-10,13:24,Electronic City,Bengaluru,Karnataka,13.020721,77.515505,Low,Under Investigation,Police Station
+CR-00799,Burglary,Shop burglary with forced entry,2022-07-02,11:58,Secunderabad,Hyderabad,Telangana,17.354651,78.523771,Medium,Under Investigation,Citizen Report
+CR-00800,Vandalism,Street light poles damaged,2022-09-10,05:33,Juhu,Mumbai,Maharashtra,18.991965,72.923201,Low,Solved,CCTV Surveillance
+CR-00801,Robbery,Street robbery of pedestrian,2022-07-22,01:10,Gariahat,Kolkata,West Bengal,22.600375,88.327101,Critical,Pending,Citizen Report
+CR-00802,Fraud,Real estate fraud complaint,2022-09-19,08:00,CG Road,Ahmedabad,Gujarat,23.071322,72.615756,Low,Pending,Emergency Call
+CR-00803,Robbery,Robbery at petrol pump late night,2024-05-06,22:29,Aliganj,Lucknow,Uttar Pradesh,26.918074,80.991786,High,Solved,Emergency Call
+CR-00804,Robbery,Highway robbery of commercial vehicle,2023-09-18,13:49,Andheri,Mumbai,Maharashtra,18.927042,72.811921,High,Closed,Police Station
+CR-00805,Vandalism,Street light poles damaged,2024-10-06,00:27,Salt Lake,Kolkata,West Bengal,22.636488,88.320464,Low,Pending,Citizen Report
+CR-00806,Vandalism,Street light poles damaged,2023-01-25,23:00,Connaught Place,Delhi,Delhi,28.710778,77.2749,Low,Pending,CCTV Surveillance
+CR-00807,Drug-related,Anonymous tip about drug activity,2022-12-12,21:59,Mylapore,Chennai,Tamil Nadu,13.054703,80.18376,Low,Closed,Police Station
+CR-00808,Robbery,Armed robbery at convenience store,2024-10-11,12:10,Hadapsar,Pune,Maharashtra,18.466985,73.937107,Medium,Solved,Emergency Call
+CR-00809,Theft,Jewelry theft from residence,2023-08-25,08:13,T Nagar,Chennai,Tamil Nadu,13.076235,80.209043,High,Closed,Citizen Report
+CR-00810,Theft,Laptop theft from parked vehicle,2024-09-26,01:22,Bodakdev,Ahmedabad,Gujarat,23.046035,72.579835,Low,Solved,Emergency Call
+CR-00811,Theft,Mobile phone stolen from crowded area,2022-07-27,13:31,Karol Bagh,Delhi,Delhi,28.658729,77.319553,Medium,Closed,Emergency Call
+CR-00812,Theft,Bicycle theft from residential area,2024-08-21,12:23,Alambagh,Lucknow,Uttar Pradesh,26.839968,80.905505,High,Under Investigation,Online Portal
+CR-00813,Theft,Laptop theft from parked vehicle,2023-12-26,23:27,Electronic City,Bengaluru,Karnataka,13.076715,77.641844,Low,Solved,Citizen Report
+CR-00814,Robbery,Street robbery of pedestrian,2022-03-06,05:42,Begumpet,Hyderabad,Telangana,17.395859,78.483049,Medium,Solved,Online Portal
+CR-00815,Drug-related,Illegal substance possession,2024-03-29,16:46,Gachibowli,Hyderabad,Telangana,17.468613,78.42777,Low,Under Investigation,Online Portal
+CR-00816,Vandalism,Public property damaged,2024-10-21,00:49,Ameerpet,Hyderabad,Telangana,17.310408,78.515967,Low,Pending,Citizen Report
+CR-00817,Cybercrime,Social media account hacked,2023-08-01,15:05,Esplanade,Kolkata,West Bengal,22.499549,88.322874,Medium,Under Investigation,Online Portal
+CR-00818,Cybercrime,Phishing email leading to data loss,2023-02-11,15:45,Kothrud,Pune,Maharashtra,18.46546,73.909569,High,Under Investigation,Online Portal
+CR-00819,Theft,Mobile phone stolen from crowded area,2022-09-28,12:02,Worli,Mumbai,Maharashtra,18.957653,72.821931,Low,Under Investigation,Citizen Report
+CR-00820,Other,Noise complaint at commercial area,2023-09-20,22:40,C-Scheme,Jaipur,Rajasthan,26.855484,75.788172,Low,Solved,Police Station
+CR-00821,Cybercrime,Identity theft via data breach,2024-01-15,08:22,New Town,Kolkata,West Bengal,22.499394,88.434266,Low,Under Investigation,Emergency Call
+CR-00822,Burglary,Break-in at locked residence,2023-07-28,19:06,Velachery,Chennai,Tamil Nadu,13.000453,80.223693,Medium,Under Investigation,Emergency Call
+CR-00823,Assault,Physical altercation near pub area,2024-01-11,23:49,Jubilee Hills,Hyderabad,Telangana,17.420943,78.39765,Medium,Pending,Online Portal
+CR-00824,Other,Noise complaint at commercial area,2022-09-04,01:37,SG Highway,Ahmedabad,Gujarat,23.088404,72.631741,Low,Solved,CCTV Surveillance
+CR-00825,Vandalism,Park bench and fixtures destroyed,2023-12-04,09:46,Maninagar,Ahmedabad,Gujarat,23.076099,72.603356,Low,Under Investigation,CCTV Surveillance
+CR-00826,Fraud,Credit card fraud reported,2024-01-20,14:40,Banjara Hills,Hyderabad,Telangana,17.48217,78.363542,Medium,Closed,Online Portal
+CR-00827,Robbery,Robbery at petrol pump late night,2023-07-16,22:08,Paldi,Ahmedabad,Gujarat,23.09558,72.556079,Critical,Under Investigation,CCTV Surveillance
+CR-00828,Fraud,Banking fraud through phishing,2022-06-03,05:28,MI Road,Jaipur,Rajasthan,26.881464,75.8447,Medium,Solved,Online Portal
+CR-00829,Theft,Purse snatching near market area,2023-03-23,18:44,Maninagar,Ahmedabad,Gujarat,23.092863,72.60128,Medium,Pending,Online Portal
+CR-00830,Theft,Purse snatching near market area,2023-07-04,17:07,Howrah,Kolkata,West Bengal,22.459122,88.335733,Low,Under Investigation,Emergency Call
+CR-00831,Theft,Jewelry theft from residence,2023-05-25,06:34,Dwarka,Delhi,Delhi,28.694594,77.239805,Critical,Solved,Online Portal
+CR-00832,Fraud,Real estate fraud complaint,2023-08-27,10:03,Koregaon Park,Pune,Maharashtra,18.451561,73.853322,High,Solved,CCTV Surveillance
+CR-00833,Vandalism,Vehicle windshield smashed,2022-08-06,23:47,Paldi,Ahmedabad,Gujarat,23.094566,72.575735,Medium,Pending,Online Portal
+CR-00834,Fraud,Insurance claim fraud detected,2023-07-05,06:37,Madhapur,Hyderabad,Telangana,17.471644,78.429093,Medium,Pending,Online Portal
+CR-00835,Assault,Assault during traffic dispute,2022-07-11,15:11,Tambaram,Chennai,Tamil Nadu,13.11312,80.176417,High,Closed,Police Station
+CR-00836,Burglary,Shop burglary with forced entry,2022-11-30,05:52,Salt Lake,Kolkata,West Bengal,22.571564,88.310418,Low,Under Investigation,CCTV Surveillance
+CR-00837,Burglary,Break-in at locked residence,2022-01-25,19:06,Indiranagar,Bengaluru,Karnataka,12.904143,77.665312,High,Pending,Online Portal
+CR-00838,Assault,Group clash at public event,2023-07-03,04:40,Bandra,Mumbai,Maharashtra,19.13772,72.801409,High,Solved,Online Portal
+CR-00839,Burglary,Office break-in during weekend,2024-09-10,18:57,Whitefield,Bengaluru,Karnataka,12.932629,77.566351,Medium,Under Investigation,Police Station
+CR-00840,Theft,Laptop theft from parked vehicle,2022-07-30,17:18,Lajpat Nagar,Delhi,Delhi,28.765937,77.174585,Low,Under Investigation,Citizen Report
+CR-00841,Robbery,Armed robbery at convenience store,2023-12-25,20:18,Marathahalli,Bengaluru,Karnataka,13.075798,77.576949,Critical,Closed,Online Portal
+CR-00842,Burglary,Break-in at locked residence,2023-04-05,03:18,Dadar,Mumbai,Maharashtra,19.084709,72.817753,Critical,Closed,Online Portal
+CR-00843,Theft,Purse snatching near market area,2024-12-22,10:38,Shivaji Nagar,Pune,Maharashtra,18.513787,73.933968,Medium,Pending,Police Station
+CR-00844,Drug-related,Drug distribution network reported,2024-10-19,21:23,Howrah,Kolkata,West Bengal,22.612144,88.406696,Low,Under Investigation,Emergency Call
+CR-00845,Cybercrime,Identity theft via data breach,2024-03-10,14:46,Indiranagar,Bengaluru,Karnataka,13.095268,77.66293,Low,Solved,Police Station
+CR-00846,Burglary,Office break-in during weekend,2022-09-19,05:49,Gachibowli,Hyderabad,Telangana,17.363863,78.434766,High,Solved,Online Portal
+CR-00847,Assault,Domestic dispute escalation reported,2024-05-07,17:31,Viman Nagar,Pune,Maharashtra,18.52389,73.880432,Medium,Under Investigation,Police Station
+CR-00848,Other,Noise complaint at commercial area,2024-01-11,00:13,Mahanagar,Lucknow,Uttar Pradesh,26.782402,80.958172,Critical,Closed,Emergency Call
+CR-00849,Cybercrime,Ransomware attack on business,2023-08-27,14:09,Koramangala,Bengaluru,Karnataka,13.0103,77.686268,Medium,Under Investigation,Online Portal
+CR-00850,Theft,Mobile phone stolen from crowded area,2022-10-21,12:46,Malad,Mumbai,Maharashtra,19.189474,72.855753,Medium,Pending,CCTV Surveillance
+CR-00851,Theft,Laptop theft from parked vehicle,2022-03-03,04:23,Marathahalli,Bengaluru,Karnataka,12.949009,77.502496,High,Solved,Online Portal
+CR-00852,Fraud,Online shopping fraud reported,2023-09-06,15:26,MI Road,Jaipur,Rajasthan,26.891036,75.823176,Low,Under Investigation,CCTV Surveillance
+CR-00853,Burglary,Office break-in during weekend,2024-10-27,05:00,Jayanagar,Bengaluru,Karnataka,12.984724,77.689648,Medium,Pending,Online Portal
+CR-00854,Fraud,Banking fraud through phishing,2022-11-18,08:05,Baner,Pune,Maharashtra,18.596689,73.81877,Medium,Pending,Online Portal
+CR-00855,Burglary,Office break-in during weekend,2022-06-08,22:29,Tonk Road,Jaipur,Rajasthan,26.924432,75.784816,Medium,Under Investigation,Online Portal
+CR-00856,Burglary,Break-in at locked residence,2022-08-11,03:04,Salt Lake,Kolkata,West Bengal,22.605759,88.350321,Medium,Under Investigation,Online Portal
+CR-00857,Fraud,Credit card fraud reported,2022-01-23,09:12,CG Road,Ahmedabad,Gujarat,23.063839,72.553237,Medium,Closed,CCTV Surveillance
+CR-00858,Theft,Jewelry theft from residence,2022-04-04,01:20,Adyar,Chennai,Tamil Nadu,13.011721,80.297081,High,Closed,Emergency Call
+CR-00859,Vandalism,Vehicle windshield smashed,2023-12-30,04:44,Koregaon Park,Pune,Maharashtra,18.499698,73.934477,Medium,Solved,CCTV Surveillance
+CR-00860,Cybercrime,Social media account hacked,2024-09-03,18:55,Viman Nagar,Pune,Maharashtra,18.493518,73.822731,Medium,Closed,Online Portal
+CR-00861,Other,Illegal parking dispute,2022-11-26,16:33,HSR Layout,Bengaluru,Karnataka,13.021748,77.604657,Medium,Solved,Emergency Call
+CR-00862,Vandalism,Vehicle windshield smashed,2024-06-01,01:57,Begumpet,Hyderabad,Telangana,17.436575,78.397822,Critical,Pending,Police Station
+CR-00863,Drug-related,Drug distribution network reported,2022-10-20,09:35,Dwarka,Delhi,Delhi,28.739215,77.31854,High,Solved,Online Portal
+CR-00864,Burglary,Office break-in during weekend,2023-07-28,18:23,Malad,Mumbai,Maharashtra,18.92134,72.906598,Medium,Closed,Online Portal
+CR-00865,Drug-related,Suspicious activity near school zone,2024-09-26,01:23,Powai,Mumbai,Maharashtra,19.020282,72.92855,Critical,Under Investigation,Emergency Call
+CR-00866,Theft,Laptop theft from parked vehicle,2024-04-26,16:28,Andheri,Mumbai,Maharashtra,19.162661,72.902383,Medium,Pending,Online Portal
+CR-00867,Vandalism,Graffiti on commercial building,2023-08-19,12:10,Malad,Mumbai,Maharashtra,19.156149,72.833458,High,Pending,Citizen Report
+CR-00868,Robbery,Robbery at petrol pump late night,2024-08-10,03:05,Raja Park,Jaipur,Rajasthan,26.837336,75.873528,Medium,Solved,Police Station
+CR-00869,Robbery,Robbery at petrol pump late night,2023-12-03,19:31,Gachibowli,Hyderabad,Telangana,17.448257,78.372865,High,Solved,Online Portal
+CR-00870,Burglary,Break-in at locked residence,2022-03-06,19:49,Secunderabad,Hyderabad,Telangana,17.487292,78.422299,Medium,Solved,Police Station
+CR-00871,Theft,Bicycle theft from residential area,2023-07-07,08:40,Baner,Pune,Maharashtra,18.471261,73.841086,Low,Closed,CCTV Surveillance
+CR-00872,Theft,Laptop theft from parked vehicle,2023-06-16,05:53,Mahanagar,Lucknow,Uttar Pradesh,26.905294,80.939995,Critical,Solved,Citizen Report
+CR-00873,Cybercrime,Social media account hacked,2024-08-31,17:44,Adyar,Chennai,Tamil Nadu,13.143118,80.215518,Critical,Pending,Police Station
+CR-00874,Other,Illegal parking dispute,2022-10-24,10:42,Paldi,Ahmedabad,Gujarat,23.093897,72.624284,Medium,Solved,Online Portal
+CR-00875,Other,Illegal parking dispute,2023-10-11,03:50,Porur,Chennai,Tamil Nadu,13.031277,80.228104,Low,Solved,CCTV Surveillance
+CR-00876,Other,Trespassing on private property,2022-03-16,06:47,Colaba,Mumbai,Maharashtra,19.026053,72.881913,Low,Solved,Online Portal
+CR-00877,Assault,Domestic dispute escalation reported,2022-01-30,11:52,Paldi,Ahmedabad,Gujarat,23.030194,72.580697,Critical,Under Investigation,Citizen Report
+CR-00878,Fraud,Insurance claim fraud detected,2023-12-22,11:53,Shivaji Nagar,Pune,Maharashtra,18.528475,73.914762,Low,Under Investigation,Online Portal
+CR-00879,Burglary,Residential burglary while occupants away,2022-11-30,17:27,Vaishali Nagar,Jaipur,Rajasthan,26.955215,75.830168,Medium,Solved,Police Station
+CR-00880,Vandalism,Public property damaged,2022-07-03,20:01,Malad,Mumbai,Maharashtra,19.023384,72.874461,Medium,Closed,CCTV Surveillance
+CR-00881,Drug-related,Controlled substance found during patrol,2022-03-08,21:18,SG Highway,Ahmedabad,Gujarat,23.021187,72.627688,High,Under Investigation,Emergency Call
+CR-00882,Cybercrime,Identity theft via data breach,2024-04-25,20:45,Tambaram,Chennai,Tamil Nadu,13.029162,80.290943,High,Solved,Emergency Call
+CR-00883,Drug-related,Anonymous tip about drug activity,2023-05-10,00:57,Shivaji Nagar,Pune,Maharashtra,18.454901,73.803937,High,Closed,Emergency Call
+CR-00884,Other,Suspicious activity reported,2024-05-30,07:35,Electronic City,Bengaluru,Karnataka,12.938532,77.628887,High,Closed,Online Portal
+CR-00885,Robbery,Armed robbery at convenience store,2022-12-22,12:57,Baner,Pune,Maharashtra,18.473767,73.834645,High,Under Investigation,Emergency Call
+CR-00886,Theft,Jewelry theft from residence,2022-11-22,10:13,Vaishali Nagar,Jaipur,Rajasthan,26.824102,75.721846,High,Under Investigation,CCTV Surveillance
+CR-00887,Theft,Laptop theft from parked vehicle,2022-02-21,23:46,Hadapsar,Pune,Maharashtra,18.518056,73.894725,Low,Under Investigation,Online Portal
+CR-00888,Cybercrime,Ransomware attack on business,2023-05-18,23:49,MI Road,Jaipur,Rajasthan,26.880497,75.761677,Low,Under Investigation,CCTV Surveillance
+CR-00889,Vandalism,Park bench and fixtures destroyed,2022-08-16,14:59,Powai,Mumbai,Maharashtra,18.932123,72.842369,High,Under Investigation,Online Portal
+CR-00890,Theft,Bicycle theft from residential area,2022-07-26,15:50,Shivaji Nagar,Pune,Maharashtra,18.461036,73.943883,Low,Pending,Citizen Report
+CR-00891,Other,Trespassing on private property,2023-01-04,09:00,HSR Layout,Bengaluru,Karnataka,13.031933,77.626243,High,Under Investigation,Citizen Report
+CR-00892,Vandalism,Street light poles damaged,2022-01-11,05:33,Navrangpura,Ahmedabad,Gujarat,23.092658,72.569285,Low,Under Investigation,Online Portal
+CR-00893,Burglary,Shop burglary with forced entry,2022-08-24,06:01,Secunderabad,Hyderabad,Telangana,17.343952,78.495549,Critical,Solved,Police Station
+CR-00894,Cybercrime,Ransomware attack on business,2023-08-26,14:47,Kukatpally,Hyderabad,Telangana,17.387212,78.539269,Critical,Solved,Citizen Report
+CR-00895,Robbery,ATM booth robbery attempt,2023-10-01,05:50,Powai,Mumbai,Maharashtra,19.116618,72.865021,High,Pending,CCTV Surveillance
+CR-00896,Vandalism,Public property damaged,2024-02-24,13:12,Juhu,Mumbai,Maharashtra,19.012188,72.894905,Low,Under Investigation,CCTV Surveillance
+CR-00897,Drug-related,Suspicious activity near school zone,2023-08-25,19:52,Baner,Pune,Maharashtra,18.592557,73.879575,Medium,Under Investigation,Online Portal
+CR-00898,Assault,Physical altercation near pub area,2023-05-18,02:13,Madhapur,Hyderabad,Telangana,17.374393,78.505903,Low,Solved,Online Portal
+CR-00899,Theft,Jewelry theft from residence,2023-10-21,07:35,Anna Nagar,Chennai,Tamil Nadu,13.006723,80.181826,Low,Pending,CCTV Surveillance
+CR-00900,Burglary,Shop burglary with forced entry,2024-06-10,10:52,Hinjewadi,Pune,Maharashtra,18.479568,73.920409,Medium,Closed,Police Station
+CR-00901,Assault,Assault near public transport stop,2022-12-17,19:20,T Nagar,Chennai,Tamil Nadu,12.997284,80.15319,Low,Closed,Citizen Report
+CR-00902,Drug-related,Illegal substance possession,2022-09-26,12:02,Gariahat,Kolkata,West Bengal,22.633607,88.305868,High,Under Investigation,Emergency Call
+CR-00903,Theft,Bicycle theft from residential area,2023-10-12,11:25,Behala,Kolkata,West Bengal,22.604923,88.374073,Low,Solved,Police Station
+CR-00904,Theft,Bicycle theft from residential area,2022-07-30,00:14,Secunderabad,Hyderabad,Telangana,17.302079,78.371027,Low,Pending,Online Portal
+CR-00905,Cybercrime,Social media account hacked,2023-01-27,23:57,Juhu,Mumbai,Maharashtra,19.144844,72.880634,Low,Pending,Police Station
+CR-00906,Robbery,Highway robbery of commercial vehicle,2022-04-09,09:04,Malad,Mumbai,Maharashtra,19.106376,72.918744,Medium,Pending,Police Station
+CR-00907,Assault,Assault near public transport stop,2023-10-16,04:48,MG Road,Bengaluru,Karnataka,13.070031,77.679095,High,Pending,CCTV Surveillance
+CR-00908,Cybercrime,Identity theft via data breach,2024-09-30,08:20,Adyar,Chennai,Tamil Nadu,13.046541,80.16377,High,Pending,Online Portal
+CR-00909,Theft,Purse snatching near market area,2022-06-03,15:03,Colaba,Mumbai,Maharashtra,19.10115,72.870223,Low,Solved,CCTV Surveillance
+CR-00910,Other,Illegal parking dispute,2024-11-18,10:48,Mansarovar,Jaipur,Rajasthan,26.933362,75.824846,High,Under Investigation,Emergency Call
+CR-00911,Robbery,Street robbery of pedestrian,2024-07-15,19:32,Hinjewadi,Pune,Maharashtra,18.510031,73.810296,High,Pending,Online Portal
+CR-00912,Robbery,Robbery at petrol pump late night,2022-08-08,23:07,Mylapore,Chennai,Tamil Nadu,13.12882,80.178054,Low,Pending,Emergency Call
+CR-00913,Theft,Purse snatching near market area,2022-06-22,11:27,Bandra,Mumbai,Maharashtra,19.019078,72.864627,Low,Solved,Police Station
+CR-00914,Theft,Mobile phone stolen from crowded area,2024-05-15,06:18,Koregaon Park,Pune,Maharashtra,18.476497,73.841389,Medium,Solved,Online Portal
+CR-00915,Drug-related,Anonymous tip about drug activity,2023-03-26,03:03,Worli,Mumbai,Maharashtra,19.072569,72.835815,High,Solved,Citizen Report
+CR-00916,Cybercrime,Identity theft via data breach,2022-07-27,07:46,Hadapsar,Pune,Maharashtra,18.553753,73.874276,Low,Under Investigation,Police Station
+CR-00917,Fraud,Real estate fraud complaint,2023-01-15,16:58,Bandra,Mumbai,Maharashtra,19.043027,72.845799,Critical,Under Investigation,Online Portal
+CR-00918,Other,Noise complaint at commercial area,2023-11-12,14:09,Indiranagar,Bengaluru,Karnataka,13.033206,77.585585,Low,Closed,Police Station
+CR-00919,Theft,Purse snatching near market area,2023-12-23,15:37,Satellite,Ahmedabad,Gujarat,23.087322,72.597257,Low,Under Investigation,CCTV Surveillance
+CR-00920,Theft,Jewelry theft from residence,2022-12-09,04:49,C-Scheme,Jaipur,Rajasthan,26.868736,75.83779,Medium,Pending,Citizen Report
+CR-00921,Cybercrime,Phishing email leading to data loss,2024-01-17,14:00,Behala,Kolkata,West Bengal,22.510227,88.350061,Medium,Pending,Police Station
+CR-00922,Theft,Bicycle theft from residential area,2024-11-29,23:40,Park Street,Kolkata,West Bengal,22.645727,88.42844,Medium,Under Investigation,Online Portal
+CR-00923,Cybercrime,Phishing email leading to data loss,2024-06-01,11:13,Paldi,Ahmedabad,Gujarat,23.019384,72.645481,High,Closed,CCTV Surveillance
+CR-00924,Drug-related,Illegal substance possession,2023-06-28,21:22,HSR Layout,Bengaluru,Karnataka,12.978205,77.583459,Critical,Solved,CCTV Surveillance
+CR-00925,Other,Illegal parking dispute,2024-06-06,14:36,Malad,Mumbai,Maharashtra,19.137702,72.843261,Critical,Solved,Online Portal
+CR-00926,Vandalism,Public property damaged,2023-08-17,19:35,Mansarovar,Jaipur,Rajasthan,26.868583,75.766122,Medium,Under Investigation,Emergency Call
+CR-00927,Robbery,ATM booth robbery attempt,2022-09-10,01:31,Maninagar,Ahmedabad,Gujarat,23.043032,72.616025,Low,Solved,CCTV Surveillance
+CR-00928,Robbery,Highway robbery of commercial vehicle,2022-11-14,02:45,MI Road,Jaipur,Rajasthan,26.979346,75.751476,High,Under Investigation,Citizen Report
+CR-00929,Burglary,Residential burglary while occupants away,2023-05-25,21:40,Kukatpally,Hyderabad,Telangana,17.379823,78.530833,Critical,Closed,Online Portal
+CR-00930,Robbery,Street robbery of pedestrian,2024-06-11,21:56,Satellite,Ahmedabad,Gujarat,23.057817,72.618332,Medium,Under Investigation,Emergency Call
+CR-00931,Other,Noise complaint at commercial area,2022-06-25,09:36,Howrah,Kolkata,West Bengal,22.542231,88.327506,Medium,Closed,CCTV Surveillance
+CR-00932,Fraud,Insurance claim fraud detected,2023-10-04,16:59,T Nagar,Chennai,Tamil Nadu,13.021512,80.203129,Medium,Closed,CCTV Surveillance
+CR-00933,Theft,Jewelry theft from residence,2024-05-12,02:48,Dwarka,Delhi,Delhi,28.772055,77.28599,Medium,Solved,Police Station
+CR-00934,Theft,Mobile phone stolen from crowded area,2022-09-15,12:42,Hadapsar,Pune,Maharashtra,18.571122,73.931237,Medium,Under Investigation,Police Station
+CR-00935,Vandalism,Public property damaged,2022-07-19,09:36,Secunderabad,Hyderabad,Telangana,17.366262,78.362173,Medium,Pending,CCTV Surveillance
+CR-00936,Drug-related,Illegal substance possession,2024-10-11,04:14,Marathahalli,Bengaluru,Karnataka,13.027934,77.530955,High,Pending,CCTV Surveillance
+CR-00937,Robbery,Armed robbery at convenience store,2022-08-23,02:00,Alambagh,Lucknow,Uttar Pradesh,26.903186,80.952775,Medium,Under Investigation,Citizen Report
+CR-00938,Vandalism,Street light poles damaged,2022-09-07,09:25,Nehru Place,Delhi,Delhi,28.555213,77.120478,High,Solved,CCTV Surveillance
+CR-00939,Theft,Jewelry theft from residence,2024-06-04,04:40,Colaba,Mumbai,Maharashtra,18.942506,72.91169,Low,Solved,Citizen Report
+CR-00940,Theft,Mobile phone stolen from crowded area,2023-08-17,09:42,Porur,Chennai,Tamil Nadu,13.067753,80.205101,Low,Solved,Citizen Report
+CR-00941,Burglary,Residential burglary while occupants away,2022-10-31,00:18,Aundh,Pune,Maharashtra,18.534631,73.801653,Medium,Pending,Police Station
+CR-00942,Fraud,Credit card fraud reported,2022-10-13,14:56,Secunderabad,Hyderabad,Telangana,17.355381,78.546351,Medium,Closed,Emergency Call
+CR-00943,Theft,Laptop theft from parked vehicle,2024-03-10,16:04,C-Scheme,Jaipur,Rajasthan,26.844224,75.824949,Medium,Solved,Emergency Call
+CR-00944,Burglary,Residential burglary while occupants away,2022-05-20,20:30,Hadapsar,Pune,Maharashtra,18.520763,73.898846,High,Closed,Online Portal
+CR-00945,Cybercrime,Social media account hacked,2023-12-14,18:39,Begumpet,Hyderabad,Telangana,17.313514,78.355904,High,Under Investigation,Citizen Report
+CR-00946,Robbery,Robbery at petrol pump late night,2023-04-20,23:50,Jubilee Hills,Hyderabad,Telangana,17.479959,78.3848,Critical,Closed,Police Station
+CR-00947,Drug-related,Drug distribution network reported,2023-05-28,03:02,Vastrapur,Ahmedabad,Gujarat,23.007288,72.626335,High,Closed,Police Station
+CR-00948,Assault,Assault during traffic dispute,2024-02-13,04:40,Velachery,Chennai,Tamil Nadu,12.989947,80.187874,Medium,Solved,Citizen Report
+CR-00949,Theft,Mobile phone stolen from crowded area,2023-01-29,02:37,Raja Park,Jaipur,Rajasthan,26.973573,75.735393,Low,Under Investigation,Citizen Report
+CR-00950,Fraud,Banking fraud through phishing,2022-05-28,10:11,Paldi,Ahmedabad,Gujarat,23.095774,72.622828,Medium,Under Investigation,CCTV Surveillance
+CR-00951,Assault,Physical altercation near pub area,2024-01-01,19:57,Jubilee Hills,Hyderabad,Telangana,17.327575,78.363431,Medium,Solved,Online Portal
+CR-00952,Burglary,Office break-in during weekend,2023-09-03,03:07,C-Scheme,Jaipur,Rajasthan,26.828237,75.806486,Low,Closed,Citizen Report
+CR-00953,Theft,Bicycle theft from residential area,2022-05-20,05:18,Banjara Hills,Hyderabad,Telangana,17.415071,78.520639,High,Solved,CCTV Surveillance
+CR-00954,Theft,Laptop theft from parked vehicle,2024-08-22,08:41,Colaba,Mumbai,Maharashtra,19.001414,72.839132,Low,Closed,CCTV Surveillance
+CR-00955,Theft,Mobile phone stolen from crowded area,2022-05-08,07:31,Madhapur,Hyderabad,Telangana,17.4896,78.530865,Medium,Closed,Police Station
+CR-00956,Other,Trespassing on private property,2022-06-15,17:30,Baner,Pune,Maharashtra,18.490576,73.806261,Low,Solved,Citizen Report
+CR-00957,Theft,Mobile phone stolen from crowded area,2023-04-12,00:59,Behala,Kolkata,West Bengal,22.604723,88.421704,Medium,Closed,Police Station
+CR-00958,Burglary,Office break-in during weekend,2024-02-12,22:08,Shivaji Nagar,Pune,Maharashtra,18.514025,73.820666,Medium,Closed,Online Portal
+CR-00959,Robbery,Street robbery of pedestrian,2024-06-13,01:15,Banjara Hills,Hyderabad,Telangana,17.417723,78.395425,High,Closed,Police Station
+CR-00960,Theft,Laptop theft from parked vehicle,2022-04-27,02:03,Indira Nagar,Lucknow,Uttar Pradesh,26.805283,80.886121,Low,Pending,Online Portal
+CR-00961,Theft,Purse snatching near market area,2024-03-25,15:42,Satellite,Ahmedabad,Gujarat,23.00768,72.57502,Medium,Solved,Citizen Report
+CR-00962,Drug-related,Illegal substance possession,2024-01-22,17:18,Park Street,Kolkata,West Bengal,22.498841,88.433947,Medium,Solved,Emergency Call
+CR-00963,Theft,Laptop theft from parked vehicle,2024-09-22,08:05,Hinjewadi,Pune,Maharashtra,18.47057,73.946391,Low,Pending,Emergency Call
+CR-00964,Vandalism,Graffiti on commercial building,2022-03-15,07:44,Jayanagar,Bengaluru,Karnataka,13.052838,77.690609,Low,Closed,CCTV Surveillance
+CR-00965,Robbery,Armed robbery at convenience store,2023-09-08,02:03,Viman Nagar,Pune,Maharashtra,18.541462,73.874304,Critical,Solved,Online Portal
+CR-00966,Burglary,Residential burglary while occupants away,2023-01-13,21:27,Shivaji Nagar,Pune,Maharashtra,18.54906,73.804696,High,Closed,Emergency Call
+CR-00967,Vandalism,Public property damaged,2023-03-20,00:21,SG Highway,Ahmedabad,Gujarat,23.062153,72.636574,Medium,Closed,CCTV Surveillance
+CR-00968,Burglary,Shop burglary with forced entry,2023-08-12,17:29,Viman Nagar,Pune,Maharashtra,18.557883,73.915352,Medium,Closed,Online Portal
+CR-00969,Theft,Jewelry theft from residence,2023-07-29,21:17,Dwarka,Delhi,Delhi,28.57498,77.212841,Low,Solved,Emergency Call
+CR-00970,Fraud,Banking fraud through phishing,2023-05-29,20:51,Behala,Kolkata,West Bengal,22.452468,88.346034,High,Closed,Citizen Report
+CR-00971,Theft,Jewelry theft from residence,2024-06-19,00:29,Chandni Chowk,Delhi,Delhi,28.607617,77.241323,Medium,Solved,Emergency Call
+CR-00972,Robbery,Highway robbery of commercial vehicle,2023-10-06,02:28,Navrangpura,Ahmedabad,Gujarat,23.076598,72.577614,Critical,Under Investigation,CCTV Surveillance
+CR-00973,Theft,Laptop theft from parked vehicle,2023-04-22,03:41,Connaught Place,Delhi,Delhi,28.705332,77.308171,Medium,Under Investigation,Emergency Call
+CR-00974,Drug-related,Illegal substance possession,2022-02-03,21:54,Behala,Kolkata,West Bengal,22.520667,88.407748,High,Solved,Police Station
+CR-00975,Burglary,Office break-in during weekend,2022-06-08,07:13,Malviya Nagar,Jaipur,Rajasthan,26.879417,75.851631,Medium,Pending,Police Station
+CR-00976,Drug-related,Suspicious activity near school zone,2024-01-08,10:26,Banjara Hills,Hyderabad,Telangana,17.374943,78.538496,Medium,Under Investigation,Emergency Call
+CR-00977,Robbery,ATM booth robbery attempt,2022-02-22,03:38,MG Road,Bengaluru,Karnataka,12.962621,77.643154,High,Closed,Citizen Report
+CR-00978,Robbery,Highway robbery of commercial vehicle,2022-03-08,21:46,Bodakdev,Ahmedabad,Gujarat,23.076261,72.614921,Critical,Closed,CCTV Surveillance
+CR-00979,Burglary,Office break-in during weekend,2024-12-16,01:38,Colaba,Mumbai,Maharashtra,19.057334,72.866153,Medium,Closed,Emergency Call
+CR-00980,Burglary,Shop burglary with forced entry,2024-01-12,07:29,Mahanagar,Lucknow,Uttar Pradesh,26.916136,80.97703,Medium,Closed,Police Station
+CR-00981,Burglary,Warehouse burglary overnight,2024-11-01,02:58,Secunderabad,Hyderabad,Telangana,17.396831,78.39607,High,Under Investigation,Citizen Report
+CR-00982,Cybercrime,Ransomware attack on business,2022-10-10,19:16,Paldi,Ahmedabad,Gujarat,23.034157,72.561796,Medium,Solved,Online Portal
+CR-00983,Theft,Laptop theft from parked vehicle,2024-07-18,00:10,Koramangala,Bengaluru,Karnataka,12.952675,77.610916,High,Pending,Citizen Report
+CR-00984,Burglary,Residential burglary while occupants away,2022-12-08,02:08,Saket,Delhi,Delhi,28.658793,77.166434,Medium,Under Investigation,Emergency Call
+CR-00985,Fraud,Insurance claim fraud detected,2023-11-21,10:37,Worli,Mumbai,Maharashtra,18.932332,72.908327,Low,Closed,Citizen Report
+CR-00986,Theft,Mobile phone stolen from crowded area,2023-08-16,15:44,Kothrud,Pune,Maharashtra,18.477518,73.914893,High,Closed,Police Station
+CR-00987,Burglary,Break-in at locked residence,2024-01-28,21:41,Satellite,Ahmedabad,Gujarat,23.032044,72.567672,High,Solved,Emergency Call
+CR-00988,Burglary,Shop burglary with forced entry,2023-11-30,01:36,Mylapore,Chennai,Tamil Nadu,13.055039,80.226234,Critical,Solved,Online Portal
+CR-00989,Other,Noise complaint at commercial area,2022-03-27,23:56,HSR Layout,Bengaluru,Karnataka,12.942136,77.603827,Medium,Pending,Emergency Call
+CR-00990,Vandalism,Street light poles damaged,2022-08-31,09:17,Whitefield,Bengaluru,Karnataka,12.944727,77.533864,High,Solved,Online Portal
+CR-00991,Assault,Assault near public transport stop,2022-10-16,03:13,New Town,Kolkata,West Bengal,22.55174,88.325328,High,Under Investigation,Police Station
+CR-00992,Robbery,Robbery at petrol pump late night,2022-02-22,11:13,Tambaram,Chennai,Tamil Nadu,13.139576,80.213975,High,Under Investigation,Police Station
+CR-00993,Theft,Purse snatching near market area,2024-06-29,13:31,Bandra,Mumbai,Maharashtra,19.159351,72.948962,Medium,Under Investigation,Online Portal
+CR-00994,Robbery,ATM booth robbery attempt,2023-11-01,05:32,Andheri,Mumbai,Maharashtra,19.036039,72.910328,High,Under Investigation,Citizen Report
+CR-00995,Cybercrime,Social media account hacked,2024-12-03,10:12,Colaba,Mumbai,Maharashtra,19.098339,72.931636,Low,Pending,Online Portal
+CR-00996,Theft,Laptop theft from parked vehicle,2024-02-10,07:43,Satellite,Ahmedabad,Gujarat,23.047012,72.598451,Low,Solved,Police Station
+CR-00997,Theft,Purse snatching near market area,2023-03-15,00:27,Tonk Road,Jaipur,Rajasthan,26.909238,75.753368,Low,Solved,CCTV Surveillance
+CR-00998,Fraud,Insurance claim fraud detected,2023-12-16,15:33,Alambagh,Lucknow,Uttar Pradesh,26.805209,80.922014,Medium,Solved,Citizen Report
+CR-00999,Robbery,Robbery at petrol pump late night,2024-01-02,17:30,Paldi,Ahmedabad,Gujarat,23.021893,72.646292,Critical,Closed,Emergency Call
+CR-01000,Burglary,Shop burglary with forced entry,2024-05-20,03:11,Alambagh,Lucknow,Uttar Pradesh,26.824647,80.895895,High,Pending,CCTV Surveillance
+CR-01001,Robbery,ATM booth robbery attempt,2023-04-26,00:18,Hadapsar,Pune,Maharashtra,18.482266,73.927648,High,Pending,Emergency Call
+CR-01002,Burglary,Break-in at locked residence,2024-03-12,14:27,Hadapsar,Pune,Maharashtra,18.586855,73.840248,High,Solved,Citizen Report
+CR-01003,Theft,Purse snatching near market area,2023-03-30,18:56,Kothrud,Pune,Maharashtra,18.48093,73.893793,High,Pending,CCTV Surveillance
+CR-01004,Cybercrime,Phishing email leading to data loss,2022-02-10,23:01,Vaishali Nagar,Jaipur,Rajasthan,26.83444,75.832757,Critical,Closed,Police Station
+CR-01005,Theft,Laptop theft from parked vehicle,2023-03-08,11:34,Raja Park,Jaipur,Rajasthan,26.845119,75.805712,High,Under Investigation,Emergency Call
+CR-01006,Robbery,Street robbery of pedestrian,2023-03-18,17:46,Baner,Pune,Maharashtra,18.452046,73.926822,High,Solved,Citizen Report
+CR-01007,Theft,Bicycle theft from residential area,2022-11-18,09:19,Lajpat Nagar,Delhi,Delhi,28.689467,77.256421,Low,Pending,Online Portal
+CR-01008,Burglary,Residential burglary while occupants away,2022-06-23,02:04,Howrah,Kolkata,West Bengal,22.590698,88.409896,Low,Pending,Police Station
+CR-01009,Fraud,Real estate fraud complaint,2024-03-12,06:53,Paldi,Ahmedabad,Gujarat,23.031219,72.582373,Medium,Under Investigation,Online Portal
+CR-01010,Assault,Domestic dispute escalation reported,2023-06-26,20:36,Juhu,Mumbai,Maharashtra,18.987372,72.813959,Critical,Pending,CCTV Surveillance
+CR-01011,Other,Public nuisance reported,2023-05-16,12:01,Mansarovar,Jaipur,Rajasthan,26.936409,75.872233,Medium,Pending,CCTV Surveillance
+CR-01012,Assault,Physical altercation near pub area,2024-03-24,07:28,Chandni Chowk,Delhi,Delhi,28.668946,77.242846,Medium,Closed,CCTV Surveillance
+CR-01013,Theft,Jewelry theft from residence,2023-03-02,15:37,MG Road,Bengaluru,Karnataka,12.928266,77.623298,Medium,Pending,Police Station
+CR-01014,Fraud,Online shopping fraud reported,2023-06-01,13:19,Tambaram,Chennai,Tamil Nadu,13.116865,80.155476,High,Pending,Online Portal
+CR-01015,Robbery,Armed robbery at convenience store,2024-09-27,17:31,Vaishali Nagar,Jaipur,Rajasthan,26.924321,75.771494,High,Solved,Citizen Report
+CR-01016,Theft,Mobile phone stolen from crowded area,2024-02-09,04:48,Andheri,Mumbai,Maharashtra,19.055982,72.818222,Low,Closed,Citizen Report
+CR-01017,Assault,Physical altercation near pub area,2022-12-16,20:51,Guindy,Chennai,Tamil Nadu,12.977973,80.281132,Medium,Under Investigation,Emergency Call
+CR-01018,Drug-related,Anonymous tip about drug activity,2024-12-06,10:39,Dum Dum,Kolkata,West Bengal,22.562762,88.324892,Medium,Pending,CCTV Surveillance
+CR-01019,Theft,Laptop theft from parked vehicle,2023-05-30,15:29,Paldi,Ahmedabad,Gujarat,23.033018,72.624676,Critical,Closed,Police Station
+CR-01020,Burglary,Break-in at locked residence,2024-05-02,05:09,Begumpet,Hyderabad,Telangana,17.498662,78.35112,High,Under Investigation,Emergency Call
+CR-01021,Assault,Physical altercation near pub area,2022-05-06,19:29,Colaba,Mumbai,Maharashtra,18.920032,72.895452,Critical,Solved,Emergency Call
+CR-01022,Robbery,Highway robbery of commercial vehicle,2024-05-22,18:46,Salt Lake,Kolkata,West Bengal,22.5749,88.36049,Medium,Solved,CCTV Surveillance
+CR-01023,Robbery,Robbery at petrol pump late night,2022-07-30,23:13,HSR Layout,Bengaluru,Karnataka,12.952588,77.520464,High,Pending,CCTV Surveillance
+CR-01024,Assault,Assault during traffic dispute,2023-07-22,23:55,SG Highway,Ahmedabad,Gujarat,23.090923,72.570931,Low,Under Investigation,CCTV Surveillance
+CR-01025,Drug-related,Controlled substance found during patrol,2022-10-21,05:30,Electronic City,Bengaluru,Karnataka,12.964668,77.679191,Low,Solved,Citizen Report
+CR-01026,Theft,Purse snatching near market area,2023-09-12,16:48,Madhapur,Hyderabad,Telangana,17.412029,78.425462,Low,Solved,CCTV Surveillance
+CR-01027,Drug-related,Suspicious activity near school zone,2023-03-15,05:40,Bandra,Mumbai,Maharashtra,19.113404,72.925981,High,Solved,CCTV Surveillance
+CR-01028,Drug-related,Anonymous tip about drug activity,2023-12-15,05:01,Viman Nagar,Pune,Maharashtra,18.578306,73.915612,Medium,Solved,Citizen Report
+CR-01029,Robbery,ATM booth robbery attempt,2023-01-02,23:00,Kukatpally,Hyderabad,Telangana,17.372198,78.388978,High,Solved,CCTV Surveillance
+CR-01030,Robbery,Armed robbery at convenience store,2023-07-14,01:41,Connaught Place,Delhi,Delhi,28.64362,77.063175,High,Solved,Citizen Report
+CR-01031,Assault,Physical altercation near pub area,2024-07-19,15:11,Navrangpura,Ahmedabad,Gujarat,23.087494,72.625059,Critical,Under Investigation,Online Portal
+CR-01032,Cybercrime,Phishing email leading to data loss,2022-06-19,13:53,Jayanagar,Bengaluru,Karnataka,12.91121,77.627496,Low,Under Investigation,Online Portal
+CR-01033,Fraud,Real estate fraud complaint,2022-02-04,10:53,CG Road,Ahmedabad,Gujarat,23.089967,72.639774,Low,Closed,Citizen Report
+CR-01034,Cybercrime,Identity theft via data breach,2022-05-06,02:12,Viman Nagar,Pune,Maharashtra,18.525229,73.909344,Low,Solved,CCTV Surveillance
+CR-01035,Cybercrime,Online scam through fake website,2022-12-21,20:47,Hinjewadi,Pune,Maharashtra,18.591163,73.846675,Medium,Under Investigation,CCTV Surveillance
+CR-01036,Theft,Laptop theft from parked vehicle,2022-06-30,03:58,T Nagar,Chennai,Tamil Nadu,13.09591,80.177849,Medium,Closed,Online Portal
+CR-01037,Vandalism,Vehicle windshield smashed,2024-07-31,02:56,Gachibowli,Hyderabad,Telangana,17.349346,78.517462,Medium,Closed,Emergency Call
+CR-01038,Robbery,Highway robbery of commercial vehicle,2024-02-16,22:18,Karol Bagh,Delhi,Delhi,28.542128,77.144662,Medium,Under Investigation,Emergency Call
+CR-01039,Vandalism,Vehicle windshield smashed,2024-06-19,08:05,Park Street,Kolkata,West Bengal,22.565739,88.352329,Medium,Solved,CCTV Surveillance
+CR-01040,Robbery,Highway robbery of commercial vehicle,2022-11-15,17:36,Shivaji Nagar,Pune,Maharashtra,18.555328,73.852038,Critical,Closed,CCTV Surveillance
+CR-01041,Fraud,Banking fraud through phishing,2023-07-05,02:32,Sodala,Jaipur,Rajasthan,26.861314,75.79483,Low,Under Investigation,Online Portal
+CR-01042,Assault,Physical altercation near pub area,2023-10-24,11:36,Velachery,Chennai,Tamil Nadu,13.067678,80.155077,High,Pending,Citizen Report
+CR-01043,Other,Noise complaint at commercial area,2023-11-17,10:41,Porur,Chennai,Tamil Nadu,12.987422,80.203701,Low,Solved,CCTV Surveillance
+CR-01044,Burglary,Shop burglary with forced entry,2024-06-09,23:25,Tambaram,Chennai,Tamil Nadu,12.998718,80.258506,High,Solved,Police Station
+CR-01045,Burglary,Warehouse burglary overnight,2024-11-04,03:26,Indira Nagar,Lucknow,Uttar Pradesh,26.817711,80.960848,High,Under Investigation,CCTV Surveillance
+CR-01046,Theft,Laptop theft from parked vehicle,2023-02-11,18:48,Raja Park,Jaipur,Rajasthan,26.926145,75.846171,Low,Under Investigation,Citizen Report
+CR-01047,Fraud,Banking fraud through phishing,2022-12-05,14:00,Baner,Pune,Maharashtra,18.480061,73.82581,Medium,Under Investigation,Police Station
+CR-01048,Drug-related,Controlled substance found during patrol,2022-11-12,21:35,Aliganj,Lucknow,Uttar Pradesh,26.832396,80.946828,Medium,Solved,Citizen Report
+CR-01049,Fraud,Real estate fraud complaint,2024-08-07,22:15,Hadapsar,Pune,Maharashtra,18.464374,73.819275,High,Under Investigation,Citizen Report
+CR-01050,Robbery,Highway robbery of commercial vehicle,2024-03-17,17:04,Satellite,Ahmedabad,Gujarat,23.066988,72.647023,Low,Closed,Emergency Call
+CR-01051,Theft,Bicycle theft from residential area,2023-11-28,16:52,Secunderabad,Hyderabad,Telangana,17.419834,78.429636,Low,Under Investigation,Police Station
+CR-01052,Robbery,Robbery at petrol pump late night,2023-09-11,13:05,Hazratganj,Lucknow,Uttar Pradesh,26.871566,80.9396,Medium,Solved,Emergency Call
+CR-01053,Vandalism,Public property damaged,2023-01-03,05:25,Baner,Pune,Maharashtra,18.575135,73.869738,Low,Pending,Police Station
+CR-01054,Burglary,Shop burglary with forced entry,2023-10-16,04:36,Koramangala,Bengaluru,Karnataka,13.03726,77.502318,High,Pending,Emergency Call
+CR-01055,Theft,Purse snatching near market area,2023-06-14,23:40,Shivaji Nagar,Pune,Maharashtra,18.571069,73.936232,Medium,Closed,Police Station
+CR-01056,Burglary,Residential burglary while occupants away,2024-05-18,17:48,Jayanagar,Bengaluru,Karnataka,13.034944,77.530077,Medium,Closed,Online Portal
+CR-01057,Assault,Assault near public transport stop,2024-07-20,13:03,Raja Park,Jaipur,Rajasthan,26.826375,75.858863,Medium,Under Investigation,Emergency Call
+CR-01058,Fraud,Insurance claim fraud detected,2023-11-23,21:18,Shivaji Nagar,Pune,Maharashtra,18.45353,73.840085,Medium,Solved,Emergency Call
+CR-01059,Theft,Laptop theft from parked vehicle,2022-08-17,11:46,Nehru Place,Delhi,Delhi,28.721604,77.124588,Low,Under Investigation,Citizen Report
+CR-01060,Fraud,Credit card fraud reported,2023-12-09,14:44,Behala,Kolkata,West Bengal,22.633755,88.435537,Critical,Closed,Police Station
+CR-01061,Theft,Mobile phone stolen from crowded area,2023-10-31,11:02,Powai,Mumbai,Maharashtra,19.193053,72.895672,High,Solved,Emergency Call
+CR-01062,Other,Public nuisance reported,2024-03-31,00:11,Hinjewadi,Pune,Maharashtra,18.488529,73.897934,High,Closed,Online Portal
+CR-01063,Fraud,Insurance claim fraud detected,2023-06-19,09:39,Satellite,Ahmedabad,Gujarat,23.085424,72.574375,High,Solved,Citizen Report
+CR-01064,Fraud,Insurance claim fraud detected,2023-01-16,08:32,New Town,Kolkata,West Bengal,22.570925,88.436462,High,Solved,Police Station
+CR-01065,Vandalism,Graffiti on commercial building,2022-09-23,08:17,Viman Nagar,Pune,Maharashtra,18.568539,73.895228,Low,Under Investigation,Police Station
+CR-01066,Assault,Domestic dispute escalation reported,2023-08-13,23:45,CG Road,Ahmedabad,Gujarat,23.046064,72.592076,High,Solved,Emergency Call
+CR-01067,Vandalism,Park bench and fixtures destroyed,2023-10-17,11:52,Kukatpally,Hyderabad,Telangana,17.39239,78.498514,Low,Pending,Citizen Report
+CR-01068,Assault,Group clash at public event,2022-06-10,20:31,Rohini,Delhi,Delhi,28.60359,77.112265,Critical,Solved,Citizen Report
+CR-01069,Assault,Group clash at public event,2022-03-02,04:39,Porur,Chennai,Tamil Nadu,13.074853,80.234734,Medium,Closed,Online Portal
+CR-01070,Other,Trespassing on private property,2022-09-27,12:38,Kothrud,Pune,Maharashtra,18.468524,73.859362,Low,Under Investigation,Online Portal
+CR-01071,Theft,Purse snatching near market area,2024-04-16,11:48,Baner,Pune,Maharashtra,18.585069,73.841832,High,Pending,Online Portal
+CR-01072,Cybercrime,Phishing email leading to data loss,2024-10-10,14:18,Shivaji Nagar,Pune,Maharashtra,18.517418,73.938587,Low,Solved,Citizen Report
+CR-01073,Fraud,Banking fraud through phishing,2022-07-21,12:37,Whitefield,Bengaluru,Karnataka,13.094849,77.582059,High,Pending,CCTV Surveillance
+CR-01074,Assault,Physical altercation near pub area,2024-04-17,00:20,Bodakdev,Ahmedabad,Gujarat,23.016646,72.61255,High,Closed,CCTV Surveillance
+CR-01075,Burglary,Office break-in during weekend,2023-01-31,05:29,Malviya Nagar,Jaipur,Rajasthan,26.959944,75.748034,Critical,Closed,Emergency Call
+CR-01076,Vandalism,Park bench and fixtures destroyed,2022-03-05,06:36,Bandra,Mumbai,Maharashtra,18.973514,72.890487,Critical,Closed,CCTV Surveillance
+CR-01077,Cybercrime,Phishing email leading to data loss,2022-11-23,07:29,Begumpet,Hyderabad,Telangana,17.313968,78.499722,High,Solved,Citizen Report
+CR-01078,Cybercrime,Social media account hacked,2024-05-04,08:56,Malad,Mumbai,Maharashtra,18.936295,72.916489,High,Solved,Citizen Report
+CR-01079,Cybercrime,Online scam through fake website,2023-08-23,12:53,Lajpat Nagar,Delhi,Delhi,28.730628,77.159012,High,Solved,Police Station
+CR-01080,Cybercrime,Identity theft via data breach,2022-10-26,08:48,Dadar,Mumbai,Maharashtra,19.126073,72.816768,Low,Solved,Online Portal
+CR-01081,Burglary,Office break-in during weekend,2023-03-07,08:06,Mylapore,Chennai,Tamil Nadu,13.088743,80.218736,High,Closed,Emergency Call
+CR-01082,Theft,Mobile phone stolen from crowded area,2023-11-09,14:44,Adyar,Chennai,Tamil Nadu,13.00506,80.155362,Low,Solved,Emergency Call
+CR-01083,Robbery,ATM booth robbery attempt,2024-01-13,22:18,Navrangpura,Ahmedabad,Gujarat,23.071584,72.606764,Medium,Pending,Online Portal
+CR-01084,Fraud,Real estate fraud complaint,2023-08-22,12:16,HSR Layout,Bengaluru,Karnataka,12.905601,77.542332,Medium,Pending,CCTV Surveillance
+CR-01085,Drug-related,Anonymous tip about drug activity,2024-04-11,15:39,Raja Park,Jaipur,Rajasthan,26.975585,75.823016,High,Solved,Citizen Report
+CR-01086,Theft,Purse snatching near market area,2022-12-13,16:30,Adyar,Chennai,Tamil Nadu,13.129427,80.152135,High,Solved,Online Portal
+CR-01087,Fraud,Online shopping fraud reported,2023-07-24,19:49,MG Road,Bengaluru,Karnataka,12.923918,77.539388,Medium,Pending,Online Portal
+CR-01088,Theft,Jewelry theft from residence,2022-03-09,12:40,Jubilee Hills,Hyderabad,Telangana,17.365903,78.36344,Medium,Solved,Police Station
+CR-01089,Robbery,Robbery at petrol pump late night,2024-12-06,07:15,Velachery,Chennai,Tamil Nadu,13.097887,80.253455,High,Under Investigation,Police Station
+CR-01090,Theft,Jewelry theft from residence,2023-06-29,17:17,Maninagar,Ahmedabad,Gujarat,23.019001,72.633069,Low,Closed,Police Station
+CR-01091,Cybercrime,Social media account hacked,2023-04-12,07:37,Aliganj,Lucknow,Uttar Pradesh,26.84682,80.893758,High,Under Investigation,Citizen Report
+CR-01092,Robbery,Street robbery of pedestrian,2024-06-24,02:30,Worli,Mumbai,Maharashtra,19.062711,72.832249,High,Pending,Police Station
+CR-01093,Vandalism,Graffiti on commercial building,2023-02-03,18:51,Porur,Chennai,Tamil Nadu,13.101109,80.298836,Low,Solved,Online Portal
+CR-01094,Theft,Jewelry theft from residence,2024-11-04,15:32,Kukatpally,Hyderabad,Telangana,17.429056,78.40284,Medium,Solved,Citizen Report
+CR-01095,Robbery,Robbery at petrol pump late night,2023-01-09,15:00,Juhu,Mumbai,Maharashtra,19.192306,72.870576,Medium,Under Investigation,Police Station
+CR-01096,Assault,Assault near public transport stop,2023-12-03,20:43,Tambaram,Chennai,Tamil Nadu,12.986531,80.266819,High,Under Investigation,Emergency Call
+CR-01097,Robbery,Robbery at petrol pump late night,2024-08-24,03:43,Malviya Nagar,Jaipur,Rajasthan,26.917524,75.811361,Medium,Under Investigation,Online Portal
+CR-01098,Other,Trespassing on private property,2022-11-18,10:33,Paldi,Ahmedabad,Gujarat,23.065349,72.628875,Medium,Solved,Emergency Call
+CR-01099,Cybercrime,Online scam through fake website,2022-10-24,09:21,Banjara Hills,Hyderabad,Telangana,17.465846,78.413069,Medium,Pending,Citizen Report
+CR-01100,Cybercrime,Ransomware attack on business,2024-04-17,11:41,Dwarka,Delhi,Delhi,28.792496,77.280115,Low,Pending,Emergency Call
+CR-01101,Cybercrime,Phishing email leading to data loss,2022-02-18,10:27,Begumpet,Hyderabad,Telangana,17.365137,78.461994,Low,Under Investigation,Emergency Call
+CR-01102,Burglary,Break-in at locked residence,2022-06-02,07:10,Worli,Mumbai,Maharashtra,19.043905,72.90819,Medium,Closed,Citizen Report
+CR-01103,Burglary,Office break-in during weekend,2023-07-28,19:37,Aminabad,Lucknow,Uttar Pradesh,26.794202,80.969548,Medium,Solved,Citizen Report
+CR-01104,Cybercrime,Phishing email leading to data loss,2022-06-01,10:49,Whitefield,Bengaluru,Karnataka,13.064862,77.67479,Medium,Pending,Citizen Report
+CR-01105,Fraud,Online shopping fraud reported,2023-11-03,18:34,Mahanagar,Lucknow,Uttar Pradesh,26.816501,80.954344,Medium,Under Investigation,Emergency Call
+CR-01106,Burglary,Office break-in during weekend,2023-03-16,05:20,T Nagar,Chennai,Tamil Nadu,13.042161,80.199952,High,Pending,Online Portal
+CR-01107,Cybercrime,Identity theft via data breach,2024-04-21,13:25,Andheri,Mumbai,Maharashtra,19.139429,72.924751,Low,Closed,CCTV Surveillance
+CR-01108,Cybercrime,Social media account hacked,2022-03-07,16:55,Hinjewadi,Pune,Maharashtra,18.568521,73.873801,Medium,Pending,CCTV Surveillance
+CR-01109,Burglary,Warehouse burglary overnight,2024-12-25,05:51,Bandra,Mumbai,Maharashtra,19.155446,72.886089,Medium,Pending,Citizen Report
+CR-01110,Drug-related,Suspicious activity near school zone,2024-08-11,14:56,Behala,Kolkata,West Bengal,22.597787,88.397567,Low,Pending,CCTV Surveillance
+CR-01111,Theft,Laptop theft from parked vehicle,2022-02-13,12:36,Hadapsar,Pune,Maharashtra,18.543553,73.858492,Low,Solved,Online Portal
+CR-01112,Vandalism,Street light poles damaged,2023-10-31,17:29,Navrangpura,Ahmedabad,Gujarat,23.020033,72.632152,High,Closed,Online Portal
+CR-01113,Theft,Purse snatching near market area,2023-02-27,09:11,Whitefield,Bengaluru,Karnataka,13.006684,77.688899,Low,Under Investigation,Emergency Call
+CR-01114,Robbery,ATM booth robbery attempt,2023-04-17,21:13,Banjara Hills,Hyderabad,Telangana,17.332658,78.548201,Medium,Closed,Online Portal
+CR-01115,Assault,Domestic dispute escalation reported,2022-09-10,12:01,Adyar,Chennai,Tamil Nadu,13.098788,80.260987,Medium,Solved,Online Portal
+CR-01116,Burglary,Shop burglary with forced entry,2022-09-13,02:11,Shivaji Nagar,Pune,Maharashtra,18.536746,73.877474,Medium,Under Investigation,Emergency Call
+CR-01117,Cybercrime,Social media account hacked,2023-01-27,06:05,Baner,Pune,Maharashtra,18.503979,73.838293,Low,Solved,Citizen Report
+CR-01118,Other,Noise complaint at commercial area,2022-07-24,11:23,Baner,Pune,Maharashtra,18.57548,73.865122,High,Solved,Citizen Report
+CR-01119,Drug-related,Anonymous tip about drug activity,2023-07-17,23:41,Karol Bagh,Delhi,Delhi,28.513611,77.304224,Medium,Under Investigation,Online Portal
+CR-01120,Cybercrime,Ransomware attack on business,2022-03-21,01:38,Guindy,Chennai,Tamil Nadu,13.123269,80.249143,Medium,Solved,Online Portal
+CR-01121,Cybercrime,Social media account hacked,2024-11-28,04:47,Marathahalli,Bengaluru,Karnataka,13.033734,77.573014,Critical,Closed,Online Portal
+CR-01122,Drug-related,Controlled substance found during patrol,2024-04-06,20:23,Park Street,Kolkata,West Bengal,22.503036,88.348161,High,Solved,Online Portal
+CR-01123,Fraud,Banking fraud through phishing,2022-04-06,17:24,Hinjewadi,Pune,Maharashtra,18.558378,73.825461,Low,Solved,Citizen Report
+CR-01124,Other,Noise complaint at commercial area,2022-08-19,15:29,Juhu,Mumbai,Maharashtra,19.156842,72.880509,Low,Pending,Citizen Report
+CR-01125,Assault,Assault near public transport stop,2023-06-11,04:20,Adyar,Chennai,Tamil Nadu,13.023117,80.242041,High,Solved,Online Portal
+CR-01126,Drug-related,Anonymous tip about drug activity,2024-11-20,04:51,Aminabad,Lucknow,Uttar Pradesh,26.811577,80.891506,Low,Solved,Online Portal
+CR-01127,Assault,Assault near public transport stop,2023-05-29,05:46,Indira Nagar,Lucknow,Uttar Pradesh,26.826008,81.016354,High,Solved,Online Portal
+CR-01128,Theft,Mobile phone stolen from crowded area,2024-05-14,11:42,Secunderabad,Hyderabad,Telangana,17.447282,78.52015,Medium,Closed,Online Portal
+CR-01129,Cybercrime,Identity theft via data breach,2022-10-20,20:02,Saket,Delhi,Delhi,28.571349,77.169029,Low,Solved,CCTV Surveillance
+CR-01130,Fraud,Real estate fraud complaint,2024-07-14,06:29,Shivaji Nagar,Pune,Maharashtra,18.531882,73.817673,Medium,Closed,Online Portal
+CR-01131,Vandalism,Public property damaged,2023-11-30,15:49,Dum Dum,Kolkata,West Bengal,22.58265,88.400202,Low,Solved,Citizen Report
+CR-01132,Other,Trespassing on private property,2022-09-16,03:14,Dwarka,Delhi,Delhi,28.749023,77.086083,Medium,Under Investigation,Citizen Report
+CR-01133,Burglary,Warehouse burglary overnight,2022-06-19,16:11,Koregaon Park,Pune,Maharashtra,18.591187,73.949782,Medium,Closed,Online Portal
+CR-01134,Theft,Laptop theft from parked vehicle,2024-12-12,19:49,Gachibowli,Hyderabad,Telangana,17.471985,78.455009,High,Solved,Emergency Call
+CR-01135,Assault,Assault near public transport stop,2022-07-25,21:10,Electronic City,Bengaluru,Karnataka,13.071788,77.545251,Critical,Pending,Online Portal
+CR-01136,Burglary,Office break-in during weekend,2022-04-11,12:18,Park Street,Kolkata,West Bengal,22.55435,88.36319,Medium,Solved,Police Station
+CR-01137,Cybercrime,Online scam through fake website,2023-10-01,06:59,Howrah,Kolkata,West Bengal,22.568797,88.310022,High,Under Investigation,Online Portal
+CR-01138,Burglary,Office break-in during weekend,2022-11-23,20:26,Kothrud,Pune,Maharashtra,18.479006,73.925149,Low,Closed,Citizen Report
+CR-01139,Theft,Jewelry theft from residence,2022-11-07,06:28,Bandra,Mumbai,Maharashtra,18.982641,72.84912,Medium,Solved,CCTV Surveillance
+CR-01140,Robbery,ATM booth robbery attempt,2023-04-21,21:28,Tambaram,Chennai,Tamil Nadu,12.974973,80.261437,High,Under Investigation,Police Station
+CR-01141,Burglary,Office break-in during weekend,2023-06-08,03:40,Viman Nagar,Pune,Maharashtra,18.537747,73.931436,High,Closed,CCTV Surveillance
+CR-01142,Other,Public nuisance reported,2022-07-01,23:38,Worli,Mumbai,Maharashtra,19.159526,72.836194,High,Solved,Police Station
+CR-01143,Robbery,ATM booth robbery attempt,2023-07-28,23:46,Bandra,Mumbai,Maharashtra,18.975501,72.876174,High,Closed,Police Station
+CR-01144,Vandalism,Park bench and fixtures destroyed,2024-09-21,07:37,Worli,Mumbai,Maharashtra,19.077325,72.899844,Low,Closed,CCTV Surveillance
+CR-01145,Theft,Laptop theft from parked vehicle,2024-02-23,01:38,Raja Park,Jaipur,Rajasthan,26.954113,75.822828,Low,Under Investigation,CCTV Surveillance
+CR-01146,Fraud,Credit card fraud reported,2024-05-13,12:45,CG Road,Ahmedabad,Gujarat,23.03473,72.628814,High,Pending,Citizen Report
+CR-01147,Theft,Mobile phone stolen from crowded area,2022-02-22,06:36,Aundh,Pune,Maharashtra,18.544578,73.849344,Low,Solved,Emergency Call
+CR-01148,Robbery,Highway robbery of commercial vehicle,2023-12-06,11:15,Secunderabad,Hyderabad,Telangana,17.456742,78.414902,High,Pending,CCTV Surveillance
+CR-01149,Fraud,Real estate fraud complaint,2023-10-22,23:25,Mansarovar,Jaipur,Rajasthan,26.944955,75.747529,Medium,Under Investigation,Emergency Call
+CR-01150,Assault,Group clash at public event,2022-07-27,23:05,Behala,Kolkata,West Bengal,22.512585,88.374579,Low,Solved,Emergency Call
+CR-01151,Theft,Jewelry theft from residence,2024-06-15,11:48,Kukatpally,Hyderabad,Telangana,17.333709,78.353185,Low,Solved,CCTV Surveillance
+CR-01152,Fraud,Insurance claim fraud detected,2022-12-31,12:39,C-Scheme,Jaipur,Rajasthan,26.851779,75.734487,Medium,Closed,Online Portal
+CR-01153,Theft,Purse snatching near market area,2024-12-27,11:25,Jubilee Hills,Hyderabad,Telangana,17.377048,78.519002,Medium,Closed,Emergency Call
+CR-01154,Burglary,Warehouse burglary overnight,2024-06-25,01:15,Aliganj,Lucknow,Uttar Pradesh,26.873453,80.91833,Medium,Closed,Online Portal
+CR-01155,Robbery,Street robbery of pedestrian,2023-03-19,04:00,Adyar,Chennai,Tamil Nadu,13.142918,80.27863,High,Solved,Citizen Report
+CR-01156,Vandalism,Graffiti on commercial building,2024-11-28,18:25,Jayanagar,Bengaluru,Karnataka,13.077721,77.695826,Medium,Pending,Citizen Report
+CR-01157,Fraud,Banking fraud through phishing,2024-01-17,07:20,Gachibowli,Hyderabad,Telangana,17.315408,78.48864,Medium,Closed,Police Station
+CR-01158,Theft,Jewelry theft from residence,2024-09-01,17:20,Mansarovar,Jaipur,Rajasthan,26.952207,75.756452,Low,Pending,Citizen Report
+CR-01159,Assault,Domestic dispute escalation reported,2022-04-19,14:39,Park Street,Kolkata,West Bengal,22.568213,88.309699,Critical,Under Investigation,Emergency Call
+CR-01160,Burglary,Break-in at locked residence,2022-10-30,02:43,Porur,Chennai,Tamil Nadu,13.140947,80.191414,Medium,Closed,Citizen Report
+CR-01161,Vandalism,Street light poles damaged,2024-03-22,06:42,Electronic City,Bengaluru,Karnataka,13.007679,77.634934,Low,Pending,Online Portal
+CR-01162,Theft,Mobile phone stolen from crowded area,2023-10-07,00:39,Tonk Road,Jaipur,Rajasthan,26.940715,75.813992,High,Under Investigation,Online Portal
+CR-01163,Fraud,Online shopping fraud reported,2023-05-25,19:49,Mahanagar,Lucknow,Uttar Pradesh,26.805108,80.905373,High,Solved,Police Station
+CR-01164,Other,Trespassing on private property,2024-04-06,18:44,Dadar,Mumbai,Maharashtra,19.016235,72.861136,Medium,Under Investigation,Police Station
+CR-01165,Burglary,Office break-in during weekend,2023-12-29,05:45,Salt Lake,Kolkata,West Bengal,22.500403,88.31361,Medium,Under Investigation,Emergency Call
+CR-01166,Theft,Laptop theft from parked vehicle,2022-07-12,16:16,T Nagar,Chennai,Tamil Nadu,13.071232,80.297302,Low,Solved,CCTV Surveillance
+CR-01167,Burglary,Warehouse burglary overnight,2022-01-10,10:24,Saket,Delhi,Delhi,28.740011,77.220424,Medium,Under Investigation,CCTV Surveillance
+CR-01168,Other,Illegal parking dispute,2023-01-08,17:13,Porur,Chennai,Tamil Nadu,12.969393,80.252477,Low,Solved,Online Portal
+CR-01169,Fraud,Real estate fraud complaint,2022-11-01,14:01,C-Scheme,Jaipur,Rajasthan,26.969647,75.862117,High,Under Investigation,Police Station
+CR-01170,Theft,Purse snatching near market area,2023-01-05,18:33,Begumpet,Hyderabad,Telangana,17.319944,78.388632,Low,Pending,CCTV Surveillance
+CR-01171,Assault,Assault during traffic dispute,2024-07-06,03:42,Baner,Pune,Maharashtra,18.500752,73.854854,Medium,Closed,Police Station
+CR-01172,Cybercrime,Social media account hacked,2022-05-01,15:51,Madhapur,Hyderabad,Telangana,17.431932,78.500922,Medium,Closed,CCTV Surveillance
+CR-01173,Fraud,Real estate fraud complaint,2024-12-25,16:25,Bodakdev,Ahmedabad,Gujarat,23.06432,72.578256,Low,Closed,Citizen Report
+CR-01174,Theft,Purse snatching near market area,2024-02-12,02:31,Koregaon Park,Pune,Maharashtra,18.465648,73.884188,Medium,Solved,CCTV Surveillance
+CR-01175,Drug-related,Illegal substance possession,2023-01-21,02:19,Connaught Place,Delhi,Delhi,28.724355,77.221382,Medium,Solved,Police Station
+CR-01176,Other,Suspicious activity reported,2024-02-28,06:22,Howrah,Kolkata,West Bengal,22.460487,88.423809,High,Pending,CCTV Surveillance
+CR-01177,Vandalism,Park bench and fixtures destroyed,2022-04-02,06:06,Secunderabad,Hyderabad,Telangana,17.337141,78.394313,Low,Pending,CCTV Surveillance
+CR-01178,Burglary,Office break-in during weekend,2022-02-01,01:59,Navrangpura,Ahmedabad,Gujarat,23.090032,72.561633,Medium,Closed,Citizen Report
+CR-01179,Theft,Jewelry theft from residence,2024-02-01,12:02,Indira Nagar,Lucknow,Uttar Pradesh,26.863825,80.967047,Low,Closed,Online Portal
+CR-01180,Burglary,Shop burglary with forced entry,2024-04-18,22:00,Esplanade,Kolkata,West Bengal,22.532728,88.341713,Critical,Closed,CCTV Surveillance
+CR-01181,Fraud,Banking fraud through phishing,2024-03-20,01:44,Nehru Place,Delhi,Delhi,28.538666,77.25685,Low,Under Investigation,Police Station
+CR-01182,Robbery,ATM booth robbery attempt,2023-11-02,05:47,Jayanagar,Bengaluru,Karnataka,13.036181,77.686124,Medium,Solved,Police Station
+CR-01183,Fraud,Online shopping fraud reported,2024-03-19,06:05,Bandra,Mumbai,Maharashtra,19.04939,72.819067,Critical,Solved,Online Portal
+CR-01184,Fraud,Banking fraud through phishing,2024-03-05,05:05,Nehru Place,Delhi,Delhi,28.741923,77.122526,High,Solved,CCTV Surveillance
+CR-01185,Theft,Purse snatching near market area,2024-10-28,06:49,Karol Bagh,Delhi,Delhi,28.595376,77.22064,High,Solved,Emergency Call
+CR-01186,Burglary,Warehouse burglary overnight,2023-02-15,20:03,Mylapore,Chennai,Tamil Nadu,12.98062,80.193771,Low,Under Investigation,Citizen Report
+CR-01187,Robbery,Armed robbery at convenience store,2024-06-21,02:53,Chandni Chowk,Delhi,Delhi,28.658567,77.217056,Medium,Closed,Police Station
+CR-01188,Vandalism,Public property damaged,2024-11-26,17:01,Viman Nagar,Pune,Maharashtra,18.475487,73.93992,Low,Under Investigation,Police Station
+CR-01189,Cybercrime,Phishing email leading to data loss,2022-01-08,18:03,Hinjewadi,Pune,Maharashtra,18.565304,73.817946,Low,Pending,Police Station
+CR-01190,Fraud,Real estate fraud complaint,2024-03-01,09:43,Porur,Chennai,Tamil Nadu,13.039934,80.26221,High,Pending,Citizen Report
+CR-01191,Burglary,Office break-in during weekend,2024-07-19,17:56,Indiranagar,Bengaluru,Karnataka,12.928881,77.627419,Medium,Closed,Emergency Call
+CR-01192,Theft,Laptop theft from parked vehicle,2024-06-03,09:09,Rohini,Delhi,Delhi,28.623111,77.313942,High,Closed,Online Portal
+CR-01193,Fraud,Insurance claim fraud detected,2024-05-12,13:29,Kothrud,Pune,Maharashtra,18.516584,73.858266,Medium,Solved,CCTV Surveillance
+CR-01194,Theft,Bicycle theft from residential area,2023-05-19,06:45,Charbagh,Lucknow,Uttar Pradesh,26.807244,81.002305,Medium,Pending,Emergency Call
+CR-01195,Assault,Assault near public transport stop,2023-03-14,12:09,Gariahat,Kolkata,West Bengal,22.558566,88.367848,Critical,Closed,Police Station
+CR-01196,Drug-related,Illegal substance possession,2023-03-21,10:35,Aliganj,Lucknow,Uttar Pradesh,26.872351,81.011197,Medium,Closed,Citizen Report
+CR-01197,Fraud,Banking fraud through phishing,2022-12-19,08:47,Bodakdev,Ahmedabad,Gujarat,23.076924,72.614124,Medium,Closed,Emergency Call
+CR-01198,Fraud,Online shopping fraud reported,2023-05-19,23:08,Anna Nagar,Chennai,Tamil Nadu,13.047337,80.241554,High,Solved,Police Station
+CR-01199,Drug-related,Drug distribution network reported,2022-02-13,00:58,Dadar,Mumbai,Maharashtra,18.915826,72.92789,Medium,Closed,Online Portal
+CR-01200,Other,Trespassing on private property,2022-05-16,11:39,Esplanade,Kolkata,West Bengal,22.56669,88.424238,Low,Pending,Police Station

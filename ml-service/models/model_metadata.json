@@ -1,0 +1,24 @@
+{
+    "version": "1.0",
+    "algorithm": "Logistic Regression",
+    "accuracy": 0.2125,
+    "features": [
+        "month",
+        "day_of_week",
+        "hour",
+        "city",
+        "severity"
+    ],
+    "crime_types": [
+        "Assault",
+        "Burglary",
+        "Cybercrime",
+        "Drug-related",
+        "Fraud",
+        "Other",
+        "Robbery",
+        "Theft",
+        "Vandalism"
+    ],
+    "trained_at": "2026-09-24T02:28:43.918074"
+}
