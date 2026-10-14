@@ -1,0 +1,11 @@
+{
+  "name": "crime-prediction-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "seed": "npm run --prefix server seed",
+    "server": "npm run --prefix server dev",
+    "client": "npm run --prefix client dev",
+    "ml": "python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload --app-dir ml-service"
+  }
+}

@@ -25,7 +25,8 @@ export const getCrimes = async (req, res, next) => {
     if (req.query.city) query.city = req.query.city;
     if (req.query.state) query.state = req.query.state;
     if (req.query.severity) query.severity = req.query.severity;
-    if (req.query.caseStatus) query.caseStatus = req.query.caseStatus;
+    const status = req.query.caseStatus || req.query.status;
+    if (status) query.caseStatus = status;
 
     if (req.query.startDate && req.query.endDate) {
       query.date = {

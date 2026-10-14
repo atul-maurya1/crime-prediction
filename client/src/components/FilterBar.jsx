@@ -49,8 +49,8 @@ const FilterBar = ({ filters, setFilters }) => {
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Status</label>
           <select
-            name="status"
-            value={filters.status || ''}
+            name="caseStatus"
+            value={filters.caseStatus || ''}
             onChange={handleChange}
             className="w-full border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm border p-2"
           >
